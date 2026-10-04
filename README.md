@@ -51,7 +51,7 @@
 
 **下载**
 
-[![DOWNLOAD](assets/download.svg)](https://github.com/Yunxei/jingxia/releases/download/timeuntil-v4.9/TimeUntil-4.9.zip)
+**TimeUntil 4.9** [![DOWNLOAD](assets/download.svg)](https://github.com/Yunxei/jingxia/releases/download/timeuntil-v4.9/TimeUntil-4.9.zip)
 
 需要前置插件：
 
@@ -76,6 +76,6 @@
 
 **下载**
 
-[![DOWNLOAD](assets/download.svg)](https://github.com/Yunxei/jingxia/releases/download/globals/globals.zip)
+**globals** [![DOWNLOAD](assets/download.svg)](https://github.com/Yunxei/jingxia/releases/download/globals/globals.zip)
 
 </details>
