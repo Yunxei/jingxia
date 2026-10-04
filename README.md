@@ -41,11 +41,11 @@
 - 主界面显示 / 隐藏
 - 配置与界面状态保存
 
-<img width="198" height="312" alt="活动时间助手预览1" src="https://github.com/user-attachments/assets/8016ff07-c841-4f87-9c5a-e8a5ba173e84" />
-
-<img width="398" height="452" alt="活动时间助手预览2" src="https://github.com/user-attachments/assets/e1152bcb-71c2-4c35-bb2b-b6eb0f44c774" />
-
-<img width="466" height="698" alt="活动时间助手预览3" src="https://github.com/user-attachments/assets/b813b0c1-d967-4cee-8962-09bd14cd8e6f" />
+<p>
+  <a href="https://github.com/user-attachments/assets/8016ff07-c841-4f87-9c5a-e8a5ba173e84"><img width="31%" alt="活动时间助手预览1" src="https://github.com/user-attachments/assets/8016ff07-c841-4f87-9c5a-e8a5ba173e84" /></a>
+  <a href="https://github.com/user-attachments/assets/e1152bcb-71c2-4c35-bb2b-b6eb0f44c774"><img width="31%" alt="活动时间助手预览2" src="https://github.com/user-attachments/assets/e1152bcb-71c2-4c35-bb2b-b6eb0f44c774" /></a>
+  <a href="https://github.com/user-attachments/assets/b813b0c1-d967-4cee-8962-09bd14cd8e6f"><img width="31%" alt="活动时间助手预览3" src="https://github.com/user-attachments/assets/b813b0c1-d967-4cee-8962-09bd14cd8e6f" /></a>
+</p>
 
 
 
