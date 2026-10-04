@@ -197,6 +197,7 @@ X 不是固定盘符，它代表你电脑上“文档”文件夹所在的盘。
 
 - ESC 菜单快捷重载入口
 - 10 秒重复操作冷却
+- 防崩溃
 
 <p>
   <a href="assets/screenshots/ReloadButton/preview-01.png?raw=true"><img width="31%" alt="ReloadButton 预览 1" src="assets/screenshots/ReloadButton/preview-01.png" /></a>
@@ -263,12 +264,12 @@ X 不是固定盘符，它代表你电脑上“文档”文件夹所在的盘。
 
 <picture><img src="https://raw.githubusercontent.com/Yunxei/jingxia/main/assets/detail-info.svg" width="18" height="18" alt="" /></picture> **插件说明**
 
-用于保存和切换装备套装、称号及相关快捷设置。
+用于保存和切换装备套装与称号及相关快捷设置。
 
 <picture><img src="https://raw.githubusercontent.com/Yunxei/jingxia/main/assets/detail-features.svg" width="18" height="18" alt="" /></picture> **主要功能**
 
-- 装备套装保存与切换
-- 称号与热键设置
+- 装备套装与称号保存与切换
+- 热键设置
 - 套装图标与界面设置
 - 用户套装配置保存
 
@@ -308,7 +309,10 @@ X 不是固定盘符，它代表你电脑上“文档”文件夹所在的盘。
 - 目标信息、装备评分与距离显示
 - 重要状态屏幕提示
 - 大施法条显示与设置
+- 进团自动设置职责
+- 所有功能均可自由改变位置与开关
 - 追踪清单管理与配置保存
+
 
 <p>
   <a href="assets/screenshots/Panoptes/preview-01.png?raw=true"><img width="31%" alt="Panoptes 预览 1" src="assets/screenshots/Panoptes/preview-01.png" /></a>
