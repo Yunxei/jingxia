@@ -67,6 +67,7 @@ X 不是固定盘符，它代表你电脑上“文档”文件夹所在的盘。
 
 - 地区和平 / 纷争 / 战争时间显示
 - 游戏活动时间与倒计时
+- 部分活动的任务完成进度显示
 - 自定义显示内容
 - 活动显示数量设置
 - 主界面显示 / 隐藏
@@ -114,9 +115,10 @@ X 不是固定盘符，它代表你电脑上“文档”文件夹所在的盘。
 - 自身与目标状态追踪、剩余时间及层数显示
 - 悬浮面板与头顶标记
 - 目标信息、装备评分与距离显示
-- 重要状态屏幕提示
+- 重要状态屏幕提示，以及自身 / 目标被扒皮等级提示
+- 自身装备图标显示
 - 大施法条显示与设置
-- 进团自动设置职责
+- 进团时按职业自动设置团队职责
 - 所有功能均可自由改变位置与开关
 - 追踪清单管理与配置保存
 
@@ -166,6 +168,7 @@ X 不是固定盘符，它代表你电脑上“文档”文件夹所在的盘。
 <picture><img src="https://raw.githubusercontent.com/Yunxei/jingxia/main/assets/detail-features.svg" width="18" height="18" alt="" /></picture> **主要功能**
 
 - 地区贸易货率显示
+- 结合货率和经商熟练度估算货物售价，实际以交易所价格为准
 - 贸易路线管理
 - 卷轴与锁车提醒
 - 界面缩放、位置和配置保存
@@ -205,7 +208,7 @@ X 不是固定盘符，它代表你电脑上“文档”文件夹所在的盘。
 
 <picture><img src="https://raw.githubusercontent.com/Yunxei/jingxia/main/assets/detail-features.svg" width="18" height="18" alt="" /></picture> **主要功能**
 
-- 载具速度显示
+- 载具行驶速度、转向速度与左右方向显示
 - 显示 / 隐藏与位置调整
 - 字号、文字颜色和描边设置
 - 配置与位置保存
@@ -281,8 +284,9 @@ X 不是固定盘符，它代表你电脑上“文档”文件夹所在的盘。
 
 <picture><img src="https://raw.githubusercontent.com/Yunxei/jingxia/main/assets/detail-features.svg" width="18" height="18" alt="" /></picture> **主要功能**
 
-- 背包与仓库整理
-- 物品保护与快捷键设置
+- 将背包中符合条件的物品转存到仓库或箱子
+- 物品保护清单与保留数量设置
+- 整理快捷键设置
 - 拍卖收藏
 - 配置保存
 
@@ -322,6 +326,8 @@ X 不是固定盘符，它代表你电脑上“文档”文件夹所在的盘。
 <picture><img src="https://raw.githubusercontent.com/Yunxei/jingxia/main/assets/detail-features.svg" width="18" height="18" alt="" /></picture> **主要功能**
 
 - 装备套装与称号保存与切换
+- 根据装备属性与签名匹配待换装备
+- 专业时装提醒
 - 热键设置
 - 套装图标与界面设置
 - 用户套装配置保存
