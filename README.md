@@ -13,7 +13,7 @@
 
 | 插件 | 当前版本 | 简介 | 下载 |
 | --- | --- | --- | --- |
-| [TimeUntil](#timeuntil) | 4.9 | 活动/地区时间 | [⬇️ 下载](https://github.com/Yunxei/jingxia/releases/download/timeuntil-v4.9/TimeUntil-4.9.zip) |
+| [TimeUntil](#timeuntil) | 4.9 | 活动/地区时间 | [`TimeUntil 4.9`](https://github.com/Yunxei/jingxia/releases/download/timeuntil-v4.9/TimeUntil-4.9.zip) |
 | Panoptes | — | 玩家状态追踪 | 尚未发布 |
 | packratio | — | 显示地区货率 | 尚未发布 |
 | speedometer | — | 载具速度显示 | 尚未发布 |
@@ -51,11 +51,11 @@
 
 **下载**
 
-[⬇️ 下载 TimeUntil 4.9](https://github.com/Yunxei/jingxia/releases/download/timeuntil-v4.9/TimeUntil-4.9.zip)
+[`TimeUntil 4.9`](https://github.com/Yunxei/jingxia/releases/download/timeuntil-v4.9/TimeUntil-4.9.zip)
 
 需要前置插件：
 
-[⬇️ 下载 globals](https://github.com/Yunxei/jingxia/releases/download/globals/globals.zip)
+[`globals`](https://github.com/Yunxei/jingxia/releases/download/globals/globals.zip)
 
 第一次安装需要同时安装 globals；已经安装过则无需重复安装。
 
@@ -76,6 +76,6 @@
 
 **下载**
 
-[⬇️ 下载 globals](https://github.com/Yunxei/jingxia/releases/download/globals/globals.zip)
+[`globals`](https://github.com/Yunxei/jingxia/releases/download/globals/globals.zip)
 
 </details>
