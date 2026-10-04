@@ -12,7 +12,6 @@
 | [combatcloset](#user-content-combatcloset) | 2.4 | 2026-10-04 | 装备与称号一键切换 | [![DOWNLOAD](assets/download.svg)](https://github.com/Yunxei/jingxia/releases/download/combatcloset-v2.4/combatcloset-2.4.zip) | — |
 <br>
 
-> 更新时间为当前正式版本的发布日期，不是 README 修改时间。  
 > 点击下方插件详情标题展开详细说明。
 
 <br>
