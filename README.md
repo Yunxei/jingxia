@@ -5,11 +5,11 @@
 | [globals](#user-content-globals) | — | — | 前置插件 | [![DOWNLOAD](assets/download.svg)](https://github.com/Yunxei/jingxia/releases/download/globals/globals.zip) | — |
 | [TimeUntil](#user-content-timeuntil) | 4.9 | 2026-10-04 | 活动/地区时间 | [![DOWNLOAD](assets/download.svg)](https://github.com/Yunxei/jingxia/releases/download/timeuntil-v4.9/TimeUntil-4.9.zip) | globals |
 | Panoptes | — | — | 玩家状态追踪 | 尚未发布 | globals |
-| packratio | — | — | 显示地区货率 | 尚未发布 | — |
-| speedometer | — | — | 载具速度显示 | 尚未发布 | globals |
-| ReloadButton | — | — | 快速重载插件 | 尚未发布 | — |
-| Nyxaria | — | — | 背包整理 | 尚未发布 | — |
-| combatcloset | — | — | 装备与称号一键切换 | 尚未发布 | — |
+| [packratio](#user-content-packratio) | 2.7 | 2026-10-04 | 显示地区货率 | [![DOWNLOAD](assets/download.svg)](https://github.com/Yunxei/jingxia/releases/download/packratio-v2.7/packratio-2.7.zip) | — |
+| [speedometer](#user-content-speedometer) | 2.0 | 2026-10-04 | 载具速度显示 | [![DOWNLOAD](assets/download.svg)](https://github.com/Yunxei/jingxia/releases/download/speedometer-v2.0/speedometer-2.0.zip) | globals |
+| [ReloadButton](#user-content-reloadbutton) | 1.0 | 2026-10-04 | 快速重载插件 | [![DOWNLOAD](assets/download.svg)](https://github.com/Yunxei/jingxia/releases/download/reloadbutton-v1.0/ReloadButton-1.0.zip) | — |
+| [Nyxaria](#user-content-nyxaria) | 2.0 | 2026-10-04 | 背包整理 | [![DOWNLOAD](assets/download.svg)](https://github.com/Yunxei/jingxia/releases/download/nyxaria-v2.0/Nyxaria-2.0.zip) | — |
+| [combatcloset](#user-content-combatcloset) | 2.4 | 2026-10-04 | 装备与称号一键切换 | [![DOWNLOAD](assets/download.svg)](https://github.com/Yunxei/jingxia/releases/download/combatcloset-v2.4/combatcloset-2.4.zip) | — |
 <br>
 
 > 更新时间为当前正式版本的发布日期，不是 README 修改时间。  
@@ -98,5 +98,161 @@ X 不是固定盘符，它代表你电脑上“文档”文件夹所在的盘。
 **globals** 
 
 [![DOWNLOAD](assets/download.svg)](https://github.com/Yunxei/jingxia/releases/download/globals/globals.zip)
+
+</details>
+
+<details>
+<summary> speedometer 2.0 ｜ 载具速度显示</summary>
+
+<a id="speedometer"></a>
+
+<picture><img src="https://raw.githubusercontent.com/Yunxei/jingxia/main/assets/detail-info.svg" width="18" height="18" alt="" /></picture> **插件说明**
+
+用于显示载具速度，并调整速度显示的位置与样式。
+
+<picture><img src="https://raw.githubusercontent.com/Yunxei/jingxia/main/assets/detail-features.svg" width="18" height="18" alt="" /></picture> **主要功能**
+
+- 载具速度显示
+- 显示 / 隐藏与位置调整
+- 字号、文字颜色和描边设置
+- 配置与位置保存
+
+<picture><img src="https://raw.githubusercontent.com/Yunxei/jingxia/main/assets/detail-download.svg" width="18" height="18" alt="" /></picture> **下载**
+
+**speedometer 2.0**
+
+[![DOWNLOAD](assets/download.svg)](https://github.com/Yunxei/jingxia/releases/download/speedometer-v2.0/speedometer-2.0.zip)
+
+<picture><img src="https://raw.githubusercontent.com/Yunxei/jingxia/main/assets/detail-dependency.svg" width="18" height="18" alt="" /></picture> **前置插件**
+
+需要前置插件：globals。
+
+[![DOWNLOAD](assets/download.svg)](https://github.com/Yunxei/jingxia/releases/download/globals/globals.zip)
+
+第一次安装需要同时安装 globals；已经安装过则无需重复安装。
+
+<picture><img src="https://raw.githubusercontent.com/Yunxei/jingxia/main/assets/detail-history.svg" width="18" height="18" alt="" /></picture> **更新记录**
+
+`2.0`
+
+当前正式发布版本。
+
+</details>
+
+<details>
+<summary> packratio 2.7 ｜ 显示地区货率</summary>
+
+<a id="packratio"></a>
+
+<picture><img src="https://raw.githubusercontent.com/Yunxei/jingxia/main/assets/detail-info.svg" width="18" height="18" alt="" /></picture> **插件说明**
+
+用于查看地区贸易货率，管理贸易路线和相关提醒。
+
+<picture><img src="https://raw.githubusercontent.com/Yunxei/jingxia/main/assets/detail-features.svg" width="18" height="18" alt="" /></picture> **主要功能**
+
+- 地区贸易货率显示
+- 贸易路线管理
+- 卷轴与锁车提醒
+- 界面缩放、位置和配置保存
+
+<picture><img src="https://raw.githubusercontent.com/Yunxei/jingxia/main/assets/detail-download.svg" width="18" height="18" alt="" /></picture> **下载**
+
+**packratio 2.7**
+
+[![DOWNLOAD](assets/download.svg)](https://github.com/Yunxei/jingxia/releases/download/packratio-v2.7/packratio-2.7.zip)
+
+<picture><img src="https://raw.githubusercontent.com/Yunxei/jingxia/main/assets/detail-history.svg" width="18" height="18" alt="" /></picture> **更新记录**
+
+`2.7`
+
+当前正式发布版本。
+
+</details>
+
+<details>
+<summary> ReloadButton 1.0 ｜ 快速重载插件</summary>
+
+<a id="reloadbutton"></a>
+
+<picture><img src="https://raw.githubusercontent.com/Yunxei/jingxia/main/assets/detail-info.svg" width="18" height="18" alt="" /></picture> **插件说明**
+
+在 ESC 菜单中提供重新加载插件的快捷入口。
+
+<picture><img src="https://raw.githubusercontent.com/Yunxei/jingxia/main/assets/detail-features.svg" width="18" height="18" alt="" /></picture> **主要功能**
+
+- ESC 菜单快捷重载入口
+- 10 秒重复操作冷却
+
+<picture><img src="https://raw.githubusercontent.com/Yunxei/jingxia/main/assets/detail-download.svg" width="18" height="18" alt="" /></picture> **下载**
+
+**ReloadButton 1.0**
+
+[![DOWNLOAD](assets/download.svg)](https://github.com/Yunxei/jingxia/releases/download/reloadbutton-v1.0/ReloadButton-1.0.zip)
+
+<picture><img src="https://raw.githubusercontent.com/Yunxei/jingxia/main/assets/detail-history.svg" width="18" height="18" alt="" /></picture> **更新记录**
+
+`1.0`
+
+当前正式发布版本。
+
+</details>
+
+<details>
+<summary> Nyxaria 2.0 ｜ 背包整理</summary>
+
+<a id="nyxaria"></a>
+
+<picture><img src="https://raw.githubusercontent.com/Yunxei/jingxia/main/assets/detail-info.svg" width="18" height="18" alt="" /></picture> **插件说明**
+
+用于辅助背包与仓库整理，并提供物品保护及拍卖收藏功能。
+
+<picture><img src="https://raw.githubusercontent.com/Yunxei/jingxia/main/assets/detail-features.svg" width="18" height="18" alt="" /></picture> **主要功能**
+
+- 背包与仓库整理
+- 物品保护与快捷键设置
+- 拍卖收藏
+- 配置保存
+
+<picture><img src="https://raw.githubusercontent.com/Yunxei/jingxia/main/assets/detail-download.svg" width="18" height="18" alt="" /></picture> **下载**
+
+**Nyxaria 2.0**
+
+[![DOWNLOAD](assets/download.svg)](https://github.com/Yunxei/jingxia/releases/download/nyxaria-v2.0/Nyxaria-2.0.zip)
+
+<picture><img src="https://raw.githubusercontent.com/Yunxei/jingxia/main/assets/detail-history.svg" width="18" height="18" alt="" /></picture> **更新记录**
+
+`2.0`
+
+当前正式发布版本。
+
+</details>
+
+<details>
+<summary> combatcloset 2.4 ｜ 装备与称号一键切换</summary>
+
+<a id="combatcloset"></a>
+
+<picture><img src="https://raw.githubusercontent.com/Yunxei/jingxia/main/assets/detail-info.svg" width="18" height="18" alt="" /></picture> **插件说明**
+
+用于保存和切换装备套装、称号及相关快捷设置。
+
+<picture><img src="https://raw.githubusercontent.com/Yunxei/jingxia/main/assets/detail-features.svg" width="18" height="18" alt="" /></picture> **主要功能**
+
+- 装备套装保存与切换
+- 称号与热键设置
+- 套装图标与界面设置
+- 用户套装配置保存
+
+<picture><img src="https://raw.githubusercontent.com/Yunxei/jingxia/main/assets/detail-download.svg" width="18" height="18" alt="" /></picture> **下载**
+
+**combatcloset 2.4**
+
+[![DOWNLOAD](assets/download.svg)](https://github.com/Yunxei/jingxia/releases/download/combatcloset-v2.4/combatcloset-2.4.zip)
+
+<picture><img src="https://raw.githubusercontent.com/Yunxei/jingxia/main/assets/detail-history.svg" width="18" height="18" alt="" /></picture> **更新记录**
+
+`2.4`
+
+当前正式发布版本。
 
 </details>
