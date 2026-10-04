@@ -29,10 +29,10 @@
 
 更新时间为当前正式版本的发布日期，不是 README 修改时间。点击下方插件详情标题展开详细说明。
 
+<a id="timeuntil"></a>
+
 <details>
 <summary> TimeUntil 4.9 ｜ 活动时间助手</summary>
-
-<a id="timeuntil"></a>
 
 **插件说明**
 
@@ -75,10 +75,10 @@
 
 </details>
 
+<a id="globals"></a>
+
 <details>
 <summary> globals ｜ 前置插件</summary>
-
-<a id="globals"></a>
 
 - globals 是部分插件运行所需的前置插件
 - 当前已确认 TimeUntil、Panoptes、speedometer 使用 globals
