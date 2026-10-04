@@ -43,11 +43,11 @@ X 不是固定盘符，它代表你电脑上“文档”文件夹所在的盘。
 
 <a id="timeuntil"></a>
 
-<img src="assets/detail-info.svg" width="18" height="18" alt="" /> **插件说明**
+<picture><img src="https://raw.githubusercontent.com/Yunxei/jingxia/main/assets/detail-info.svg" width="18" height="18" alt="" /></picture> **插件说明**
 
 用于查看地区状态、活动时间以及相关倒计时。
 
-<img src="assets/detail-features.svg" width="18" height="18" alt="" /> **主要功能**
+<picture><img src="https://raw.githubusercontent.com/Yunxei/jingxia/main/assets/detail-features.svg" width="18" height="18" alt="" /></picture> **主要功能**
 
 - 地区和平 / 纷争 / 战争时间显示
 - 游戏活动时间与倒计时
@@ -64,19 +64,19 @@ X 不是固定盘符，它代表你电脑上“文档”文件夹所在的盘。
 
 
 
-<img src="assets/detail-download.svg" width="18" height="18" alt="" /> **下载**
+<picture><img src="https://raw.githubusercontent.com/Yunxei/jingxia/main/assets/detail-download.svg" width="18" height="18" alt="" /></picture> **下载**
 
 **TimeUntil 4.9** 
 
 [![DOWNLOAD](assets/download.svg)](https://github.com/Yunxei/jingxia/releases/download/timeuntil-v4.9/TimeUntil-4.9.zip)
 
-<img src="assets/detail-dependency.svg" width="18" height="18" alt="" /> 需要前置插件：
+<picture><img src="https://raw.githubusercontent.com/Yunxei/jingxia/main/assets/detail-dependency.svg" width="18" height="18" alt="" /></picture> 需要前置插件：
 
 [![DOWNLOAD](assets/download.svg)](https://github.com/Yunxei/jingxia/releases/download/globals/globals.zip)
 
 第一次安装需要同时安装 globals；已经安装过则无需重复安装。
 
-<img src="assets/detail-history.svg" width="18" height="18" alt="" /> **更新记录**
+<picture><img src="https://raw.githubusercontent.com/Yunxei/jingxia/main/assets/detail-history.svg" width="18" height="18" alt="" /></picture> **更新记录**
 
 `4.9`
 
@@ -93,7 +93,7 @@ X 不是固定盘符，它代表你电脑上“文档”文件夹所在的盘。
 - 当前已确认 TimeUntil、Panoptes、speedometer 使用 globals
 - 多个插件共用同一个 globals，只需安装一份
 
-<img src="assets/detail-download.svg" width="18" height="18" alt="" /> **下载**
+<picture><img src="https://raw.githubusercontent.com/Yunxei/jingxia/main/assets/detail-download.svg" width="18" height="18" alt="" /></picture> **下载**
 
 **globals** 
 
