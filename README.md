@@ -117,6 +117,11 @@ X 不是固定盘符，它代表你电脑上“文档”文件夹所在的盘。
 - 字号、文字颜色和描边设置
 - 配置与位置保存
 
+<p>
+  <a href="assets/screenshots/speedometer/preview-01.png?raw=true"><img width="31%" alt="speedometer 预览 1" src="assets/screenshots/speedometer/preview-01.png" /></a>
+  <a href="assets/screenshots/speedometer/preview-02.png?raw=true"><img width="31%" alt="speedometer 预览 2" src="assets/screenshots/speedometer/preview-02.png" /></a>
+</p>
+
 <picture><img src="https://raw.githubusercontent.com/Yunxei/jingxia/main/assets/detail-download.svg" width="18" height="18" alt="" /></picture> **下载**
 
 **speedometer 2.0**
@@ -155,6 +160,16 @@ X 不是固定盘符，它代表你电脑上“文档”文件夹所在的盘。
 - 卷轴与锁车提醒
 - 界面缩放、位置和配置保存
 
+<p>
+  <a href="assets/screenshots/packratio/preview-01.png?raw=true"><img width="31%" alt="packratio 预览 1" src="assets/screenshots/packratio/preview-01.png" /></a>
+  <a href="assets/screenshots/packratio/preview-02.png?raw=true"><img width="31%" alt="packratio 预览 2" src="assets/screenshots/packratio/preview-02.png" /></a>
+  <a href="assets/screenshots/packratio/preview-03.png?raw=true"><img width="31%" alt="packratio 预览 3" src="assets/screenshots/packratio/preview-03.png" /></a>
+</p>
+
+<p>
+  <a href="assets/screenshots/packratio/preview-04.png?raw=true"><img width="31%" alt="packratio 预览 4" src="assets/screenshots/packratio/preview-04.png" /></a>
+</p>
+
 <picture><img src="https://raw.githubusercontent.com/Yunxei/jingxia/main/assets/detail-download.svg" width="18" height="18" alt="" /></picture> **下载**
 
 **packratio 2.7**
@@ -182,6 +197,10 @@ X 不是固定盘符，它代表你电脑上“文档”文件夹所在的盘。
 
 - ESC 菜单快捷重载入口
 - 10 秒重复操作冷却
+
+<p>
+  <a href="assets/screenshots/ReloadButton/preview-01.png?raw=true"><img width="31%" alt="ReloadButton 预览 1" src="assets/screenshots/ReloadButton/preview-01.png" /></a>
+</p>
 
 <picture><img src="https://raw.githubusercontent.com/Yunxei/jingxia/main/assets/detail-download.svg" width="18" height="18" alt="" /></picture> **下载**
 
@@ -213,6 +232,16 @@ X 不是固定盘符，它代表你电脑上“文档”文件夹所在的盘。
 - 拍卖收藏
 - 配置保存
 
+<p>
+  <a href="assets/screenshots/Nyxaria/preview-01.png?raw=true"><img width="31%" alt="Nyxaria 预览 1" src="assets/screenshots/Nyxaria/preview-01.png" /></a>
+  <a href="assets/screenshots/Nyxaria/preview-02.png?raw=true"><img width="31%" alt="Nyxaria 预览 2" src="assets/screenshots/Nyxaria/preview-02.png" /></a>
+  <a href="assets/screenshots/Nyxaria/preview-03.png?raw=true"><img width="31%" alt="Nyxaria 预览 3" src="assets/screenshots/Nyxaria/preview-03.png" /></a>
+</p>
+
+<p>
+  <a href="assets/screenshots/Nyxaria/preview-04.png?raw=true"><img width="31%" alt="Nyxaria 预览 4" src="assets/screenshots/Nyxaria/preview-04.png" /></a>
+</p>
+
 <picture><img src="https://raw.githubusercontent.com/Yunxei/jingxia/main/assets/detail-download.svg" width="18" height="18" alt="" /></picture> **下载**
 
 **Nyxaria 2.0**
@@ -242,6 +271,12 @@ X 不是固定盘符，它代表你电脑上“文档”文件夹所在的盘。
 - 称号与热键设置
 - 套装图标与界面设置
 - 用户套装配置保存
+
+<p>
+  <a href="assets/screenshots/combatcloset/preview-01.png?raw=true"><img width="31%" alt="combatcloset 预览 1" src="assets/screenshots/combatcloset/preview-01.png" /></a>
+  <a href="assets/screenshots/combatcloset/preview-02.png?raw=true"><img width="31%" alt="combatcloset 预览 2" src="assets/screenshots/combatcloset/preview-02.png" /></a>
+  <a href="assets/screenshots/combatcloset/preview-03.png?raw=true"><img width="31%" alt="combatcloset 预览 3" src="assets/screenshots/combatcloset/preview-03.png" /></a>
+</p>
 
 <picture><img src="https://raw.githubusercontent.com/Yunxei/jingxia/main/assets/detail-download.svg" width="18" height="18" alt="" /></picture> **下载**
 
@@ -274,6 +309,17 @@ X 不是固定盘符，它代表你电脑上“文档”文件夹所在的盘。
 - 重要状态屏幕提示
 - 大施法条显示与设置
 - 追踪清单管理与配置保存
+
+<p>
+  <a href="assets/screenshots/Panoptes/preview-01.png?raw=true"><img width="31%" alt="Panoptes 预览 1" src="assets/screenshots/Panoptes/preview-01.png" /></a>
+  <a href="assets/screenshots/Panoptes/preview-02.png?raw=true"><img width="31%" alt="Panoptes 预览 2" src="assets/screenshots/Panoptes/preview-02.png" /></a>
+  <a href="assets/screenshots/Panoptes/preview-03.png?raw=true"><img width="31%" alt="Panoptes 预览 3" src="assets/screenshots/Panoptes/preview-03.png" /></a>
+</p>
+
+<p>
+  <a href="assets/screenshots/Panoptes/preview-04.png?raw=true"><img width="31%" alt="Panoptes 预览 4" src="assets/screenshots/Panoptes/preview-04.png" /></a>
+  <a href="assets/screenshots/Panoptes/preview-05.png?raw=true"><img width="31%" alt="Panoptes 预览 5" src="assets/screenshots/Panoptes/preview-05.png" /></a>
+</p>
 
 <picture><img src="https://raw.githubusercontent.com/Yunxei/jingxia/main/assets/detail-download.svg" width="18" height="18" alt="" /></picture> **下载**
 
