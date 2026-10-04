@@ -15,7 +15,7 @@
 <a id="timeuntil"></a>
 
 <details>
-<summary>⏱️ TimeUntil 4.9 ｜ 活动时间助手</summary>
+<summary> TimeUntil 4.9 ｜ 活动时间助手</summary>
 
 **插件说明**
 
@@ -38,17 +38,6 @@
 
 第一次安装需要同时安装 globals；已经安装过则无需重复安装。
 
-**安装方法**
-
-解压到游戏 `Addon` 目录，最终结构：
-
-```text
-Addon/
-└─ TimeUntil/
-   ├─ toc.g
-   └─ timeuntil.lua
-```
-
 **更新记录**
 
 `4.9`
@@ -58,11 +47,10 @@ Addon/
 </details>
 
 <details>
-<summary>🧩 globals ｜ 共享依赖</summary>
+<summary> globals ｜ 共享依赖</summary>
 
 - globals 是部分插件运行所需的共享依赖
 - 当前已确认 TimeUntil、Panoptes、speedometer 使用 globals
-- globals 无正式版本号
 - 多个插件共用同一个 globals，只需安装一份
 
 **下载**
