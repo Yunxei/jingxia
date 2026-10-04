@@ -13,13 +13,13 @@
 
 | 插件 | 当前版本 | 简介 | 下载 |
 | --- | --- | --- | --- |
-| [TimeUntil](#timeuntil) | 4.9 | 活动时间助手 | [⬇️ 下载](https://github.com/Yunxei/jingxia/releases/download/timeuntil-v4.9/TimeUntil-4.9.zip) |
-| Panoptes | — | 屏幕提示与辅助 | 尚未发布 |
-| packratio | — | 贸易货物辅助 | 尚未发布 |
+| [TimeUntil](#timeuntil) | 4.9 | 活动/地区时间 | [⬇️ 下载](https://github.com/Yunxei/jingxia/releases/download/timeuntil-v4.9/TimeUntil-4.9.zip) |
+| Panoptes | — | 玩家状态追踪 | 尚未发布 |
+| packratio | — | 显示地区货率 | 尚未发布 |
 | speedometer | — | 载具速度显示 | 尚未发布 |
 | ReloadButton | — | 快速重载插件 | 尚未发布 |
-| Nyxaria | — | 背包整理辅助 | 尚未发布 |
-| combatcloset | — | 装备套装辅助 | 尚未发布 |
+| Nyxaria | — | 背包整理 | 尚未发布 |
+| combatcloset | — | 装备与称号一键切换 | 尚未发布 |
 
 点击插件名称查看详细说明。
 
@@ -41,11 +41,18 @@
 - 主界面显示 / 隐藏
 - 配置与界面状态保存
 
+<img width="198" height="312" alt="活动时间助手预览1" src="https://github.com/user-attachments/assets/8016ff07-c841-4f87-9c5a-e8a5ba173e84" />
+<img width="398" height="452" alt="活动时间助手预览2" src="https://github.com/user-attachments/assets/e1152bcb-71c2-4c35-bb2b-b6eb0f44c774" />
+<img width="466" height="698" alt="活动时间助手预览3" src="https://github.com/user-attachments/assets/b813b0c1-d967-4cee-8962-09bd14cd8e6f" />
+
+
+
 **下载**
 
 [⬇️ 下载 TimeUntil 4.9](https://github.com/Yunxei/jingxia/releases/download/timeuntil-v4.9/TimeUntil-4.9.zip)
 
-需要共享依赖：[⬇️ 下载 globals](https://github.com/Yunxei/jingxia/releases/download/globals/globals.zip)
+需要前置插件：
+[⬇️ 下载 globals](https://github.com/Yunxei/jingxia/releases/download/globals/globals.zip)
 
 第一次安装需要同时安装 globals；已经安装过则无需重复安装。
 
@@ -58,9 +65,9 @@
 </details>
 
 <details>
-<summary> globals ｜ 共享依赖</summary>
+<summary> globals ｜ 前置插件</summary>
 
-- globals 是部分插件运行所需的共享依赖
+- globals 是部分插件运行所需的前置插件
 - 当前已确认 TimeUntil、Panoptes、speedometer 使用 globals
 - 多个插件共用同一个 globals，只需安装一份
 
