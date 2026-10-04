@@ -39,7 +39,7 @@ X 不是固定盘符，它代表你电脑上“文档”文件夹所在的盘。
 </details>
 
 <details>
-<summary> TimeUntil 4.9 ｜ 活动时间助手</summary>
+<summary> TimeUntil 4.9 ｜ 活动/地区时间</summary>
 
 <a id="timeuntil"></a>
 
