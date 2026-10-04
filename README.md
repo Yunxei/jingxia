@@ -42,7 +42,9 @@
 - 配置与界面状态保存
 
 <img width="198" height="312" alt="活动时间助手预览1" src="https://github.com/user-attachments/assets/8016ff07-c841-4f87-9c5a-e8a5ba173e84" />
+
 <img width="398" height="452" alt="活动时间助手预览2" src="https://github.com/user-attachments/assets/e1152bcb-71c2-4c35-bb2b-b6eb0f44c774" />
+
 <img width="466" height="698" alt="活动时间助手预览3" src="https://github.com/user-attachments/assets/b813b0c1-d967-4cee-8962-09bd14cd8e6f" />
 
 
@@ -52,6 +54,7 @@
 [⬇️ 下载 TimeUntil 4.9](https://github.com/Yunxei/jingxia/releases/download/timeuntil-v4.9/TimeUntil-4.9.zip)
 
 需要前置插件：
+
 [⬇️ 下载 globals](https://github.com/Yunxei/jingxia/releases/download/globals/globals.zip)
 
 第一次安装需要同时安装 globals；已经安装过则无需重复安装。
