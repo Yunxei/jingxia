@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 18 18" role="img" aria-label="插件说明">
+  <g fill="none" stroke="#a8b0b8" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="9" cy="9" r="6.5"/>
+    <path d="M9 8v4m0-6v.1"/>
+  </g>
+</svg>
