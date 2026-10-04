@@ -1,20 +1,4 @@
-插件安装方法：
-下载压缩包后解压文件夹，将文件夹放入到“X:\My Documents\ArcheRage\Addon”下
-
-路径里的X不是固定盘符，它代表你电脑上“文档”文件夹所在的盘。
-
-有的人是 C 盘，有的人是 D 盘、E 盘，所以不要照抄 X。
-
-“我的文档”在不同系统里叫法不同：
-
-• Win10/Win11 中文：文档
-
-• Win7 中文：我的文档
-
-• 英文系统：Documents / My Documents
-
-
-## 插件目录
+## 插件目录 <sub><a href="#user-content-installation">安装说明</a></sub>
 
 | 插件 | 当前版本 | 更新时间 | 简介 | 下载 | 前置插件 |
 | --- | --- | --- | --- | --- | --- |
@@ -28,6 +12,28 @@
 | combatcloset | — | — | 装备与称号一键切换 | 尚未发布 | — |
 
 更新时间为当前正式版本的发布日期，不是 README 修改时间。点击下方插件详情标题展开详细说明。
+
+<details>
+<summary>安装说明</summary>
+
+<a id="installation"></a>
+
+```text
+下载压缩包后解压文件夹，将文件夹放入：
+X:\My Documents\ArcheRage\Addon
+
+注意：
+X 不是固定盘符，它代表你电脑上“文档”文件夹所在的盘。
+
+不同系统：
+• Win10/Win11 中文：文档
+• Win7 中文：我的文档
+• 英文系统：Documents / My Documents
+
+请不要直接复制 X。
+```
+
+</details>
 
 <details>
 <summary> TimeUntil 4.9 ｜ 活动时间助手</summary>
