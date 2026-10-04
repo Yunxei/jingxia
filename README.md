@@ -4,7 +4,7 @@
 | --- | --- | --- | --- | --- | --- |
 | [globals](#user-content-globals) | — | — | 前置插件 | [![DOWNLOAD](assets/download.svg)](https://github.com/Yunxei/jingxia/releases/download/globals/globals.zip) | — |
 | [TimeUntil](#user-content-timeuntil) | 4.9 | 2026-10-04 | 活动/地区时间 | [![DOWNLOAD](assets/download.svg)](https://github.com/Yunxei/jingxia/releases/download/timeuntil-v4.9/TimeUntil-4.9.zip) | globals |
-| Panoptes | — | — | 玩家状态追踪 | 尚未发布 | globals |
+| [Panoptes](#user-content-panoptes) | 1.3 | 2026-10-04 | 玩家状态追踪 | [![DOWNLOAD](assets/download.svg)](https://github.com/Yunxei/jingxia/releases/download/panoptes-v1.3/Panoptes-1.3.zip) | globals |
 | [packratio](#user-content-packratio) | 2.7 | 2026-10-04 | 显示地区货率 | [![DOWNLOAD](assets/download.svg)](https://github.com/Yunxei/jingxia/releases/download/packratio-v2.7/packratio-2.7.zip) | — |
 | [speedometer](#user-content-speedometer) | 2.0 | 2026-10-04 | 载具速度显示 | [![DOWNLOAD](assets/download.svg)](https://github.com/Yunxei/jingxia/releases/download/speedometer-v2.0/speedometer-2.0.zip) | globals |
 | [ReloadButton](#user-content-reloadbutton) | 1.0 | 2026-10-04 | 快速重载插件 | [![DOWNLOAD](assets/download.svg)](https://github.com/Yunxei/jingxia/releases/download/reloadbutton-v1.0/ReloadButton-1.0.zip) | — |
@@ -252,6 +252,46 @@ X 不是固定盘符，它代表你电脑上“文档”文件夹所在的盘。
 <picture><img src="https://raw.githubusercontent.com/Yunxei/jingxia/main/assets/detail-history.svg" width="18" height="18" alt="" /></picture> **更新记录**
 
 `2.4`
+
+当前正式发布版本。
+
+</details>
+
+<details>
+<summary> Panoptes 1.3 ｜ 玩家状态追踪</summary>
+
+<a id="panoptes"></a>
+
+<picture><img src="https://raw.githubusercontent.com/Yunxei/jingxia/main/assets/detail-info.svg" width="18" height="18" alt="" /></picture> **插件说明**
+
+用于显示和追踪自身、目标的状态，提供悬浮面板、头顶标记和屏幕提示等辅助显示。
+
+<picture><img src="https://raw.githubusercontent.com/Yunxei/jingxia/main/assets/detail-features.svg" width="18" height="18" alt="" /></picture> **主要功能**
+
+- 自身与目标状态追踪、剩余时间及层数显示
+- 悬浮面板与头顶标记
+- 目标信息、装备评分与距离显示
+- 重要状态屏幕提示
+- 大施法条显示与设置
+- 追踪清单管理与配置保存
+
+<picture><img src="https://raw.githubusercontent.com/Yunxei/jingxia/main/assets/detail-download.svg" width="18" height="18" alt="" /></picture> **下载**
+
+**Panoptes 1.3**
+
+[![DOWNLOAD](assets/download.svg)](https://github.com/Yunxei/jingxia/releases/download/panoptes-v1.3/Panoptes-1.3.zip)
+
+<picture><img src="https://raw.githubusercontent.com/Yunxei/jingxia/main/assets/detail-dependency.svg" width="18" height="18" alt="" /></picture> **前置插件**
+
+需要前置插件：globals。
+
+[![DOWNLOAD](assets/download.svg)](https://github.com/Yunxei/jingxia/releases/download/globals/globals.zip)
+
+第一次安装需要同时安装 globals；已经安装过则无需重复安装。
+
+<picture><img src="https://raw.githubusercontent.com/Yunxei/jingxia/main/assets/detail-history.svg" width="18" height="18" alt="" /></picture> **更新记录**
+
+`1.3`
 
 当前正式发布版本。
 
