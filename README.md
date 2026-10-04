@@ -39,6 +39,23 @@ X 不是固定盘符，它代表你电脑上“文档”文件夹所在的盘。
 </details>
 
 <details>
+<summary> globals ｜ 前置插件</summary>
+
+<a id="globals"></a>
+
+- globals 是部分插件运行所需的前置插件
+- 当前已确认 TimeUntil、Panoptes、speedometer 使用 globals
+- 多个插件共用同一个 globals，只需安装一份
+
+<picture><img src="https://raw.githubusercontent.com/Yunxei/jingxia/main/assets/detail-download.svg" width="18" height="18" alt="" /></picture> **下载**
+
+**globals** 
+
+[![DOWNLOAD](assets/download.svg)](https://github.com/Yunxei/jingxia/releases/download/globals/globals.zip)
+
+</details>
+
+<details>
 <summary> TimeUntil 4.9 ｜ 活动/地区时间</summary>
 
 <a id="timeuntil"></a>
@@ -85,19 +102,96 @@ X 不是固定盘符，它代表你电脑上“文档”文件夹所在的盘。
 </details>
 
 <details>
-<summary> globals ｜ 前置插件</summary>
+<summary> Panoptes 1.3 ｜ 玩家状态追踪</summary>
 
-<a id="globals"></a>
+<a id="panoptes"></a>
 
-- globals 是部分插件运行所需的前置插件
-- 当前已确认 TimeUntil、Panoptes、speedometer 使用 globals
-- 多个插件共用同一个 globals，只需安装一份
+<picture><img src="https://raw.githubusercontent.com/Yunxei/jingxia/main/assets/detail-info.svg" width="18" height="18" alt="" /></picture> **插件说明**
+
+用于显示和追踪自身、目标的状态，提供悬浮面板、头顶标记和屏幕提示等辅助显示。
+
+<picture><img src="https://raw.githubusercontent.com/Yunxei/jingxia/main/assets/detail-features.svg" width="18" height="18" alt="" /></picture> **主要功能**
+
+- 自身与目标状态追踪、剩余时间及层数显示
+- 悬浮面板与头顶标记
+- 目标信息、装备评分与距离显示
+- 重要状态屏幕提示
+- 大施法条显示与设置
+- 进团自动设置职责
+- 所有功能均可自由改变位置与开关
+- 追踪清单管理与配置保存
+
+
+<p>
+  <a href="https://raw.githubusercontent.com/Yunxei/jingxia/main/assets/screenshots/Panoptes/preview-01.png"><img width="31%" alt="Panoptes 预览 1" src="assets/screenshots/Panoptes/preview-01.png" /></a>
+  <a href="https://raw.githubusercontent.com/Yunxei/jingxia/main/assets/screenshots/Panoptes/preview-02.png"><img width="31%" alt="Panoptes 预览 2" src="assets/screenshots/Panoptes/preview-02.png" /></a>
+  <a href="https://raw.githubusercontent.com/Yunxei/jingxia/main/assets/screenshots/Panoptes/preview-03.png"><img width="31%" alt="Panoptes 预览 3" src="assets/screenshots/Panoptes/preview-03.png" /></a>
+</p>
+
+<p>
+  <a href="https://raw.githubusercontent.com/Yunxei/jingxia/main/assets/screenshots/Panoptes/preview-04.png"><img width="31%" alt="Panoptes 预览 4" src="assets/screenshots/Panoptes/preview-04.png" /></a>
+  <a href="https://raw.githubusercontent.com/Yunxei/jingxia/main/assets/screenshots/Panoptes/preview-05.png"><img width="31%" alt="Panoptes 预览 5" src="assets/screenshots/Panoptes/preview-05.png" /></a>
+</p>
 
 <picture><img src="https://raw.githubusercontent.com/Yunxei/jingxia/main/assets/detail-download.svg" width="18" height="18" alt="" /></picture> **下载**
 
-**globals** 
+**Panoptes 1.3**
+
+[![DOWNLOAD](assets/download.svg)](https://github.com/Yunxei/jingxia/releases/download/panoptes-v1.3/Panoptes-1.3.zip)
+
+<picture><img src="https://raw.githubusercontent.com/Yunxei/jingxia/main/assets/detail-dependency.svg" width="18" height="18" alt="" /></picture> **前置插件**
+
+需要前置插件：globals。
 
 [![DOWNLOAD](assets/download.svg)](https://github.com/Yunxei/jingxia/releases/download/globals/globals.zip)
+
+第一次安装需要同时安装 globals；已经安装过则无需重复安装。
+
+<picture><img src="https://raw.githubusercontent.com/Yunxei/jingxia/main/assets/detail-history.svg" width="18" height="18" alt="" /></picture> **更新记录**
+
+`1.3`
+
+当前正式发布版本。
+
+</details>
+
+<details>
+<summary> packratio 2.7 ｜ 显示地区货率</summary>
+
+<a id="packratio"></a>
+
+<picture><img src="https://raw.githubusercontent.com/Yunxei/jingxia/main/assets/detail-info.svg" width="18" height="18" alt="" /></picture> **插件说明**
+
+用于查看地区贸易货率，管理贸易路线和相关提醒。
+
+<picture><img src="https://raw.githubusercontent.com/Yunxei/jingxia/main/assets/detail-features.svg" width="18" height="18" alt="" /></picture> **主要功能**
+
+- 地区贸易货率显示
+- 贸易路线管理
+- 卷轴与锁车提醒
+- 界面缩放、位置和配置保存
+
+<p>
+  <a href="https://raw.githubusercontent.com/Yunxei/jingxia/main/assets/screenshots/packratio/preview-01.png"><img width="31%" alt="packratio 预览 1" src="assets/screenshots/packratio/preview-01.png" /></a>
+  <a href="https://raw.githubusercontent.com/Yunxei/jingxia/main/assets/screenshots/packratio/preview-02.png"><img width="31%" alt="packratio 预览 2" src="assets/screenshots/packratio/preview-02.png" /></a>
+  <a href="https://raw.githubusercontent.com/Yunxei/jingxia/main/assets/screenshots/packratio/preview-03.png"><img width="31%" alt="packratio 预览 3" src="assets/screenshots/packratio/preview-03.png" /></a>
+</p>
+
+<p>
+  <a href="https://raw.githubusercontent.com/Yunxei/jingxia/main/assets/screenshots/packratio/preview-04.png"><img width="31%" alt="packratio 预览 4" src="assets/screenshots/packratio/preview-04.png" /></a>
+</p>
+
+<picture><img src="https://raw.githubusercontent.com/Yunxei/jingxia/main/assets/detail-download.svg" width="18" height="18" alt="" /></picture> **下载**
+
+**packratio 2.7**
+
+[![DOWNLOAD](assets/download.svg)](https://github.com/Yunxei/jingxia/releases/download/packratio-v2.7/packratio-2.7.zip)
+
+<picture><img src="https://raw.githubusercontent.com/Yunxei/jingxia/main/assets/detail-history.svg" width="18" height="18" alt="" /></picture> **更新记录**
+
+`2.7`
+
+当前正式发布版本。
 
 </details>
 
@@ -139,46 +233,6 @@ X 不是固定盘符，它代表你电脑上“文档”文件夹所在的盘。
 <picture><img src="https://raw.githubusercontent.com/Yunxei/jingxia/main/assets/detail-history.svg" width="18" height="18" alt="" /></picture> **更新记录**
 
 `2.0`
-
-当前正式发布版本。
-
-</details>
-
-<details>
-<summary> packratio 2.7 ｜ 显示地区货率</summary>
-
-<a id="packratio"></a>
-
-<picture><img src="https://raw.githubusercontent.com/Yunxei/jingxia/main/assets/detail-info.svg" width="18" height="18" alt="" /></picture> **插件说明**
-
-用于查看地区贸易货率，管理贸易路线和相关提醒。
-
-<picture><img src="https://raw.githubusercontent.com/Yunxei/jingxia/main/assets/detail-features.svg" width="18" height="18" alt="" /></picture> **主要功能**
-
-- 地区贸易货率显示
-- 贸易路线管理
-- 卷轴与锁车提醒
-- 界面缩放、位置和配置保存
-
-<p>
-  <a href="https://raw.githubusercontent.com/Yunxei/jingxia/main/assets/screenshots/packratio/preview-01.png"><img width="31%" alt="packratio 预览 1" src="assets/screenshots/packratio/preview-01.png" /></a>
-  <a href="https://raw.githubusercontent.com/Yunxei/jingxia/main/assets/screenshots/packratio/preview-02.png"><img width="31%" alt="packratio 预览 2" src="assets/screenshots/packratio/preview-02.png" /></a>
-  <a href="https://raw.githubusercontent.com/Yunxei/jingxia/main/assets/screenshots/packratio/preview-03.png"><img width="31%" alt="packratio 预览 3" src="assets/screenshots/packratio/preview-03.png" /></a>
-</p>
-
-<p>
-  <a href="https://raw.githubusercontent.com/Yunxei/jingxia/main/assets/screenshots/packratio/preview-04.png"><img width="31%" alt="packratio 预览 4" src="assets/screenshots/packratio/preview-04.png" /></a>
-</p>
-
-<picture><img src="https://raw.githubusercontent.com/Yunxei/jingxia/main/assets/detail-download.svg" width="18" height="18" alt="" /></picture> **下载**
-
-**packratio 2.7**
-
-[![DOWNLOAD](assets/download.svg)](https://github.com/Yunxei/jingxia/releases/download/packratio-v2.7/packratio-2.7.zip)
-
-<picture><img src="https://raw.githubusercontent.com/Yunxei/jingxia/main/assets/detail-history.svg" width="18" height="18" alt="" /></picture> **更新记录**
-
-`2.7`
 
 当前正式发布版本。
 
@@ -288,60 +342,6 @@ X 不是固定盘符，它代表你电脑上“文档”文件夹所在的盘。
 <picture><img src="https://raw.githubusercontent.com/Yunxei/jingxia/main/assets/detail-history.svg" width="18" height="18" alt="" /></picture> **更新记录**
 
 `2.4`
-
-当前正式发布版本。
-
-</details>
-
-<details>
-<summary> Panoptes 1.3 ｜ 玩家状态追踪</summary>
-
-<a id="panoptes"></a>
-
-<picture><img src="https://raw.githubusercontent.com/Yunxei/jingxia/main/assets/detail-info.svg" width="18" height="18" alt="" /></picture> **插件说明**
-
-用于显示和追踪自身、目标的状态，提供悬浮面板、头顶标记和屏幕提示等辅助显示。
-
-<picture><img src="https://raw.githubusercontent.com/Yunxei/jingxia/main/assets/detail-features.svg" width="18" height="18" alt="" /></picture> **主要功能**
-
-- 自身与目标状态追踪、剩余时间及层数显示
-- 悬浮面板与头顶标记
-- 目标信息、装备评分与距离显示
-- 重要状态屏幕提示
-- 大施法条显示与设置
-- 进团自动设置职责
-- 所有功能均可自由改变位置与开关
-- 追踪清单管理与配置保存
-
-
-<p>
-  <a href="https://raw.githubusercontent.com/Yunxei/jingxia/main/assets/screenshots/Panoptes/preview-01.png"><img width="31%" alt="Panoptes 预览 1" src="assets/screenshots/Panoptes/preview-01.png" /></a>
-  <a href="https://raw.githubusercontent.com/Yunxei/jingxia/main/assets/screenshots/Panoptes/preview-02.png"><img width="31%" alt="Panoptes 预览 2" src="assets/screenshots/Panoptes/preview-02.png" /></a>
-  <a href="https://raw.githubusercontent.com/Yunxei/jingxia/main/assets/screenshots/Panoptes/preview-03.png"><img width="31%" alt="Panoptes 预览 3" src="assets/screenshots/Panoptes/preview-03.png" /></a>
-</p>
-
-<p>
-  <a href="https://raw.githubusercontent.com/Yunxei/jingxia/main/assets/screenshots/Panoptes/preview-04.png"><img width="31%" alt="Panoptes 预览 4" src="assets/screenshots/Panoptes/preview-04.png" /></a>
-  <a href="https://raw.githubusercontent.com/Yunxei/jingxia/main/assets/screenshots/Panoptes/preview-05.png"><img width="31%" alt="Panoptes 预览 5" src="assets/screenshots/Panoptes/preview-05.png" /></a>
-</p>
-
-<picture><img src="https://raw.githubusercontent.com/Yunxei/jingxia/main/assets/detail-download.svg" width="18" height="18" alt="" /></picture> **下载**
-
-**Panoptes 1.3**
-
-[![DOWNLOAD](assets/download.svg)](https://github.com/Yunxei/jingxia/releases/download/panoptes-v1.3/Panoptes-1.3.zip)
-
-<picture><img src="https://raw.githubusercontent.com/Yunxei/jingxia/main/assets/detail-dependency.svg" width="18" height="18" alt="" /></picture> **前置插件**
-
-需要前置插件：globals。
-
-[![DOWNLOAD](assets/download.svg)](https://github.com/Yunxei/jingxia/releases/download/globals/globals.zip)
-
-第一次安装需要同时安装 globals；已经安装过则无需重复安装。
-
-<picture><img src="https://raw.githubusercontent.com/Yunxei/jingxia/main/assets/detail-history.svg" width="18" height="18" alt="" /></picture> **更新记录**
-
-`1.3`
 
 当前正式发布版本。
 
