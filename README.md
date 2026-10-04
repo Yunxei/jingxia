@@ -1,3 +1,14 @@
+插件安装方法：
+下载压缩包后解压文件夹，将文件夹放入到“X:\My Documents\ArcheRage\Addon”下
+
+路径里的X不是固定盘符，它代表你电脑上“文档”文件夹所在的盘。
+有的人是 C 盘，有的人是 D 盘、E 盘，所以不要照抄 X。
+“我的文档”在不同系统里叫法不同：
+• Win10/Win11 中文：文档
+• Win7 中文：我的文档
+• 英文系统：Documents / My Documents
+
+
 ## 插件目录
 
 | 插件 | 当前版本 | 简介 | 下载 |
@@ -34,7 +45,7 @@
 
 [⬇️ 下载 TimeUntil 4.9](https://github.com/Yunxei/jingxia/releases/download/timeuntil-v4.9/TimeUntil-4.9.zip)
 
-需要共享依赖：globals
+需要共享依赖：[⬇️ 下载 globals](https://github.com/Yunxei/jingxia/releases/download/globals/globals.zip)
 
 第一次安装需要同时安装 globals；已经安装过则无需重复安装。
 
@@ -56,22 +67,5 @@
 **下载**
 
 [⬇️ 下载 globals](https://github.com/Yunxei/jingxia/releases/download/globals/globals.zip)
-
-**安装方法**
-
-解压到游戏 `Addon` 目录，最终结构：
-
-```text
-Addon/
-└─ globals/
-   ├─ apitypes.lua
-   ├─ barmaker.lua
-   ├─ button.lua
-   ├─ buttoncommon.lua
-   ├─ classmappings.lua
-   ├─ utils.lua
-   ├─ window.lua
-   └─ windowcommon.lua
-```
 
 </details>
