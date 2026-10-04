@@ -16,17 +16,17 @@
 
 ## 插件目录
 
-| 插件 | 当前版本 | 简介 | 下载 |
-| --- | --- | --- | --- |
-| [TimeUntil](#timeuntil) | 4.9 | 活动/地区时间 | [![DOWNLOAD](assets/download.svg)](https://github.com/Yunxei/jingxia/releases/download/timeuntil-v4.9/TimeUntil-4.9.zip) |
-| Panoptes | — | 玩家状态追踪 | 尚未发布 |
-| packratio | — | 显示地区货率 | 尚未发布 |
-| speedometer | — | 载具速度显示 | 尚未发布 |
-| ReloadButton | — | 快速重载插件 | 尚未发布 |
-| Nyxaria | — | 背包整理 | 尚未发布 |
-| combatcloset | — | 装备与称号一键切换 | 尚未发布 |
+| 插件 | 当前版本 | 更新时间 | 简介 | 下载 |
+| --- | --- | --- | --- | --- |
+| TimeUntil | 4.9 | 2026-10-04 | 活动/地区时间 | [![DOWNLOAD](assets/download.svg)](https://github.com/Yunxei/jingxia/releases/download/timeuntil-v4.9/TimeUntil-4.9.zip) |
+| Panoptes | — | — | 玩家状态追踪 | 尚未发布 |
+| packratio | — | — | 显示地区货率 | 尚未发布 |
+| speedometer | — | — | 载具速度显示 | 尚未发布 |
+| ReloadButton | — | — | 快速重载插件 | 尚未发布 |
+| Nyxaria | — | — | 背包整理 | 尚未发布 |
+| combatcloset | — | — | 装备与称号一键切换 | 尚未发布 |
 
-点击插件名称查看详细说明。
+更新时间为当前正式版本的发布日期，不是 README 修改时间。点击下方插件详情标题展开详细说明。
 
 <a id="timeuntil"></a>
 
