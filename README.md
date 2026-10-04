@@ -18,8 +18,8 @@
 
 | 插件 | 当前版本 | 更新时间 | 简介 | 下载 | 前置插件 |
 | --- | --- | --- | --- | --- | --- |
-| [globals](#globals) | — | — | 前置插件 | [![DOWNLOAD](assets/download.svg)](https://github.com/Yunxei/jingxia/releases/download/globals/globals.zip) | — |
-| [TimeUntil](#timeuntil) | 4.9 | 2026-10-04 | 活动/地区时间 | [![DOWNLOAD](assets/download.svg)](https://github.com/Yunxei/jingxia/releases/download/timeuntil-v4.9/TimeUntil-4.9.zip) | globals |
+| [globals](#user-content-globals) | — | — | 前置插件 | [![DOWNLOAD](assets/download.svg)](https://github.com/Yunxei/jingxia/releases/download/globals/globals.zip) | — |
+| [TimeUntil](#user-content-timeuntil) | 4.9 | 2026-10-04 | 活动/地区时间 | [![DOWNLOAD](assets/download.svg)](https://github.com/Yunxei/jingxia/releases/download/timeuntil-v4.9/TimeUntil-4.9.zip) | globals |
 | Panoptes | — | — | 玩家状态追踪 | 尚未发布 | globals |
 | packratio | — | — | 显示地区货率 | 尚未发布 | — |
 | speedometer | — | — | 载具速度显示 | 尚未发布 | globals |
@@ -29,10 +29,10 @@
 
 更新时间为当前正式版本的发布日期，不是 README 修改时间。点击下方插件详情标题展开详细说明。
 
-<a id="timeuntil"></a>
-
 <details>
 <summary> TimeUntil 4.9 ｜ 活动时间助手</summary>
+
+<a id="timeuntil"></a>
 
 **插件说明**
 
@@ -75,10 +75,10 @@
 
 </details>
 
-<a id="globals"></a>
-
 <details>
 <summary> globals ｜ 前置插件</summary>
+
+<a id="globals"></a>
 
 - globals 是部分插件运行所需的前置插件
 - 当前已确认 TimeUntil、Panoptes、speedometer 使用 globals
