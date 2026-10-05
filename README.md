@@ -6,7 +6,7 @@
 | [TimeUntil](#user-content-timeuntil) | 4.9 | 2026-10-04 | 活动/地区时间 | [![DOWNLOAD](assets/download.svg)](https://github.com/Yunxei/jingxia/releases/download/timeuntil-v4.9/TimeUntil-4.9.zip) | globals |
 | [Panoptes](#user-content-panoptes) | 1.3 | 2026-10-04 | 玩家状态追踪 | [![DOWNLOAD](assets/download.svg)](https://github.com/Yunxei/jingxia/releases/download/panoptes-v1.3/Panoptes-1.3.zip) | globals |
 | [packratio](#user-content-packratio) | 2.8 | 2026-10-05 | 显示地区货率 | [![DOWNLOAD](assets/download.svg)](https://github.com/Yunxei/jingxia/releases/download/packratio-v2.8/packratio-2.8.zip) | — |
-| [speedometer](#user-content-speedometer) | 2.0 | 2026-10-04 | 载具速度显示 | [![DOWNLOAD](assets/download.svg)](https://github.com/Yunxei/jingxia/releases/download/speedometer-v2.0/speedometer-2.0.zip) | globals |
+| [speedometer](#user-content-speedometer) | 2.1 | 2026-10-05 | 速度显示 | [![DOWNLOAD](assets/download.svg)](https://github.com/Yunxei/jingxia/releases/download/speedometer-v2.1/speedometer-2.1.zip) | globals |
 | [ReloadButton](#user-content-reloadbutton) | 1.0 | 2026-10-04 | 快速重载插件 | [![DOWNLOAD](assets/download.svg)](https://github.com/Yunxei/jingxia/releases/download/reloadbutton-v1.0/ReloadButton-1.0.zip) | — |
 | [Nyxaria](#user-content-nyxaria) | 2.0 | 2026-10-04 | 背包整理 | [![DOWNLOAD](assets/download.svg)](https://github.com/Yunxei/jingxia/releases/download/nyxaria-v2.0/Nyxaria-2.0.zip) | — |
 | [combatcloset](#user-content-combatcloset) | 2.5 | 2026-10-05 | 装备与称号一键切换 | [![DOWNLOAD](assets/download.svg)](https://github.com/Yunxei/jingxia/releases/download/combatcloset-v2.5/combatcloset-2.5.zip) | — |
@@ -247,20 +247,22 @@ X 不是固定盘符，它代表你电脑上“文档”文件夹所在的盘。
 </details>
 
 <details>
-<summary> speedometer 2.0 ｜ 载具速度显示</summary>
+<summary> speedometer 2.1 ｜ 速度显示</summary>
 
 <a id="speedometer"></a>
 
 <picture><img src="https://raw.githubusercontent.com/Yunxei/jingxia/main/assets/detail-info.svg" width="18" height="18" alt="" /></picture> **插件说明**
 
-用于显示载具速度，并调整速度显示的位置与样式。
+用于显示载具及步行、坐骑、滑翔翼的移动速度，共用一个可自定义的速度表。
 
 <picture><img src="https://raw.githubusercontent.com/Yunxei/jingxia/main/assets/detail-features.svg" width="18" height="18" alt="" /></picture> **主要功能**
 
-- 载具行驶速度、转向速度与左右方向显示
-- 显示 / 隐藏与位置调整
-- 字号、文字颜色和描边设置
-- 配置与位置保存
+- 载具与非载具速度显示，分别设置开关并保存选择
+- 非载具包含步行、坐骑和滑翔翼，默认关闭，可在设置中开启
+- 一个速度表，只显示一位小数的速度数字
+- 实时预览，可拖动调整位置
+- 文字大小、颜色和黑色描边实时调整并保存
+- 恢复默认位置与外观，保留显示开关
 
 <p>
   <a href="https://raw.githubusercontent.com/Yunxei/jingxia/main/assets/screenshots/speedometer/preview-01.png"><img width="31%" alt="speedometer 预览 1" src="assets/screenshots/speedometer/preview-01.png" /></a>
@@ -269,9 +271,9 @@ X 不是固定盘符，它代表你电脑上“文档”文件夹所在的盘。
 
 <picture><img src="https://raw.githubusercontent.com/Yunxei/jingxia/main/assets/detail-download.svg" width="18" height="18" alt="" /></picture> **下载**
 
-**speedometer 2.0**
+**speedometer 2.1**
 
-[![DOWNLOAD](assets/download.svg)](https://github.com/Yunxei/jingxia/releases/download/speedometer-v2.0/speedometer-2.0.zip)
+[![DOWNLOAD](assets/download.svg)](https://github.com/Yunxei/jingxia/releases/download/speedometer-v2.1/speedometer-2.1.zip)
 
 <picture><img src="https://raw.githubusercontent.com/Yunxei/jingxia/main/assets/detail-dependency.svg" width="18" height="18" alt="" /></picture> **前置插件**
 
@@ -283,9 +285,19 @@ X 不是固定盘符，它代表你电脑上“文档”文件夹所在的盘。
 
 <picture><img src="https://raw.githubusercontent.com/Yunxei/jingxia/main/assets/detail-history.svg" width="18" height="18" alt="" /></picture> **更新记录**
 
+`2.1` · 2026-10-05
+
+- 新增步行、坐骑和滑翔翼速度显示，默认关闭，可在设置中开启。
+- 载具与非载具拥有独立显示开关，重进游戏后保留选择。
+- 共用一个速度表，仅显示一位小数的速度数字，移除“移动”和单位文字。
+- 重做速度表设置界面，布局更紧凑，各行居中排列。
+- 打开设置即可实时预览，直接拖动预览调整屏幕位置。
+- 文字大小、颜色和黑色描边实时生效，位置与外观自动保存。
+- 统一为一个“恢复默认”，只重置位置与外观，不改变显示开关。
+
 `2.0`
 
-当前正式发布版本。
+原正式发布版本。
 
 <hr>
 <hr>
