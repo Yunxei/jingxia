@@ -9,7 +9,7 @@
 | [speedometer](#user-content-speedometer) | 2.0 | 2026-10-04 | 载具速度显示 | [![DOWNLOAD](assets/download.svg)](https://github.com/Yunxei/jingxia/releases/download/speedometer-v2.0/speedometer-2.0.zip) | globals |
 | [ReloadButton](#user-content-reloadbutton) | 1.0 | 2026-10-04 | 快速重载插件 | [![DOWNLOAD](assets/download.svg)](https://github.com/Yunxei/jingxia/releases/download/reloadbutton-v1.0/ReloadButton-1.0.zip) | — |
 | [Nyxaria](#user-content-nyxaria) | 2.0 | 2026-10-04 | 背包整理 | [![DOWNLOAD](assets/download.svg)](https://github.com/Yunxei/jingxia/releases/download/nyxaria-v2.0/Nyxaria-2.0.zip) | — |
-| [combatcloset](#user-content-combatcloset) | 2.4 | 2026-10-04 | 装备与称号一键切换 | [![DOWNLOAD](assets/download.svg)](https://github.com/Yunxei/jingxia/releases/download/combatcloset-v2.4/combatcloset-2.4.zip) | — |
+| [combatcloset](#user-content-combatcloset) | 2.5 | 2026-10-05 | 装备与称号一键切换 | [![DOWNLOAD](assets/download.svg)](https://github.com/Yunxei/jingxia/releases/download/combatcloset-v2.5/combatcloset-2.5.zip) | — |
 <br>
 
 > 点击下方插件详情标题展开详细说明。
@@ -376,7 +376,7 @@ X 不是固定盘符，它代表你电脑上“文档”文件夹所在的盘。
 </details>
 
 <details>
-<summary> combatcloset 2.4 ｜ 装备与称号一键切换</summary>
+<summary> combatcloset 2.5 ｜ 装备与称号一键切换</summary>
 
 <a id="combatcloset"></a>
 
@@ -401,15 +401,19 @@ X 不是固定盘符，它代表你电脑上“文档”文件夹所在的盘。
 
 <picture><img src="https://raw.githubusercontent.com/Yunxei/jingxia/main/assets/detail-download.svg" width="18" height="18" alt="" /></picture> **下载**
 
-**combatcloset 2.4**
+**combatcloset 2.5**
 
-[![DOWNLOAD](assets/download.svg)](https://github.com/Yunxei/jingxia/releases/download/combatcloset-v2.4/combatcloset-2.4.zip)
+[![DOWNLOAD](assets/download.svg)](https://github.com/Yunxei/jingxia/releases/download/combatcloset-v2.5/combatcloset-2.5.zip)
 
 <picture><img src="https://raw.githubusercontent.com/Yunxei/jingxia/main/assets/detail-history.svg" width="18" height="18" alt="" /></picture> **更新记录**
 
-`2.4`
+`2.5`
 
-当前正式发布版本。
+- 优化设置与管理窗口：进入下一级时自动隐藏上一层，关闭、取消或按 ESC 后返回上一层。
+- 「熟练度时装未穿戴」提示新增实时预览，可直接拖动调整屏幕位置。
+- 新增文字大小调整和黑色描边开关，描边默认开启。
+- 提示位置、文字大小、颜色和描边选择会自动保存。
+- 新增恢复默认，只恢复提示外观，不影响套装、提醒延迟和其他设置。
 
 <hr>
 <hr>
