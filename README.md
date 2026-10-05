@@ -5,7 +5,7 @@
 | [globals](#user-content-globals) | — | — | 前置插件 | [![DOWNLOAD](assets/download.svg)](https://github.com/Yunxei/jingxia/releases/download/globals/globals.zip) | — |
 | [TimeUntil](#user-content-timeuntil) | 4.9 | 2026-10-04 | 活动/地区时间 | [![DOWNLOAD](assets/download.svg)](https://github.com/Yunxei/jingxia/releases/download/timeuntil-v4.9/TimeUntil-4.9.zip) | globals |
 | [Panoptes](#user-content-panoptes) | 1.3 | 2026-10-04 | 玩家状态追踪 | [![DOWNLOAD](assets/download.svg)](https://github.com/Yunxei/jingxia/releases/download/panoptes-v1.3/Panoptes-1.3.zip) | globals |
-| [packratio](#user-content-packratio) | 2.7 | 2026-10-04 | 显示地区货率 | [![DOWNLOAD](assets/download.svg)](https://github.com/Yunxei/jingxia/releases/download/packratio-v2.7/packratio-2.7.zip) | — |
+| [packratio](#user-content-packratio) | 2.8 | 2026-10-05 | 显示地区货率 | [![DOWNLOAD](assets/download.svg)](https://github.com/Yunxei/jingxia/releases/download/packratio-v2.8/packratio-2.8.zip) | — |
 | [speedometer](#user-content-speedometer) | 2.0 | 2026-10-04 | 载具速度显示 | [![DOWNLOAD](assets/download.svg)](https://github.com/Yunxei/jingxia/releases/download/speedometer-v2.0/speedometer-2.0.zip) | globals |
 | [ReloadButton](#user-content-reloadbutton) | 1.0 | 2026-10-04 | 快速重载插件 | [![DOWNLOAD](assets/download.svg)](https://github.com/Yunxei/jingxia/releases/download/reloadbutton-v1.0/ReloadButton-1.0.zip) | — |
 | [Nyxaria](#user-content-nyxaria) | 2.0 | 2026-10-04 | 背包整理 | [![DOWNLOAD](assets/download.svg)](https://github.com/Yunxei/jingxia/releases/download/nyxaria-v2.0/Nyxaria-2.0.zip) | — |
@@ -188,7 +188,7 @@ X 不是固定盘符，它代表你电脑上“文档”文件夹所在的盘。
 </details>
 
 <details>
-<summary> packratio 2.7 ｜ 显示地区货率</summary>
+<summary> packratio 2.8 ｜ 显示地区货率</summary>
 
 <a id="packratio"></a>
 
@@ -201,7 +201,9 @@ X 不是固定盘符，它代表你电脑上“文档”文件夹所在的盘。
 - 地区贸易货率显示
 - 结合货率和经商熟练度估算货物售价，实际以交易所价格为准
 - 贸易路线管理
-- 卷轴与锁车提醒
+- 卷轴与锁车提醒，支持关注目标和持续认主倒计时
+- 屏幕提示实时预览、拖动定位、字号、颜色、描边与恢复默认
+- 设置与管理窗口逐级返回
 - 界面缩放、位置和配置保存
 
 <p>
@@ -216,15 +218,23 @@ X 不是固定盘符，它代表你电脑上“文档”文件夹所在的盘。
 
 <picture><img src="https://raw.githubusercontent.com/Yunxei/jingxia/main/assets/detail-download.svg" width="18" height="18" alt="" /></picture> **下载**
 
-**packratio 2.7**
+**packratio 2.8**
 
-[![DOWNLOAD](assets/download.svg)](https://github.com/Yunxei/jingxia/releases/download/packratio-v2.7/packratio-2.7.zip)
+[![DOWNLOAD](assets/download.svg)](https://github.com/Yunxei/jingxia/releases/download/packratio-v2.8/packratio-2.8.zip)
 
 <picture><img src="https://raw.githubusercontent.com/Yunxei/jingxia/main/assets/detail-history.svg" width="18" height="18" alt="" /></picture> **更新记录**
 
+`2.8` · 2026-10-05
+
+- 锁车识别支持当前目标和关注目标，持续认主倒计时只由真实 4867 建立和校准。
+- 重新召唤载具覆盖旧认主缓存；缓存到期后的失效提示保留 10 秒再清除，实时失效提示保持原有判断。
+- 卷轴过期提示在连续无背货 120 秒后清除，两种卷轴继续共用计时；重新背货取消计时。
+- 屏幕提示新增可拖动实时预览、文字大小调整、黑色描边开关和恢复默认，设置持久保存。
+- 设置与管理窗口逐级切换、关闭返回上一层；整理屏幕提示设置布局，删除加载成功提示。
+
 `2.7`
 
-当前正式发布版本。
+原正式发布版本。
 
 <hr>
 <hr>
