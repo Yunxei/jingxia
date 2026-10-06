@@ -63,7 +63,6 @@ X 不是固定盘符，它代表你电脑上“文档”文件夹所在的盘。
 <a id="globals"></a>
 
 - globals 是部分插件运行所需的前置插件
-- 当前已确认 TimeUntil、Panoptes、speedometer 使用 globals
 - 多个插件共用同一个 globals，只需安装一份
 
 <picture><img src="https://raw.githubusercontent.com/Yunxei/jingxia/main/assets/detail-download.svg" width="18" height="18" alt="" /></picture> **下载**
