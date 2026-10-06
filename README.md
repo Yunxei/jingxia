@@ -465,13 +465,15 @@ X 不是固定盘符，它代表你电脑上“文档”文件夹所在的盘。
 
 <picture><img src="https://raw.githubusercontent.com/Yunxei/jingxia/main/assets/detail-dependency.svg" width="18" height="18" alt="" /></picture> **前置插件**
 
-需要 **globals**，单独下载并安装到 `Addon/globals/`。Angler 不依赖 FishBuddy、Nuzi Fishing 或 nuzi-core。
+[![DOWNLOAD](assets/download.svg)](https://github.com/Yunxei/jingxia/releases/download/globals/globals.zip)
+
+第一次安装需要同时安装 globals；已经安装过则无需重复安装。
 
 <picture><img src="https://raw.githubusercontent.com/Yunxei/jingxia/main/assets/detail-history.svg" width="18" height="18" alt="" /></picture> **更新记录**
 
 `1.0`
 
-首次正式发布，保持当前实机测试通过的版本。
+当前正式发布版本。
 
 <hr>
 <hr>
