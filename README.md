@@ -433,7 +433,7 @@ X 不是固定盘符，它代表你电脑上“文档”文件夹所在的盘。
 
 <picture><img src="https://raw.githubusercontent.com/Yunxei/jingxia/main/assets/detail-info.svg" width="18" height="18" alt="" /></picture> **插件说明**
 
-钓鱼辅助插件，显示当前鱼的动作、较劲、生命值与距离，并记录带头顶标记的死鱼剩余拾取时间。通过 ESC 菜单中的「钓鱼辅助插件」打开设置。
+钓鱼辅助插件，显示当前鱼的动作、较劲、生命值与距离，并记录带头顶标记的死鱼剩余拾取时间。
 
 <picture><img src="https://raw.githubusercontent.com/Yunxei/jingxia/main/assets/detail-features.svg" width="18" height="18" alt="" /></picture> **主要功能**
 
