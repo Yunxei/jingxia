@@ -10,6 +10,7 @@
 | [ReloadButton](#user-content-reloadbutton) | 1.0 | 2026-10-04 | 快速重载插件 | [![DOWNLOAD](assets/download.svg)](https://github.com/Yunxei/jingxia/releases/download/reloadbutton-v1.0/ReloadButton-1.0.zip) | — |
 | [Nyxaria](#user-content-nyxaria) | 2.0 | 2026-10-04 | 背包整理 | [![DOWNLOAD](assets/download.svg)](https://github.com/Yunxei/jingxia/releases/download/nyxaria-v2.0/Nyxaria-2.0.zip) | — |
 | [combatcloset](#user-content-combatcloset) | 2.5 | 2026-10-05 | 装备与称号一键切换 | [![DOWNLOAD](assets/download.svg)](https://github.com/Yunxei/jingxia/releases/download/combatcloset-v2.5/combatcloset-2.5.zip) | — |
+| [Angler](#user-content-angler) | 1.0 | 2026-10-06 | 钓鱼动作与捡鱼倒计时 | [![DOWNLOAD](assets/download.svg)](https://github.com/Yunxei/jingxia/releases/download/angler-v1.0/Angler-1.0.zip) | globals |
 <br>
 
 > 点击下方插件详情标题展开详细说明。
@@ -426,6 +427,52 @@ X 不是固定盘符，它代表你电脑上“文档”文件夹所在的盘。
 - 新增文字大小调整和黑色描边开关，描边默认开启。
 - 提示位置、文字大小、颜色和描边选择会自动保存。
 - 新增恢复默认，只恢复提示外观，不影响套装、提醒延迟和其他设置。
+
+<hr>
+<hr>
+<hr>
+
+</details>
+
+
+<details>
+<summary> Angler 1.0 ｜ 钓鱼动作与捡鱼倒计时</summary>
+
+<a id="angler"></a>
+
+<picture><img src="https://raw.githubusercontent.com/Yunxei/jingxia/main/assets/detail-info.svg" width="18" height="18" alt="" /></picture> **插件说明**
+
+钓鱼辅助插件，显示当前鱼的动作、较劲、生命值与距离，并记录带头顶标记的死鱼剩余拾取时间。通过 ESC 菜单中的「钓鱼辅助插件」打开设置。
+
+<picture><img src="https://raw.githubusercontent.com/Yunxei/jingxia/main/assets/detail-features.svg" width="18" height="18" alt="" /></picture> **主要功能**
+
+- 显示鱼的动作、较劲图标与游戏 Buff 倒计时；较劲数字和边框随时间由绿逐渐变红。
+- 捡鱼倒计时为 180 秒，支持数字 1～9、爱心、星星和叉，数字随剩余时间渐变，最后 10 秒保持红色。
+- 动作与较劲的图标、文字分别支持开关、大小和描边设置；距离显示可独立开关，默认开启。
+- 可选悬浮窗默认关闭，显示鱼名、生命值、动作、较劲及距离；可取得最大生命值时显示生命条。
+- 设置中的捡鱼记录、动作/较劲和悬浮窗均为演示预览，可拖动并保存各预览区域的位置；关闭设置后预览退出。实战中的动作、较劲与距离跟随选中的鱼，拖动预览不会改变它们相对鱼的位置。捡鱼记录和悬浮窗则使用保存的屏幕位置。
+- 设置窗口可拖动，但自身位置不保存，重新进入游戏后恢复默认；「恢复默认」统一重置显示设置和预览位置。
+
+<p>
+  <a href="https://raw.githubusercontent.com/Yunxei/jingxia/main/assets/screenshots/angler/preview-01.png"><img width="48%" alt="Angler 设置与预览" src="assets/screenshots/angler/preview-01.png" /></a>
+  <a href="https://raw.githubusercontent.com/Yunxei/jingxia/main/assets/screenshots/angler/preview-02.png"><img width="48%" alt="Angler 游戏内效果" src="assets/screenshots/angler/preview-02.png" /></a>
+</p>
+
+<picture><img src="https://raw.githubusercontent.com/Yunxei/jingxia/main/assets/detail-download.svg" width="18" height="18" alt="" /></picture> **下载**
+
+**Angler 1.0**
+
+[![DOWNLOAD](assets/download.svg)](https://github.com/Yunxei/jingxia/releases/download/angler-v1.0/Angler-1.0.zip)
+
+<picture><img src="https://raw.githubusercontent.com/Yunxei/jingxia/main/assets/detail-dependency.svg" width="18" height="18" alt="" /></picture> **前置插件**
+
+需要 **globals**，单独下载并安装到 `Addon/globals/`。Angler 不依赖 FishBuddy、Nuzi Fishing 或 nuzi-core。
+
+<picture><img src="https://raw.githubusercontent.com/Yunxei/jingxia/main/assets/detail-history.svg" width="18" height="18" alt="" /></picture> **更新记录**
+
+`1.0`
+
+首次正式发布，保持当前实机测试通过的版本。
 
 <hr>
 <hr>
