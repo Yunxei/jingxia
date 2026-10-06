@@ -67,7 +67,7 @@ X 不是固定盘符，它代表你电脑上“文档”文件夹所在的盘。
 
 <picture><img src="https://raw.githubusercontent.com/Yunxei/jingxia/main/assets/detail-download.svg" width="18" height="18" alt="" /></picture> **下载**
 
-**globals** 
+**globals**
 
 [![DOWNLOAD](assets/download.svg)](https://github.com/Yunxei/jingxia/releases/download/globals/globals.zip)
 
@@ -102,15 +102,13 @@ X 不是固定盘符，它代表你电脑上“文档”文件夹所在的盘。
   <a href="https://github.com/user-attachments/assets/b813b0c1-d967-4cee-8962-09bd14cd8e6f"><img width="31%" alt="活动时间助手预览3" src="https://github.com/user-attachments/assets/b813b0c1-d967-4cee-8962-09bd14cd8e6f" /></a>
 </p>
 
-
-
 <picture><img src="https://raw.githubusercontent.com/Yunxei/jingxia/main/assets/detail-download.svg" width="18" height="18" alt="" /></picture> **下载**
 
-**TimeUntil 4.9** 
+**TimeUntil 4.9**
 
 [![DOWNLOAD](assets/download.svg)](https://github.com/Yunxei/jingxia/releases/download/timeuntil-v4.9/TimeUntil-4.9.zip)
 
-<picture><img src="https://raw.githubusercontent.com/Yunxei/jingxia/main/assets/detail-dependency.svg" width="18" height="18" alt="" /></picture> 需要前置插件：
+<picture><img src="https://raw.githubusercontent.com/Yunxei/jingxia/main/assets/detail-dependency.svg" width="18" height="18" alt="" /></picture> **前置插件**
 
 [![DOWNLOAD](assets/download.svg)](https://github.com/Yunxei/jingxia/releases/download/globals/globals.zip)
 
@@ -149,7 +147,6 @@ X 不是固定盘符，它代表你电脑上“文档”文件夹所在的盘。
 - 所有功能均可自由改变位置与开关
 - 追踪清单管理与配置保存
 
-
 <p>
   <a href="https://raw.githubusercontent.com/Yunxei/jingxia/main/assets/screenshots/Panoptes/preview-01.png"><img width="31%" alt="Panoptes 预览 1" src="assets/screenshots/Panoptes/preview-01.png" /></a>
   <a href="https://raw.githubusercontent.com/Yunxei/jingxia/main/assets/screenshots/Panoptes/preview-02.png"><img width="31%" alt="Panoptes 预览 2" src="assets/screenshots/Panoptes/preview-02.png" /></a>
@@ -168,8 +165,6 @@ X 不是固定盘符，它代表你电脑上“文档”文件夹所在的盘。
 [![DOWNLOAD](assets/download.svg)](https://github.com/Yunxei/jingxia/releases/download/panoptes-v1.3/Panoptes-1.3.zip)
 
 <picture><img src="https://raw.githubusercontent.com/Yunxei/jingxia/main/assets/detail-dependency.svg" width="18" height="18" alt="" /></picture> **前置插件**
-
-需要前置插件：globals。
 
 [![DOWNLOAD](assets/download.svg)](https://github.com/Yunxei/jingxia/releases/download/globals/globals.zip)
 
@@ -276,8 +271,6 @@ X 不是固定盘符，它代表你电脑上“文档”文件夹所在的盘。
 [![DOWNLOAD](assets/download.svg)](https://github.com/Yunxei/jingxia/releases/download/speedometer-v2.1/speedometer-2.1.zip)
 
 <picture><img src="https://raw.githubusercontent.com/Yunxei/jingxia/main/assets/detail-dependency.svg" width="18" height="18" alt="" /></picture> **前置插件**
-
-需要前置插件：globals。
 
 [![DOWNLOAD](assets/download.svg)](https://github.com/Yunxei/jingxia/releases/download/globals/globals.zip)
 
@@ -432,7 +425,6 @@ X 不是固定盘符，它代表你电脑上“文档”文件夹所在的盘。
 <hr>
 
 </details>
-
 
 <details>
 <summary> Angler 1.0 ｜ 钓鱼辅助</summary>
