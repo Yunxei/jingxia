@@ -435,7 +435,7 @@ X 不是固定盘符，它代表你电脑上“文档”文件夹所在的盘。
 
 
 <details>
-<summary> Angler 1.0 ｜ 钓鱼动作与捡鱼倒计时</summary>
+<summary> Angler 1.0 ｜ 钓鱼辅助</summary>
 
 <a id="angler"></a>
 
