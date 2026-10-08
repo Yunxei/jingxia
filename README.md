@@ -13,6 +13,7 @@
 | [Angler](#user-content-angler) | 1.0 | 2026-10-06 | 钓鱼辅助 | [![DOWNLOAD](assets/download.svg)](https://github.com/Yunxei/jingxia/releases/download/angler-v1.0/Angler-1.0.zip) | globals |
 <br>
 
+> 有BUG或者建议可以联系我，我会第二时间更新，因为第一时间我要农。
 > 点击下方插件详情标题展开详细说明。
 
 <br>
