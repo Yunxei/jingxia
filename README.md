@@ -3,7 +3,7 @@
 | 插件 | 当前版本 | 更新时间 | 简介 | 下载 | 前置插件 |
 | --- | --- | --- | --- | --- | --- |
 | [globals](#user-content-globals) | — | — | 前置插件 | [![DOWNLOAD](assets/download.svg)](https://github.com/Yunxei/jingxia/releases/download/globals/globals.zip) | — |
-| [Astravia 星途](#user-content-astravia) | 1.0 Beta | 2026-10-08 | 地图与点位导航 | [![DOWNLOAD](assets/download.svg)](https://github.com/Yunxei/jingxia/releases/download/astravia-v1.0-beta/Astravia-1.0-Beta.zip) | globals |
+| [Astravia](#user-content-astravia) | 1.0 Beta | 2026-10-08 | 地图与点位导航 | [![DOWNLOAD](assets/download.svg)](https://github.com/Yunxei/jingxia/releases/download/astravia-v1.0-beta/Astravia-1.0-Beta.zip) | globals |
 | [TimeUntil](#user-content-timeuntil) | 4.9 | 2026-10-04 | 活动/地区时间 | [![DOWNLOAD](assets/download.svg)](https://github.com/Yunxei/jingxia/releases/download/timeuntil-v4.9/TimeUntil-4.9.zip) | globals |
 | [Panoptes](#user-content-panoptes) | 1.3 | 2026-10-04 | 玩家状态追踪 | [![DOWNLOAD](assets/download.svg)](https://github.com/Yunxei/jingxia/releases/download/panoptes-v1.3/Panoptes-1.3.zip) | globals |
 | [packratio](#user-content-packratio) | 2.8 | 2026-10-05 | 显示地区货率 | [![DOWNLOAD](assets/download.svg)](https://github.com/Yunxei/jingxia/releases/download/packratio-v2.8/packratio-2.8.zip) | — |
@@ -480,27 +480,45 @@ X 不是固定盘符，它代表你电脑上“文档”文件夹所在的盘。
 </details>
 
 <details>
-<summary>Astravia 星途 ｜ 地图与点位导航</summary>
+<summary> Astravia 1.0 Beta ｜ 地图与点位导航</summary>
 
 <a id="astravia"></a>
 
-**插件说明**
-
-支持沉船、藏宝图、探索点及海虫点位导航。当前版本为 1.0 Beta 测试版。
+<picture><img src="https://raw.githubusercontent.com/Yunxei/jingxia/main/assets/detail-info.svg" width="18" height="18" alt="" /></picture> **插件说明**
 
 插件体积主要来自地图和图标素材，文件大小不等同于运行时性能开销。  
 实际插件影响性能程度很低，目前个人实机使用中未观察到影响。
 
-**下载**
+<picture><img src="https://raw.githubusercontent.com/Yunxei/jingxia/main/assets/detail-features.svg" width="18" height="18" alt="" /></picture> **主要功能**
+
+- 沉船、藏宝图、探索点及海虫点位导航。
+- 地图点位显示与最近传送点推荐。
+- 分类进度、上一处、下一处与重置。
+
+<p>
+  <a href="https://raw.githubusercontent.com/Yunxei/jingxia/main/assets/screenshots/Astravia/preview-01.png"><img width="48%" alt="Astravia 预览 1" src="assets/screenshots/Astravia/preview-01.png" /></a>
+  <a href="https://raw.githubusercontent.com/Yunxei/jingxia/main/assets/screenshots/Astravia/preview-02.png"><img width="48%" alt="Astravia 预览 2" src="assets/screenshots/Astravia/preview-02.png" /></a>
+</p>
+
+<p>
+  <a href="https://raw.githubusercontent.com/Yunxei/jingxia/main/assets/screenshots/Astravia/preview-03.png"><img width="48%" alt="Astravia 预览 3" src="assets/screenshots/Astravia/preview-03.png" /></a>
+  <a href="https://raw.githubusercontent.com/Yunxei/jingxia/main/assets/screenshots/Astravia/preview-04.png"><img width="48%" alt="Astravia 预览 4" src="assets/screenshots/Astravia/preview-04.png" /></a>
+</p>
+
+<picture><img src="https://raw.githubusercontent.com/Yunxei/jingxia/main/assets/detail-download.svg" width="18" height="18" alt="" /></picture> **下载**
 
 [![DOWNLOAD](assets/download.svg)](https://github.com/Yunxei/jingxia/releases/download/astravia-v1.0-beta/Astravia-1.0-Beta.zip)
 
-**前置插件**
+<picture><img src="https://raw.githubusercontent.com/Yunxei/jingxia/main/assets/detail-dependency.svg" width="18" height="18" alt="" /></picture> **前置插件**
 
-[globals](https://github.com/Yunxei/jingxia/releases/download/globals/globals.zip)。第一次安装需要同时安装 globals；已经安装过则无需重复安装。
+[![DOWNLOAD](assets/download.svg)](https://github.com/Yunxei/jingxia/releases/download/globals/globals.zip)
 
-**更新记录**
+第一次安装需要同时安装 globals；已经安装过则无需重复安装。
 
-1.0 Beta · 2026-10-08：发布测试版，运行文件整合为 3 个 Lua，地图和图标统一放在 images 文件夹。
+<picture><img src="https://raw.githubusercontent.com/Yunxei/jingxia/main/assets/detail-history.svg" width="18" height="18" alt="" /></picture> **更新记录**
+
+1.0 Beta
+
+当前测试发布版本。
 
 </details>
