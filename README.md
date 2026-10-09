@@ -7,7 +7,7 @@
 | [TimeUntil](#user-content-timeuntil) | 4.9 | 2026-10-04 | 活动/地区时间 | [![DOWNLOAD](assets/download.svg)](https://github.com/Yunxei/jingxia/releases/download/timeuntil-v4.9/TimeUntil-4.9.zip) | globals |
 | [Panoptes](#user-content-panoptes) | 1.3 | 2026-10-04 | 玩家状态追踪 | [![DOWNLOAD](assets/download.svg)](https://github.com/Yunxei/jingxia/releases/download/panoptes-v1.3/Panoptes-1.3.zip) | globals |
 | [packratio](#user-content-packratio) | 2.8 | 2026-10-05 | 显示地区货率 | [![DOWNLOAD](assets/download.svg)](https://github.com/Yunxei/jingxia/releases/download/packratio-v2.8/packratio-2.8.zip) | — |
-| [speedometer](#user-content-speedometer) | 2.1 | 2026-10-05 | 速度显示 | [![DOWNLOAD](assets/download.svg)](https://github.com/Yunxei/jingxia/releases/download/speedometer-v2.1/speedometer-2.1.zip) | globals |
+| [speedometer](#user-content-speedometer) | 2.2 | 2026-10-09 | 速度显示 | [![DOWNLOAD](assets/download.svg)](https://github.com/Yunxei/jingxia/releases/download/speedometer-v2.2/speedometer-2.2.zip) | globals |
 | [ReloadButton](#user-content-reloadbutton) | 1.0 | 2026-10-04 | 快速重载插件 | [![DOWNLOAD](assets/download.svg)](https://github.com/Yunxei/jingxia/releases/download/reloadbutton-v1.0/ReloadButton-1.0.zip) | — |
 | [Nyxaria](#user-content-nyxaria) | 2.1 | 2026-10-07 | 背包整理 | [![DOWNLOAD](assets/download.svg)](https://github.com/Yunxei/jingxia/releases/download/nyxaria-v2.1/Nyxaria-2.1.zip) | — |
 | [combatcloset](#user-content-combatcloset) | 2.5 | 2026-10-05 | 装备与称号一键切换 | [![DOWNLOAD](assets/download.svg)](https://github.com/Yunxei/jingxia/releases/download/combatcloset-v2.5/combatcloset-2.5.zip) | — |
@@ -245,7 +245,7 @@ X 不是固定盘符，它代表你电脑上“文档”文件夹所在的盘。
 </details>
 
 <details>
-<summary> speedometer 2.1 ｜ 速度显示</summary>
+<summary> speedometer 2.2 ｜ 速度显示</summary>
 
 <a id="speedometer"></a>
 
@@ -258,6 +258,7 @@ X 不是固定盘符，它代表你电脑上“文档”文件夹所在的盘。
 - 载具与非载具速度显示，分别设置开关并保存选择
 - 非载具包含步行、坐骑和滑翔翼，默认关闭，可在设置中开启
 - 一个速度表，只显示一位小数的速度数字
+- 驾驶载具时显示转向数值及左右箭头，倒车速度不显示负号
 - 实时预览，可拖动调整位置
 - 文字大小、颜色和黑色描边实时调整并保存
 - 恢复默认位置与外观，保留显示开关
@@ -269,9 +270,9 @@ X 不是固定盘符，它代表你电脑上“文档”文件夹所在的盘。
 
 <picture><img src="https://raw.githubusercontent.com/Yunxei/jingxia/main/assets/detail-download.svg" width="18" height="18" alt="" /></picture> **下载**
 
-**speedometer 2.1**
+**speedometer 2.2**
 
-[![DOWNLOAD](assets/download.svg)](https://github.com/Yunxei/jingxia/releases/download/speedometer-v2.1/speedometer-2.1.zip)
+[![DOWNLOAD](assets/download.svg)](https://github.com/Yunxei/jingxia/releases/download/speedometer-v2.2/speedometer-2.2.zip)
 
 <picture><img src="https://raw.githubusercontent.com/Yunxei/jingxia/main/assets/detail-dependency.svg" width="18" height="18" alt="" /></picture> **前置插件**
 
@@ -280,6 +281,11 @@ X 不是固定盘符，它代表你电脑上“文档”文件夹所在的盘。
 第一次安装需要同时安装 globals；已经安装过则无需重复安装。
 
 <picture><img src="https://raw.githubusercontent.com/Yunxei/jingxia/main/assets/detail-history.svg" width="18" height="18" alt="" /></picture> **更新记录**
+
+`2.2` · 2026-10-09
+
+- 恢复载具转向数值及左右箭头显示。
+- 倒车时速度显示为正数，不再出现负号。
 
 `2.1` · 2026-10-05
 
