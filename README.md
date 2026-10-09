@@ -3,7 +3,7 @@
 | 插件 | 当前版本 | 更新时间 | 简介 | 下载 | 前置插件 |
 | --- | --- | --- | --- | --- | --- |
 | [globals](#user-content-globals) | — | — | 前置插件 | [![DOWNLOAD](assets/download.svg)](https://github.com/Yunxei/jingxia/releases/download/globals/globals.zip) | — |
-| [Astravia](#user-content-astravia) | 1.0 Beta | 2026-10-08 | 地图与点位导航 | [![DOWNLOAD](assets/download.svg)](https://github.com/Yunxei/jingxia/releases/download/astravia-v1.0-beta/Astravia-1.0-Beta.zip) | globals |
+| [Astravia](#user-content-astravia) | 1.1 Beta | 2026-10-09 | 地图与点位导航 | [![DOWNLOAD](assets/download.svg)](https://github.com/Yunxei/jingxia/releases/download/astravia-v1.1-beta/Astravia-1.1-Beta.zip) | globals |
 | [TimeUntil](#user-content-timeuntil) | 4.9 | 2026-10-04 | 活动/地区时间 | [![DOWNLOAD](assets/download.svg)](https://github.com/Yunxei/jingxia/releases/download/timeuntil-v4.9/TimeUntil-4.9.zip) | globals |
 | [Panoptes](#user-content-panoptes) | 1.3 | 2026-10-04 | 玩家状态追踪 | [![DOWNLOAD](assets/download.svg)](https://github.com/Yunxei/jingxia/releases/download/panoptes-v1.3/Panoptes-1.3.zip) | globals |
 | [packratio](#user-content-packratio) | 2.8 | 2026-10-05 | 显示地区货率 | [![DOWNLOAD](assets/download.svg)](https://github.com/Yunxei/jingxia/releases/download/packratio-v2.8/packratio-2.8.zip) | — |
@@ -486,7 +486,7 @@ X 不是固定盘符，它代表你电脑上“文档”文件夹所在的盘。
 </details>
 
 <details>
-<summary> Astravia 1.0 Beta ｜ 地图与点位导航</summary>
+<summary> Astravia 1.1 Beta ｜ 地图与点位导航</summary>
 
 <a id="astravia"></a>
 
@@ -513,7 +513,7 @@ X 不是固定盘符，它代表你电脑上“文档”文件夹所在的盘。
 
 <picture><img src="https://raw.githubusercontent.com/Yunxei/jingxia/main/assets/detail-download.svg" width="18" height="18" alt="" /></picture> **下载**
 
-[![DOWNLOAD](assets/download.svg)](https://github.com/Yunxei/jingxia/releases/download/astravia-v1.0-beta/Astravia-1.0-Beta.zip)
+[![DOWNLOAD](assets/download.svg)](https://github.com/Yunxei/jingxia/releases/download/astravia-v1.1-beta/Astravia-1.1-Beta.zip)
 
 <picture><img src="https://raw.githubusercontent.com/Yunxei/jingxia/main/assets/detail-dependency.svg" width="18" height="18" alt="" /></picture> **前置插件**
 
@@ -522,6 +522,16 @@ X 不是固定盘符，它代表你电脑上“文档”文件夹所在的盘。
 第一次安装需要同时安装 globals；已经安装过则无需重复安装。
 
 <picture><img src="https://raw.githubusercontent.com/Yunxei/jingxia/main/assets/detail-history.svg" width="18" height="18" alt="" /></picture> **更新记录**
+
+1.1 Beta
+
+- 修复探索点筛选窗口的闪退问题，调整弹窗位置及全选／全取消操作。
+- 调整地图页签间距，功能区向右展开时保持地图位置不变。
+- 重进游戏时地图居中，功能区默认收起。
+- 新增导航窗口屏幕四边及角落吸附。
+- 新增入口图标显示强度设置。
+- 新增导航窗口、地图窗口大小设置，支持实时预览和保存。
+- ESC 菜单入口改为“地图坐标插件”，使用地图图标。
 
 1.0 Beta
 
