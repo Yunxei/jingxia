@@ -492,7 +492,8 @@ X 不是固定盘符，它代表你电脑上“文档”文件夹所在的盘。
 
 <picture><img src="https://raw.githubusercontent.com/Yunxei/jingxia/main/assets/detail-info.svg" width="18" height="18" alt="" /></picture> **插件说明**
 
-插件体积主要来自地图和图标素材，文件大小不等同于运行时性能开销。  
+插件体积主要来自地图和图标素材，文件大小不等同于运行时性能开销。
+地图图片文件≈21MB、代码及坐标数据≈0.7MB
 实际插件影响性能程度很低，目前个人实机使用中未观察到影响。
 
 <picture><img src="https://raw.githubusercontent.com/Yunxei/jingxia/main/assets/detail-features.svg" width="18" height="18" alt="" /></picture> **主要功能**
