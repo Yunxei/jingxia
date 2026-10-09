@@ -11,7 +11,7 @@
 | [Nyxaria](#user-content-nyxaria) | 2.1 | 2026-10-07 | 背包整理 | [![DOWNLOAD](assets/download.svg)](https://github.com/Yunxei/jingxia/releases/download/nyxaria-v2.1/Nyxaria-2.1.zip) | — |
 | [combatcloset](#user-content-combatcloset) | 2.5 | 2026-10-05 | 装备与称号一键切换 | [![DOWNLOAD](assets/download.svg)](https://github.com/Yunxei/jingxia/releases/download/combatcloset-v2.5/combatcloset-2.5.zip) | — |
 | [Angler](#user-content-angler) | 1.0 | 2026-10-06 | 钓鱼辅助 | [![DOWNLOAD](assets/download.svg)](https://github.com/Yunxei/jingxia/releases/download/angler-v1.0/Angler-1.0.zip) | globals |
-| [Astravia](#user-content-astravia) | 1.1 Beta | 2026-10-09 | 地图与点位导航 | [![DOWNLOAD](assets/download.svg)](https://github.com/Yunxei/jingxia/releases/download/astravia-v1.1-beta/Astravia-1.1-Beta.zip) | globals |
+| [Astravia](#user-content-astravia) | 1.2 Beta | 2026-10-09 | 地图与点位导航 | [![DOWNLOAD](assets/download.svg)](https://github.com/Yunxei/jingxia/releases/download/astravia-v1.2-beta/Astravia-1.2-Beta.zip) | globals |
 <br>
 
 > 有BUG或者建议可以联系我，我会第二时间更新，因为第一时间我要农。
@@ -486,7 +486,7 @@ X 不是固定盘符，它代表你电脑上“文档”文件夹所在的盘。
 </details>
 
 <details>
-<summary> Astravia 1.1 Beta ｜ 地图与点位导航</summary>
+<summary> Astravia 1.2 Beta ｜ 地图与点位导航</summary>
 
 <a id="astravia"></a>
 
@@ -514,7 +514,7 @@ X 不是固定盘符，它代表你电脑上“文档”文件夹所在的盘。
 
 <picture><img src="https://raw.githubusercontent.com/Yunxei/jingxia/main/assets/detail-download.svg" width="18" height="18" alt="" /></picture> **下载**
 
-[![DOWNLOAD](assets/download.svg)](https://github.com/Yunxei/jingxia/releases/download/astravia-v1.1-beta/Astravia-1.1-Beta.zip)
+[![DOWNLOAD](assets/download.svg)](https://github.com/Yunxei/jingxia/releases/download/astravia-v1.2-beta/Astravia-1.2-Beta.zip)
 
 <picture><img src="https://raw.githubusercontent.com/Yunxei/jingxia/main/assets/detail-dependency.svg" width="18" height="18" alt="" /></picture> **前置插件**
 
@@ -523,6 +523,14 @@ X 不是固定盘符，它代表你电脑上“文档”文件夹所在的盘。
 第一次安装需要同时安装 globals；已经安装过则无需重复安装。
 
 <picture><img src="https://raw.githubusercontent.com/Yunxei/jingxia/main/assets/detail-history.svg" width="18" height="18" alt="" /></picture> **更新记录**
+
+1.2 Beta
+
+1. 新增说明窗口。
+2. 新增区域名称支持复制。
+3. 调整导航信息字号与行距。
+4. 修复选择标记后导航窗口意外位移。
+5. 修复导航窗口缩放后的贴边位置恢复。
 
 1.1 Beta
 
