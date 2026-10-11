@@ -506,6 +506,7 @@ X 不是固定盘符，它代表你电脑上“文档”文件夹所在的盘。
 - 种植、采集、伐木、采矿、领地资源点及首领分类，支持按种类筛选。
 - 探索包含陈旧的坛子、陈旧的遗物箱、探险家的背包、龟船打捞点、呼吸耳环信物及呼吸耳环信物Boss房间。
 - 自定义点位支持导入、记录当前位置、修改名称及备注、分页管理和删除。
+- 支持地图定位、最近传送点推荐，点击坐标、区域名或传送点名可复制对应内容。
 
 <p>
   <a href="https://raw.githubusercontent.com/Yunxei/jingxia/main/assets/screenshots/Astravia/preview-01.png"><img width="48%" alt="Astravia 预览 1" src="assets/screenshots/Astravia/preview-01.png" /></a>
