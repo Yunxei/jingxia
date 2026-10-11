@@ -11,7 +11,7 @@
 | [Nyxaria](#user-content-nyxaria) | 2.1 | 2026-10-07 | 背包整理 | [![DOWNLOAD](assets/download.svg)](https://github.com/Yunxei/jingxia/releases/download/nyxaria-v2.1/Nyxaria-2.1.zip) | — |
 | [combatcloset](#user-content-combatcloset) | 2.5 | 2026-10-05 | 装备与称号一键切换 | [![DOWNLOAD](assets/download.svg)](https://github.com/Yunxei/jingxia/releases/download/combatcloset-v2.5/combatcloset-2.5.zip) | — |
 | [Angler](#user-content-angler) | 1.0 | 2026-10-06 | 钓鱼辅助 | [![DOWNLOAD](assets/download.svg)](https://github.com/Yunxei/jingxia/releases/download/angler-v1.0/Angler-1.0.zip) | globals |
-| [Astravia](#user-content-astravia) | 1.2 Beta | 2026-10-09 | 地图与点位导航 | [![DOWNLOAD](assets/download.svg)](https://github.com/Yunxei/jingxia/releases/download/astravia-v1.2-beta/Astravia-1.2-Beta.zip) | globals |
+| [Astravia](#user-content-astravia) | 1.3 Beta | 2026-10-11 | 地图、资源与点位导航 | [![DOWNLOAD](assets/download.svg)](https://github.com/Yunxei/jingxia/releases/download/astravia-v1.3-beta/Astravia-1.3-Beta.zip) | globals |
 <br>
 
 > 有BUG或者建议可以联系我，我会第二时间更新，因为第一时间我要农。
@@ -490,23 +490,39 @@ X 不是固定盘符，它代表你电脑上“文档”文件夹所在的盘。
 </details>
 
 <details>
-<summary> Astravia 1.2 Beta ｜ 地图与点位导航</summary>
+<summary> Astravia 1.3 Beta ｜ 地图与点位导航</summary>
 
 <a id="astravia"></a>
 
 <picture><img src="https://raw.githubusercontent.com/Yunxei/jingxia/main/assets/detail-info.svg" width="18" height="18" alt="" /></picture> **插件说明**
 
-插件体积主要来自地图和图标素材，文件大小不等同于运行时性能开销。
+基础操作：
+点击标记开始导航，点击对应地图区域可进入详细地图。
+滚轮缩放，按住地图或标记拖动可平移，右键返回上一级。
 
-地图图片文件≈21MB、代码及坐标数据≈0.7MB
+导航窗口：
+点击当前坐标、目标坐标、区域名或传送点名，可复制对应内容。
+罗盘绿色表示主方向，黄色表示辅助方向，箭头表示人物朝向。
 
-实际插件影响性能程度很低，目前个人实机使用中未观察到影响。
+探索点功能区可切换探索、种植、采集、伐木、采矿、领地资源点和首领。筛选默认全选，修改后点击“应用”，各分类分别保存选择。
+
+探索、资源和首领点按“分类＋种类＋所属地图”固定编号，筛选不会重新编号。自定义点位可导入坐标或记录当前位置，保存名称及备注，重进游戏后仍保留。
+
+资源与首领点位已内置，无需同时运行 WorldSatNav。
+
+地图与图标素材约21MB，代码及坐标数据约2.3MB。插件体积主要来自素材，文件大小不等同于运行时性能开销。
 
 <picture><img src="https://raw.githubusercontent.com/Yunxei/jingxia/main/assets/detail-features.svg" width="18" height="18" alt="" /></picture> **主要功能**
 
-- 沉船、藏宝图、探索点及海虫点位导航。
-- 地图点位显示与最近传送点推荐。
-- 分类进度、上一处、下一处与重置。
+- 沉船、藏宝图、探索点、海虫点及自定义点位导航。
+- 种植、采集、伐木、采矿、领地资源点及首领分类，支持按种类筛选、全选／全取消和分页。
+- 探索包含陈旧的坛子、陈旧的遗物箱、探险家的背包、龟船打捞点、呼吸耳环信物及呼吸耳环信物Boss房间。
+- 地图点位显示、游戏地图定位、返回目标所属地图及最近传送点推荐。
+- 罗盘主方向突出显示，辅助方向渐变；方向接近准确时弱化辅助提示。
+- 当前坐标、目标坐标、区域名及传送点名可点击复制；自定义点位坐标也支持复制。
+- 自定义点位支持导入、记录当前位置、修改名称及备注、分页管理和删除。
+- 分类完成进度、上一处、下一处与重置；藏宝图挖完后自动接续下一张导航。
+- 地图与导航窗口大小设置、导航窗口贴边吸附及入口图标显示强度设置。
 
 <p>
   <a href="https://raw.githubusercontent.com/Yunxei/jingxia/main/assets/screenshots/Astravia/preview-01.png"><img width="48%" alt="Astravia 预览 1" src="assets/screenshots/Astravia/preview-01.png" /></a>
@@ -520,7 +536,7 @@ X 不是固定盘符，它代表你电脑上“文档”文件夹所在的盘。
 
 <picture><img src="https://raw.githubusercontent.com/Yunxei/jingxia/main/assets/detail-download.svg" width="18" height="18" alt="" /></picture> **下载**
 
-[![DOWNLOAD](assets/download.svg)](https://github.com/Yunxei/jingxia/releases/download/astravia-v1.2-beta/Astravia-1.2-Beta.zip)
+[![DOWNLOAD](assets/download.svg)](https://github.com/Yunxei/jingxia/releases/download/astravia-v1.3-beta/Astravia-1.3-Beta.zip)
 
 <picture><img src="https://raw.githubusercontent.com/Yunxei/jingxia/main/assets/detail-dependency.svg" width="18" height="18" alt="" /></picture> **前置插件**
 
@@ -529,6 +545,18 @@ X 不是固定盘符，它代表你电脑上“文档”文件夹所在的盘。
 第一次安装需要同时安装 globals；已经安装过则无需重复安装。
 
 <picture><img src="https://raw.githubusercontent.com/Yunxei/jingxia/main/assets/detail-history.svg" width="18" height="18" alt="" /></picture> **更新记录**
+
+1.3 Beta
+
+1. 新增自定义点位：导入坐标、记录当前位置、修改名称和备注、分页管理、删除及导航，点位可保存。
+2. 新增分类菜单及独立筛选，默认全选，支持全选／全取消及分页。
+3. 新增种植、采集、伐木、采矿、领地资源点，共3183处。
+4. 新增龟船打捞点、呼吸耳环信物及呼吸耳环信物Boss房间，共17处。
+5. 新增首领分类，共15处，包含纳扎尔。
+6. 新增40条传送点、更正4条旧数据，移除王宫下水道。
+7. 罗盘增加绿色主方向、渐变辅助方向及字号变化。
+8. 探索、资源和首领按种类、地图固定编号，筛选不会重新编号。
+9. 移除“导航最近点位”按钮。
 
 1.2 Beta
 
