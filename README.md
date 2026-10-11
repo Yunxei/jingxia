@@ -496,9 +496,9 @@ X 不是固定盘符，它代表你电脑上“文档”文件夹所在的盘。
 
 <picture><img src="https://raw.githubusercontent.com/Yunxei/jingxia/main/assets/detail-info.svg" width="18" height="18" alt="" /></picture> **插件说明**
 
-内置61张地图、约4200个点位坐标。
+内置地图61张，点位坐标≈4200个。
 
-地图与图标素材约21MB，代码及坐标数据约2.3MB。
+地图与图标素材≈21MB，代码及坐标数据≈2.3MB。
 
 插件体积主要来自素材，文件大小不等同于运行时性能开销。
 
