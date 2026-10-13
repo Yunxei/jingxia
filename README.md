@@ -12,6 +12,7 @@
 | [combatcloset](#user-content-combatcloset) | 2.6 | 2026-10-13 | 装备与称号一键切换 | [![DOWNLOAD](assets/download.svg)](https://github.com/Yunxei/jingxia/releases/download/combatcloset-v2.6/combatcloset-2.6.zip) | — |
 | [Angler](#user-content-angler) | 1.0 | 2026-10-06 | 钓鱼辅助 | [![DOWNLOAD](assets/download.svg)](https://github.com/Yunxei/jingxia/releases/download/angler-v1.0/Angler-1.0.zip) | globals |
 | [Astravia](#user-content-astravia) | 1.3 Beta | 2026-10-11 | 地图、资源与点位导航 | [![DOWNLOAD](assets/download.svg)](https://github.com/Yunxei/jingxia/releases/download/astravia-v1.3-beta/Astravia-1.3-Beta.zip) | globals |
+| [LayoutKeeper](#user-content-layoutkeeper) | 1.0 | 2026-10-13 | 界面布局保存与迁移 | [![DOWNLOAD](assets/download.svg)](https://github.com/Yunxei/jingxia/releases/download/layoutkeeper-v1.0/LayoutKeeper-1.0.zip) | globals |
 <br>
 
 > 有BUG或者建议可以联系我，我会第二时间更新，因为第一时间我要农。
@@ -571,5 +572,46 @@ X 不是固定盘符，它代表你电脑上“文档”文件夹所在的盘。
 1.0 Beta
 
 当前测试发布版本。
+
+</details>
+
+<details>
+<summary> LayoutKeeper 1.0 ｜ 界面布局保存与迁移</summary>
+
+<a id="layoutkeeper"></a>
+
+<picture><img src="https://raw.githubusercontent.com/Yunxei/jingxia/main/assets/detail-info.svg" width="18" height="18" alt="" /></picture> **插件说明**
+
+保存界面布局，供不同角色或电脑应用。ESC 菜单第四列打开“界面布局插件”。
+
+<picture><img src="https://raw.githubusercontent.com/Yunxei/jingxia/main/assets/detail-features.svg" width="18" height="18" alt="" /></picture> **主要功能**
+
+- 保存已手动移动的界面位置及缩放比例，支持命名、应用和删除布局。
+- 导出全部已保存布局至插件目录的 `config.txt`，文件顶部列出布局名称；再次导出会覆盖该文件。
+- 导入 `config.txt` 加入布局列表；不同名称分别保留，同名同内容跳过，同名不同内容自动编号。
+- 导入后选择布局并点击应用。技能栏横竖无法自动识别，首次应用后手动调整横竖，再应用一次。
+- 更新时保留个人存档 `ui_bounds.lua` 和导出文件 `config.txt`。
+
+<p><a href="https://raw.githubusercontent.com/Yunxei/jingxia/main/assets/screenshots/LayoutKeeper/preview-01.png"><img width="85%" alt="保存角色1布局" src="assets/screenshots/LayoutKeeper/preview-01.png" /></a></p>
+
+<p><a href="https://raw.githubusercontent.com/Yunxei/jingxia/main/assets/screenshots/LayoutKeeper/preview-02.png"><img width="85%" alt="角色2当前布局及插件界面" src="assets/screenshots/LayoutKeeper/preview-02.png" /></a></p>
+
+<p><a href="https://raw.githubusercontent.com/Yunxei/jingxia/main/assets/screenshots/LayoutKeeper/preview-03.png"><img width="85%" alt="应用布局后的效果" src="assets/screenshots/LayoutKeeper/preview-03.png" /></a></p>
+
+<picture><img src="https://raw.githubusercontent.com/Yunxei/jingxia/main/assets/detail-download.svg" width="18" height="18" alt="" /></picture> **下载**
+
+[![DOWNLOAD](assets/download.svg)](https://github.com/Yunxei/jingxia/releases/download/layoutkeeper-v1.0/LayoutKeeper-1.0.zip)
+
+<picture><img src="https://raw.githubusercontent.com/Yunxei/jingxia/main/assets/detail-dependency.svg" width="18" height="18" alt="" /></picture> **前置插件**
+
+[![DOWNLOAD](assets/download.svg)](https://github.com/Yunxei/jingxia/releases/download/globals/globals.zip)
+
+第一次安装需要同时安装 globals；已经安装过则无需重复安装。
+
+<picture><img src="https://raw.githubusercontent.com/Yunxei/jingxia/main/assets/detail-history.svg" width="18" height="18" alt="" /></picture> **更新记录**
+
+1.0
+
+当前正式发布版本。
 
 </details>
