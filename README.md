@@ -5,7 +5,7 @@
 | [globals](#user-content-globals) | — | — | 前置插件 | [![DOWNLOAD](assets/download.svg)](https://github.com/Yunxei/jingxia/releases/download/globals/globals.zip) | — |
 | [TimeUntil](#user-content-timeuntil) | 5.0 | 2026-10-11 | 活动/地区时间 | [![DOWNLOAD](assets/download.svg)](https://github.com/Yunxei/jingxia/releases/download/timeuntil-v5.0/TimeUntil-5.0.zip) | globals |
 | [Panoptes](#user-content-panoptes) | 1.3 | 2026-10-04 | 玩家状态追踪 | [![DOWNLOAD](assets/download.svg)](https://github.com/Yunxei/jingxia/releases/download/panoptes-v1.3/Panoptes-1.3.zip) | globals |
-| [packratio](#user-content-packratio) | 2.8 | 2026-10-05 | 显示地区货率 | [![DOWNLOAD](assets/download.svg)](https://github.com/Yunxei/jingxia/releases/download/packratio-v2.8/packratio-2.8.zip) | — |
+| [packratio](#user-content-packratio) | 2.9 | 2026-10-13 | 多路线货率与贸易提醒 | [![DOWNLOAD](assets/download.svg)](https://github.com/Yunxei/jingxia/releases/download/packratio-v2.9/packratio-2.9.zip) | — |
 | [speedometer](#user-content-speedometer) | 2.2 | 2026-10-09 | 速度显示 | [![DOWNLOAD](assets/download.svg)](https://github.com/Yunxei/jingxia/releases/download/speedometer-v2.2/speedometer-2.2.zip) | globals |
 | [ReloadButton](#user-content-reloadbutton) | 1.0 | 2026-10-04 | 快速重载插件 | [![DOWNLOAD](assets/download.svg)](https://github.com/Yunxei/jingxia/releases/download/reloadbutton-v1.0/ReloadButton-1.0.zip) | — |
 | [Nyxaria](#user-content-nyxaria) | 2.1 | 2026-10-07 | 背包整理 | [![DOWNLOAD](assets/download.svg)](https://github.com/Yunxei/jingxia/releases/download/nyxaria-v2.1/Nyxaria-2.1.zip) | — |
@@ -191,23 +191,21 @@ X 不是固定盘符，它代表你电脑上“文档”文件夹所在的盘。
 </details>
 
 <details>
-<summary> packratio 2.8 ｜ 显示地区货率</summary>
+<summary> packratio 2.9 ｜ 多路线货率与贸易提醒</summary>
 
 <a id="packratio"></a>
 
 <picture><img src="https://raw.githubusercontent.com/Yunxei/jingxia/main/assets/detail-info.svg" width="18" height="18" alt="" /></picture> **插件说明**
 
-用于查看地区贸易货率，管理贸易路线和相关提醒。
+用于查询地区贸易货率、管理路线及显示相关提醒。
 
 <picture><img src="https://raw.githubusercontent.com/Yunxei/jingxia/main/assets/detail-features.svg" width="18" height="18" alt="" /></picture> **主要功能**
 
-- 地区贸易货率显示
-- 结合货率和经商熟练度估算货物售价，实际以交易所价格为准
-- 贸易路线管理
-- 卷轴与锁车提醒，支持关注目标和持续认主倒计时
-- 屏幕提示实时预览、拖动定位、字号、颜色、描边与恢复默认
-- 设置与管理窗口逐级返回
-- 界面缩放、位置和配置保存
+- 多路线货率显示，最多五条
+- 货率文本输出与货物售价估算
+- 路线收藏、组合与默认路线
+- 查询状态、倒计时与超时恢复
+- 卷轴过期与载具认主提醒
 
 <p>
   <a href="https://raw.githubusercontent.com/Yunxei/jingxia/main/assets/screenshots/packratio/preview-01.png"><img width="31%" alt="packratio 预览 1" src="assets/screenshots/packratio/preview-01.png" /></a>
@@ -221,11 +219,22 @@ X 不是固定盘符，它代表你电脑上“文档”文件夹所在的盘。
 
 <picture><img src="https://raw.githubusercontent.com/Yunxei/jingxia/main/assets/detail-download.svg" width="18" height="18" alt="" /></picture> **下载**
 
-**packratio 2.8**
+**packratio 2.9**
 
-[![DOWNLOAD](assets/download.svg)](https://github.com/Yunxei/jingxia/releases/download/packratio-v2.8/packratio-2.8.zip)
+[![DOWNLOAD](assets/download.svg)](https://github.com/Yunxei/jingxia/releases/download/packratio-v2.9/packratio-2.9.zip)
 
 <picture><img src="https://raw.githubusercontent.com/Yunxei/jingxia/main/assets/detail-history.svg" width="18" height="18" alt="" /></picture> **更新记录**
+
+`2.9`
+
+- 新增多路线货率显示，最多同时显示五条。
+- 新增路线组合收藏、加载及默认设置。
+- 新增查询倒计时、状态显示和超时恢复。
+- 新增收藏路线向下排序、帮助说明及右上角关闭按钮。
+- 优化组合加载，保留相同路线已有的货率数据。
+- 恢复进入游戏时预查询顶部路线，改善首次显示速度。
+- 修正刷新顺序，优化排间距及状态按钮对齐。
+- 移除聊天查询指令。
 
 `2.8` · 2026-10-05
 
