@@ -201,10 +201,9 @@ X 不是固定盘符，它代表你电脑上“文档”文件夹所在的盘。
 
 <picture><img src="https://raw.githubusercontent.com/Yunxei/jingxia/main/assets/detail-features.svg" width="18" height="18" alt="" /></picture> **主要功能**
 
-- 多路线货率显示，最多五条
+- 单条路线/多路线货率显示，最多五条
 - 货率文本输出与货物售价估算
-- 路线收藏、组合与默认路线
-- 查询状态、倒计时与超时恢复
+- 路线收藏、默认路线与组合
 - 卷轴过期与载具认主提醒
 
 <p>
