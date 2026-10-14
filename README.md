@@ -20,6 +20,7 @@
 > 点击下方插件详情标题展开详细说明。
 
 <br>
+
 <details>
 <summary>安装说明</summary>
 
@@ -55,14 +56,12 @@ X 不是固定盘符，它代表你电脑上“文档”文件夹所在的盘。
 进入游戏后，可在 ESC 游戏菜单中打开对应插件的详细设置。  
 多数插件支持调整界面位置、大小、字体和颜色，可按个人习惯自由搭配，具体以各插件设置为准。
 
-<hr>
-<hr>
-<hr>
-
 </details>
 
+<hr>
+
 <details>
-<summary> globals ｜ 前置插件</summary>
+<summary>globals ｜ 前置插件</summary>
 
 <a id="globals"></a>
 
@@ -75,14 +74,12 @@ X 不是固定盘符，它代表你电脑上“文档”文件夹所在的盘。
 
 [![DOWNLOAD](assets/download.svg)](https://github.com/Yunxei/jingxia/releases/download/globals/globals.zip)
 
-<hr>
-<hr>
-<hr>
-
 </details>
 
+<hr>
+
 <details>
-<summary> TimeUntil 5.0 ｜ 活动/地区时间</summary>
+<summary>TimeUntil 5.0 ｜ 活动/地区时间</summary>
 
 <a id="timeuntil"></a>
 
@@ -92,18 +89,15 @@ X 不是固定盘符，它代表你电脑上“文档”文件夹所在的盘。
 
 <picture><img src="https://raw.githubusercontent.com/Yunxei/jingxia/main/assets/detail-features.svg" width="18" height="18" alt="" /></picture> **主要功能**
 
-- 地区和平 / 纷争 / 战争时间显示
+- 地区和平、纷争、战争时间与倒计时
 - 游戏活动时间与倒计时
-- 部分活动的任务完成进度显示
-- 自定义显示内容
-- 活动显示数量设置
-- 主界面显示 / 隐藏
-- 配置与界面状态保存
+- 部分活动的任务完成进度
+- 自定义活动显示内容与数量
 
 <p>
-  <a href="https://github.com/user-attachments/assets/8016ff07-c841-4f87-9c5a-e8a5ba173e84"><img width="31%" alt="活动时间助手预览1" src="https://github.com/user-attachments/assets/8016ff07-c841-4f87-9c5a-e8a5ba173e84" /></a>
-  <a href="https://github.com/user-attachments/assets/e1152bcb-71c2-4c35-bb2b-b6eb0f44c774"><img width="31%" alt="活动时间助手预览2" src="https://github.com/user-attachments/assets/e1152bcb-71c2-4c35-bb2b-b6eb0f44c774" /></a>
-  <a href="https://github.com/user-attachments/assets/b813b0c1-d967-4cee-8962-09bd14cd8e6f"><img width="31%" alt="活动时间助手预览3" src="https://github.com/user-attachments/assets/b813b0c1-d967-4cee-8962-09bd14cd8e6f" /></a>
+  <a href="https://raw.githubusercontent.com/Yunxei/jingxia/main/assets/screenshots/TimeUntil/preview-01.png"><img width="31%" alt="TimeUntil 预览 1" src="assets/screenshots/TimeUntil/preview-01.png" /></a>
+  <a href="https://raw.githubusercontent.com/Yunxei/jingxia/main/assets/screenshots/TimeUntil/preview-02.png"><img width="31%" alt="TimeUntil 预览 2" src="assets/screenshots/TimeUntil/preview-02.png" /></a>
+  <a href="https://raw.githubusercontent.com/Yunxei/jingxia/main/assets/screenshots/TimeUntil/preview-03.png"><img width="31%" alt="TimeUntil 预览 3" src="assets/screenshots/TimeUntil/preview-03.png" /></a>
 </p>
 
 <picture><img src="https://raw.githubusercontent.com/Yunxei/jingxia/main/assets/detail-download.svg" width="18" height="18" alt="" /></picture> **下载**
@@ -124,18 +118,21 @@ X 不是固定盘符，它代表你电脑上“文档”文件夹所在的盘。
 
 修复伊尼斯、十字星进入和平后净化计时仍显示进行中的问题。
 
+<details>
+<summary>历史版本</summary>
+
 `4.9`
 
-当前正式发布版本。
-
-<hr>
-<hr>
-<hr>
+历史版本。
 
 </details>
 
+</details>
+
+<hr>
+
 <details>
-<summary> Panoptes 1.3 ｜ 玩家状态追踪</summary>
+<summary>Panoptes 1.3 ｜ 玩家状态追踪</summary>
 
 <a id="panoptes"></a>
 
@@ -145,15 +142,13 @@ X 不是固定盘符，它代表你电脑上“文档”文件夹所在的盘。
 
 <picture><img src="https://raw.githubusercontent.com/Yunxei/jingxia/main/assets/detail-features.svg" width="18" height="18" alt="" /></picture> **主要功能**
 
-- 自身与目标状态追踪、剩余时间及层数显示
+- 自身与目标状态、剩余时间及层数追踪
 - 悬浮面板与头顶标记
 - 目标信息、装备评分与距离显示
-- 重要状态屏幕提示，以及自身 / 目标被扒皮等级提示
+- 重要状态屏幕提示与扒皮等级提醒
 - 自身装备图标显示
-- 大施法条显示与设置
+- 大施法条
 - 进团时按职业自动设置团队职责
-- 所有功能均可自由改变位置与开关
-- 追踪清单管理与配置保存
 
 <p>
   <a href="https://raw.githubusercontent.com/Yunxei/jingxia/main/assets/screenshots/Panoptes/preview-01.png"><img width="31%" alt="Panoptes 预览 1" src="assets/screenshots/Panoptes/preview-01.png" /></a>
@@ -184,14 +179,12 @@ X 不是固定盘符，它代表你电脑上“文档”文件夹所在的盘。
 
 当前正式发布版本。
 
-<hr>
-<hr>
-<hr>
-
 </details>
 
+<hr>
+
 <details>
-<summary> packratio 2.9 ｜ 多路线货率与贸易提醒</summary>
+<summary>packratio 2.9 ｜ 多路线货率与贸易提醒</summary>
 
 <a id="packratio"></a>
 
@@ -235,6 +228,9 @@ X 不是固定盘符，它代表你电脑上“文档”文件夹所在的盘。
 - 修正刷新顺序，优化排间距及状态按钮对齐。
 - 移除聊天查询指令。
 
+<details>
+<summary>历史版本</summary>
+
 `2.8` · 2026-10-05
 
 - 优化锁车识别，现在当前目标和关注目标中的载具都能正常检测认主状态。
@@ -249,16 +245,16 @@ X 不是固定盘符，它代表你电脑上“文档”文件夹所在的盘。
 
 `2.7`
 
-原正式发布版本。
-
-<hr>
-<hr>
-<hr>
+历史版本。
 
 </details>
 
+</details>
+
+<hr>
+
 <details>
-<summary> speedometer 2.2 ｜ 速度显示</summary>
+<summary>speedometer 2.2 ｜ 速度显示</summary>
 
 <a id="speedometer"></a>
 
@@ -268,13 +264,9 @@ X 不是固定盘符，它代表你电脑上“文档”文件夹所在的盘。
 
 <picture><img src="https://raw.githubusercontent.com/Yunxei/jingxia/main/assets/detail-features.svg" width="18" height="18" alt="" /></picture> **主要功能**
 
-- 载具与非载具速度显示，分别设置开关并保存选择
-- 非载具包含步行、坐骑和滑翔翼，默认关闭，可在设置中开启
-- 一个速度表，只显示一位小数的速度数字
-- 驾驶载具时显示转向数值及左右箭头，倒车速度不显示负号
-- 实时预览，可拖动调整位置
-- 文字大小、颜色和黑色描边实时调整并保存
-- 恢复默认位置与外观，保留显示开关
+- 载具、步行、坐骑与滑翔翼速度显示
+- 载具与非载具显示独立开关
+- 载具转向数值与左右箭头
 
 <p>
   <a href="https://raw.githubusercontent.com/Yunxei/jingxia/main/assets/screenshots/speedometer/preview-01.png"><img width="31%" alt="speedometer 预览 1" src="assets/screenshots/speedometer/preview-01.png" /></a>
@@ -300,6 +292,9 @@ X 不是固定盘符，它代表你电脑上“文档”文件夹所在的盘。
 - 恢复载具转向数值及左右箭头显示。
 - 倒车时速度显示为正数，不再出现负号。
 
+<details>
+<summary>历史版本</summary>
+
 `2.1` · 2026-10-05
 
 - 新增步行、坐骑和滑翔翼速度显示，默认关闭，可在设置中开启。
@@ -312,16 +307,16 @@ X 不是固定盘符，它代表你电脑上“文档”文件夹所在的盘。
 
 `2.0`
 
-原正式发布版本。
-
-<hr>
-<hr>
-<hr>
+历史版本。
 
 </details>
 
+</details>
+
+<hr>
+
 <details>
-<summary> ReloadButton 1.0 ｜ 快速重载插件</summary>
+<summary>ReloadButton 1.0 ｜ 快速重载插件</summary>
 
 <a id="reloadbutton"></a>
 
@@ -333,7 +328,6 @@ X 不是固定盘符，它代表你电脑上“文档”文件夹所在的盘。
 
 - ESC 菜单快捷重载入口
 - 10 秒重复操作冷却
-- 防崩溃
 
 <p>
   <a href="https://raw.githubusercontent.com/Yunxei/jingxia/main/assets/screenshots/ReloadButton/preview-01.png"><img width="31%" alt="ReloadButton 预览 1" src="assets/screenshots/ReloadButton/preview-01.png" /></a>
@@ -351,14 +345,12 @@ X 不是固定盘符，它代表你电脑上“文档”文件夹所在的盘。
 
 当前正式发布版本。
 
-<hr>
-<hr>
-<hr>
-
 </details>
 
+<hr>
+
 <details>
-<summary> Nyxaria 2.1 ｜ 背包整理</summary>
+<summary>Nyxaria 2.1 ｜ 背包整理</summary>
 
 <a id="nyxaria"></a>
 
@@ -368,11 +360,10 @@ X 不是固定盘符，它代表你电脑上“文档”文件夹所在的盘。
 
 <picture><img src="https://raw.githubusercontent.com/Yunxei/jingxia/main/assets/detail-features.svg" width="18" height="18" alt="" /></picture> **主要功能**
 
-- 将背包中符合条件的物品转存到仓库或箱子
+- 背包物品转存到仓库或随身保管箱
 - 物品保护清单与保留数量设置
-- 整理快捷键设置
+- 整理快捷键
 - 拍卖收藏
-- 配置保存
 
 <p>
   <a href="https://raw.githubusercontent.com/Yunxei/jingxia/main/assets/screenshots/Nyxaria/preview-01.png"><img width="31%" alt="Nyxaria 预览 1" src="assets/screenshots/Nyxaria/preview-01.png" /></a>
@@ -396,18 +387,21 @@ X 不是固定盘符，它代表你电脑上“文档”文件夹所在的盘。
 
 修复保管箱关闭后透明窗口遮挡鼠标点击的问题。默认整理间隔调整为100ms，保留已有个人设置。
 
+<details>
+<summary>历史版本</summary>
+
 `2.0`
 
-当前正式发布版本。
-
-<hr>
-<hr>
-<hr>
+历史版本。
 
 </details>
 
+</details>
+
+<hr>
+
 <details>
-<summary> combatcloset 2.6 ｜ 装备与称号一键切换</summary>
+<summary>combatcloset 2.6 ｜ 装备与称号一键切换</summary>
 
 <a id="combatcloset"></a>
 
@@ -417,10 +411,10 @@ X 不是固定盘符，它代表你电脑上“文档”文件夹所在的盘。
 
 <picture><img src="https://raw.githubusercontent.com/Yunxei/jingxia/main/assets/detail-features.svg" width="18" height="18" alt="" /></picture> **主要功能**
 
-- 装备套装与称号保存与切换
-- 根据装备属性与签名匹配待换装备
+- 装备套装与称号保存、切换
+- 根据装备属性与镶嵌宝石匹配待换装备
 - 熟练度时装忘穿戴提醒
-- 切换套装快捷键设置
+- 切换套装快捷键
 
 <p>
   <a href="https://raw.githubusercontent.com/Yunxei/jingxia/main/assets/screenshots/combatcloset/preview-01.png"><img width="31%" alt="combatcloset 预览 1" src="assets/screenshots/combatcloset/preview-01.png" /></a>
@@ -442,6 +436,9 @@ X 不是固定盘符，它代表你电脑上“文档”文件夹所在的盘。
 - 已穿戴判断和套装状态识别同步校验宝石签名。
 - 兼容现有套装配置，无需重新保存。
 
+<details>
+<summary>历史版本</summary>
+
 `2.5`
 
 - 优化设置与管理窗口：进入下一级时自动隐藏上一层，关闭、取消或按 ESC 后返回上一层。
@@ -450,14 +447,14 @@ X 不是固定盘符，它代表你电脑上“文档”文件夹所在的盘。
 - 提示位置、文字大小、颜色和描边选择会自动保存。
 - 新增恢复默认，只恢复提示外观，不影响套装、提醒延迟和其他设置。
 
-<hr>
-<hr>
-<hr>
+</details>
 
 </details>
 
+<hr>
+
 <details>
-<summary> Angler 1.0 ｜ 钓鱼辅助</summary>
+<summary>Angler 1.0 ｜ 钓鱼辅助</summary>
 
 <a id="angler"></a>
 
@@ -467,15 +464,15 @@ X 不是固定盘符，它代表你电脑上“文档”文件夹所在的盘。
 
 <picture><img src="https://raw.githubusercontent.com/Yunxei/jingxia/main/assets/detail-features.svg" width="18" height="18" alt="" /></picture> **主要功能**
 
-- 显示鱼的动作、较劲图标与游戏 Buff 倒计时；较劲数字和边框随时间由绿逐渐变红。
-- 捡鱼倒计时为 180 秒，支持数字 1～9、爱心、星星和叉，数字随剩余时间渐变，最后 10 秒保持红色。
-- 动作与较劲的图标、文字分别支持开关、大小和描边设置；距离显示可独立开关，默认开启。
-- 可选悬浮窗默认关闭，显示鱼名、生命值、动作、较劲及距离；可取得最大生命值时显示生命条。
-- 设置中的捡鱼倒计时图标、动作/较劲和悬浮窗均为演示预览，可拖动并保存各预览区域的位置；关闭设置后预览退出。实战中的动作、较劲与距离跟随选中的鱼，拖动预览不会改变它们相对鱼的位置。捡鱼记录和悬浮窗则使用保存的屏幕位置。
+- 鱼的动作与较劲状态显示
+- 带头顶标记的死鱼拾取倒计时（180 秒）
+- 鱼的生命值与距离显示
+- 较劲与拾取倒计时颜色提示
+- 可选悬浮窗
 
 <p>
-  <a href="https://raw.githubusercontent.com/Yunxei/jingxia/main/assets/screenshots/angler/preview-01.png"><img width="48%" alt="Angler 设置与预览" src="assets/screenshots/angler/preview-01.png" /></a>
-  <a href="https://raw.githubusercontent.com/Yunxei/jingxia/main/assets/screenshots/angler/preview-02.png"><img width="48%" alt="Angler 游戏内效果" src="assets/screenshots/angler/preview-02.png" /></a>
+  <a href="https://raw.githubusercontent.com/Yunxei/jingxia/main/assets/screenshots/angler/preview-01.png"><img width="31%" alt="Angler 设置与预览" src="assets/screenshots/angler/preview-01.png" /></a>
+  <a href="https://raw.githubusercontent.com/Yunxei/jingxia/main/assets/screenshots/angler/preview-02.png"><img width="31%" alt="Angler 游戏内效果" src="assets/screenshots/angler/preview-02.png" /></a>
 </p>
 
 <picture><img src="https://raw.githubusercontent.com/Yunxei/jingxia/main/assets/detail-download.svg" width="18" height="18" alt="" /></picture> **下载**
@@ -496,44 +493,46 @@ X 不是固定盘符，它代表你电脑上“文档”文件夹所在的盘。
 
 当前正式发布版本。
 
-<hr>
-<hr>
-<hr>
-
 </details>
 
+<hr>
+
 <details>
-<summary> Astravia 1.3 Beta ｜ 地图与点位导航</summary>
+<summary>Astravia 1.3 Beta ｜ 地图与点位导航</summary>
 
 <a id="astravia"></a>
 
 <picture><img src="https://raw.githubusercontent.com/Yunxei/jingxia/main/assets/detail-info.svg" width="18" height="18" alt="" /></picture> **插件说明**
 
-内置地图61张，点位坐标≈4200个。
+用于地图、资源与自定义点位导航。
 
-地图与图标素材≈21MB，代码及坐标数据≈2.3MB。
+内置地图 61 张，点位坐标 ≈4200 个。
+
+地图与图标素材 ≈21MB，代码及坐标数据 ≈2.3MB。
 
 插件体积主要来自素材，文件大小不等同于运行时性能开销。
 
 <picture><img src="https://raw.githubusercontent.com/Yunxei/jingxia/main/assets/detail-features.svg" width="18" height="18" alt="" /></picture> **主要功能**
 
-- 沉船、藏宝图、探索点、海虫点及自定义点位导航。
-- 种植、采集、伐木、采矿、领地资源点及首领分类，支持按种类筛选。
-- 探索包含陈旧的坛子、陈旧的遗物箱、探险家的背包、龟船打捞点、呼吸耳环信物。
-- 自定义点位支持导入、记录当前位置、修改名称及备注、分页管理和删除。
-- 支持地图定位、最近传送点推荐，点击坐标、区域名或传送点名可复制对应内容。
+- 沉船、藏宝图、探索点、海虫点及自定义点位导航
+- 种植、采集、伐木、采矿、领地资源点与首领分类筛选
+- 陈旧的坛子、遗物箱、探险家的背包及打捞、信物点位查询
+- 自定义点位导入、当前位置记录、名称与备注管理
+- 地图定位、最近传送点推荐及坐标、名称复制
 
 <p>
-  <a href="https://raw.githubusercontent.com/Yunxei/jingxia/main/assets/screenshots/Astravia/preview-01.png"><img width="48%" alt="Astravia 预览 1" src="assets/screenshots/Astravia/preview-01.png" /></a>
-  <a href="https://raw.githubusercontent.com/Yunxei/jingxia/main/assets/screenshots/Astravia/preview-02.png"><img width="48%" alt="Astravia 预览 2" src="assets/screenshots/Astravia/preview-02.png" /></a>
+  <a href="https://raw.githubusercontent.com/Yunxei/jingxia/main/assets/screenshots/Astravia/preview-01.png"><img width="31%" alt="Astravia 预览 1" src="assets/screenshots/Astravia/preview-01.png" /></a>
+  <a href="https://raw.githubusercontent.com/Yunxei/jingxia/main/assets/screenshots/Astravia/preview-02.png"><img width="31%" alt="Astravia 预览 2" src="assets/screenshots/Astravia/preview-02.png" /></a>
+  <a href="https://raw.githubusercontent.com/Yunxei/jingxia/main/assets/screenshots/Astravia/preview-03.png"><img width="31%" alt="Astravia 预览 3" src="assets/screenshots/Astravia/preview-03.png" /></a>
 </p>
 
 <p>
-  <a href="https://raw.githubusercontent.com/Yunxei/jingxia/main/assets/screenshots/Astravia/preview-03.png"><img width="48%" alt="Astravia 预览 3" src="assets/screenshots/Astravia/preview-03.png" /></a>
-  <a href="https://raw.githubusercontent.com/Yunxei/jingxia/main/assets/screenshots/Astravia/preview-04.png"><img width="48%" alt="Astravia 预览 4" src="assets/screenshots/Astravia/preview-04.png" /></a>
+  <a href="https://raw.githubusercontent.com/Yunxei/jingxia/main/assets/screenshots/Astravia/preview-04.png"><img width="31%" alt="Astravia 预览 4" src="assets/screenshots/Astravia/preview-04.png" /></a>
 </p>
 
 <picture><img src="https://raw.githubusercontent.com/Yunxei/jingxia/main/assets/detail-download.svg" width="18" height="18" alt="" /></picture> **下载**
+
+**Astravia 1.3 Beta**
 
 [![DOWNLOAD](assets/download.svg)](https://github.com/Yunxei/jingxia/releases/download/astravia-v1.3-beta/Astravia-1.3-Beta.zip)
 
@@ -545,29 +544,32 @@ X 不是固定盘符，它代表你电脑上“文档”文件夹所在的盘。
 
 <picture><img src="https://raw.githubusercontent.com/Yunxei/jingxia/main/assets/detail-history.svg" width="18" height="18" alt="" /></picture> **更新记录**
 
-1.3 Beta
+`1.3 Beta`
 
-1. 新增自定义点位：导入坐标、记录当前位置、修改名称和备注、分页管理、删除及导航，点位可保存。
-2. 新增分类菜单及独立筛选，默认全选，支持全选／全取消及分页。
-3. 新增种植、采集、伐木、采矿、领地资源点，共3183处。
-4. 新增龟船打捞点、呼吸耳环信物及呼吸耳环信物Boss房间，共17处。
-5. 新增首领分类，共15处，包含纳扎尔。
-6. 新增40条传送点，移除王宫下水道。
-7. 修复4处已有传送点的坐标及归属数据。
-8. 优化罗盘：绿色突出主方向，辅助方向渐变，字号随方向变化。
-9. 优化点位编号：探索、资源和首领按种类、地图固定编号，筛选不会重新编号。
-10. 优化探索功能区：移除“导航最近点位”按钮。
+- 新增自定义点位：导入坐标、记录当前位置、修改名称和备注、分页管理、删除及导航，点位可保存。
+- 新增分类菜单及独立筛选，默认全选，支持全选／全取消及分页。
+- 新增种植、采集、伐木、采矿、领地资源点，共3183处。
+- 新增龟船打捞点、呼吸耳环信物及呼吸耳环信物Boss房间，共17处。
+- 新增首领分类，共15处，包含纳扎尔。
+- 新增40条传送点，移除王宫下水道。
+- 修复4处已有传送点的坐标及归属数据。
+- 优化罗盘：绿色突出主方向，辅助方向渐变，字号随方向变化。
+- 优化点位编号：探索、资源和首领按种类、地图固定编号，筛选不会重新编号。
+- 优化探索功能区：移除“导航最近点位”按钮。
 
-1.2 Beta
+<details>
+<summary>历史版本</summary>
 
-1. 新增说明窗口。
-2. 新增区域名称支持复制。
-3. 调整导航信息字号与行距。
-4. 修复选择标记后导航窗口意外位移。
-5. 修复导航窗口缩放后的贴边位置恢复。
-6. 修复挖完藏宝图后未自动切换到下一张导航的问题。
+`1.2 Beta`
 
-1.1 Beta
+- 新增说明窗口。
+- 新增区域名称支持复制。
+- 调整导航信息字号与行距。
+- 修复选择标记后导航窗口意外位移。
+- 修复导航窗口缩放后的贴边位置恢复。
+- 修复挖完藏宝图后未自动切换到下一张导航的问题。
+
+`1.1 Beta`
 
 - 修复探索点筛选窗口的闪退问题，调整弹窗位置及全选／全取消操作。
 - 调整地图页签间距，功能区向右展开时保持地图位置不变。
@@ -577,14 +579,18 @@ X 不是固定盘符，它代表你电脑上“文档”文件夹所在的盘。
 - 新增导航窗口、地图窗口大小设置，支持实时预览和保存。
 - ESC 菜单入口改为“地图坐标插件”，使用地图图标。
 
-1.0 Beta
+`1.0 Beta`
 
-当前测试发布版本。
+历史测试版本。
 
 </details>
 
+</details>
+
+<hr>
+
 <details>
-<summary> LayoutKeeper 1.0 ｜ 界面布局保存与迁移</summary>
+<summary>LayoutKeeper 1.0 ｜ 界面布局保存与迁移</summary>
 
 <a id="layoutkeeper"></a>
 
@@ -592,12 +598,10 @@ X 不是固定盘符，它代表你电脑上“文档”文件夹所在的盘。
 
 保存界面布局，供不同角色、账号或电脑使用。
 
-ESC 菜单打开“界面布局插件”。
-
 <picture><img src="https://raw.githubusercontent.com/Yunxei/jingxia/main/assets/detail-features.svg" width="18" height="18" alt="" /></picture> **主要功能**
 
-- 保存界面位置及缩放比例。
-- 支持导出与导入。
+- 保存界面位置及缩放比例
+- 布局导出与导入
 
 <p>
   <a href="https://raw.githubusercontent.com/Yunxei/jingxia/main/assets/screenshots/LayoutKeeper/preview-01.png"><img width="31%" alt="保存角色1布局" src="assets/screenshots/LayoutKeeper/preview-01.png" /></a>
@@ -606,6 +610,8 @@ ESC 菜单打开“界面布局插件”。
 </p>
 
 <picture><img src="https://raw.githubusercontent.com/Yunxei/jingxia/main/assets/detail-download.svg" width="18" height="18" alt="" /></picture> **下载**
+
+**LayoutKeeper 1.0**
 
 [![DOWNLOAD](assets/download.svg)](https://github.com/Yunxei/jingxia/releases/download/layoutkeeper-v1.0/LayoutKeeper-1.0.zip)
 
@@ -617,7 +623,7 @@ ESC 菜单打开“界面布局插件”。
 
 <picture><img src="https://raw.githubusercontent.com/Yunxei/jingxia/main/assets/detail-history.svg" width="18" height="18" alt="" /></picture> **更新记录**
 
-1.0
+`1.0`
 
 当前正式发布版本。
 
