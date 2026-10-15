@@ -4,7 +4,7 @@
 | --- | --- | --- | --- | --- | --- |
 | [globals](#user-content-globals) | — | — | 前置插件 | [![DOWNLOAD](assets/download.svg)](https://github.com/Yunxei/jingxia/releases/download/globals/globals.zip) | — |
 | [TimeUntil](#user-content-timeuntil) | 5.0 | 2026-10-11 | 活动/地区时间 | [![DOWNLOAD](assets/download.svg)](https://github.com/Yunxei/jingxia/releases/download/timeuntil-v5.0/TimeUntil-5.0.zip) | globals |
-| [Panoptes](#user-content-panoptes) | 1.4 | 2026-10-14 | 玩家状态追踪 | [![DOWNLOAD](assets/download.svg)](https://github.com/Yunxei/jingxia/releases/download/panoptes-v1.4/Panoptes-1.4.zip) | globals |
+| [Panoptes](#user-content-panoptes) | 1.5 | 2026-10-15 | 玩家状态追踪 | [![DOWNLOAD](assets/download.svg)](https://github.com/Yunxei/jingxia/releases/download/panoptes-v1.5/Panoptes-1.5.zip) | globals |
 | [packratio](#user-content-packratio) | 2.9 | 2026-10-13 | 多路线货率与贸易提醒 | [![DOWNLOAD](assets/download.svg)](https://github.com/Yunxei/jingxia/releases/download/packratio-v2.9/packratio-2.9.zip) | — |
 | [speedometer](#user-content-speedometer) | 2.2 | 2026-10-09 | 速度显示 | [![DOWNLOAD](assets/download.svg)](https://github.com/Yunxei/jingxia/releases/download/speedometer-v2.2/speedometer-2.2.zip) | globals |
 | [ReloadButton](#user-content-reloadbutton) | 1.0 | 2026-10-04 | 快速重载插件 | [![DOWNLOAD](assets/download.svg)](https://github.com/Yunxei/jingxia/releases/download/reloadbutton-v1.0/ReloadButton-1.0.zip) | — |
@@ -132,7 +132,7 @@ X 不是固定盘符，它代表你电脑上“文档”文件夹所在的盘。
 <hr>
 
 <details>
-<summary>Panoptes 1.4 ｜ 玩家状态追踪</summary>
+<summary>Panoptes 1.5 ｜ 玩家状态追踪</summary>
 
 <a id="panoptes"></a>
 
@@ -150,6 +150,7 @@ X 不是固定盘符，它代表你电脑上“文档”文件夹所在的盘。
 - 大施法条
 - 进团时按职业自动设置团队职责
 - 目标连线独立开关
+- 滑翔翼技能冷却与相关减益追踪
 
 <p>
   <a href="https://raw.githubusercontent.com/Yunxei/jingxia/main/assets/screenshots/Panoptes/preview-01.png"><img width="31%" alt="Panoptes 预览 1" src="assets/screenshots/Panoptes/preview-01.png" /></a>
@@ -164,9 +165,9 @@ X 不是固定盘符，它代表你电脑上“文档”文件夹所在的盘。
 
 <picture><img src="https://raw.githubusercontent.com/Yunxei/jingxia/main/assets/detail-download.svg" width="18" height="18" alt="" /></picture> **下载**
 
-**Panoptes 1.4**
+**Panoptes 1.5**
 
-[![DOWNLOAD](assets/download.svg)](https://github.com/Yunxei/jingxia/releases/download/panoptes-v1.4/Panoptes-1.4.zip)
+[![DOWNLOAD](assets/download.svg)](https://github.com/Yunxei/jingxia/releases/download/panoptes-v1.5/Panoptes-1.5.zip)
 
 <picture><img src="https://raw.githubusercontent.com/Yunxei/jingxia/main/assets/detail-dependency.svg" width="18" height="18" alt="" /></picture> **前置插件**
 
@@ -176,14 +177,22 @@ X 不是固定盘符，它代表你电脑上“文档”文件夹所在的盘。
 
 <picture><img src="https://raw.githubusercontent.com/Yunxei/jingxia/main/assets/detail-history.svg" width="18" height="18" alt="" /></picture> **更新记录**
 
-`1.4`
+`1.5`
+
+- 新增滑翔翼技能冷却与相关减益追踪。
+- 新增滑翔翼显示管理、手动启用与减益池管理。
+- 新增装备图标固定／跟随模式及拖动预览。
+- 个人配置统一保存至插件目录，自动迁移旧配置。
+- 修复自身与目标重要提示位置反复互换的问题。
+
+<details>
+<summary>历史版本</summary>
+
+`1.4` · 2026-10-14
 
 - 新增目标连线。
 - 新增装备图标自动靠拢。
 - 新增设置帮助说明。
-
-<details>
-<summary>历史版本</summary>
 
 `1.3` · 2026-10-04
 
