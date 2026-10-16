@@ -161,6 +161,7 @@ X 不是固定盘符，它代表你电脑上“文档”文件夹所在的盘。
 <p>
   <a href="https://raw.githubusercontent.com/Yunxei/jingxia/main/assets/screenshots/Panoptes/preview-04.png"><img width="31%" alt="Panoptes 预览 4" src="assets/screenshots/Panoptes/preview-04.png" /></a>
   <a href="https://raw.githubusercontent.com/Yunxei/jingxia/main/assets/screenshots/Panoptes/preview-05.png"><img width="31%" alt="Panoptes 预览 5" src="assets/screenshots/Panoptes/preview-05.png" /></a>
+  <a href="https://raw.githubusercontent.com/Yunxei/jingxia/main/assets/screenshots/Panoptes/preview-06.png"><img width="31%" alt="Panoptes 预览 6" src="assets/screenshots/Panoptes/preview-06.png" /></a>
 </p>
 
 <picture><img src="https://raw.githubusercontent.com/Yunxei/jingxia/main/assets/detail-download.svg" width="18" height="18" alt="" /></picture> **下载**
