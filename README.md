@@ -13,6 +13,7 @@
 | [Angler](#user-content-angler) | 1.0 | 2026-10-06 | 钓鱼辅助 | [![DOWNLOAD](assets/download.svg)](https://github.com/Yunxei/jingxia/releases/download/angler-v1.0/Angler-1.0.zip) | globals |
 | [Astravia](#user-content-astravia) | 1.3 Beta | 2026-10-11 | 地图、资源与点位导航 | [![DOWNLOAD](assets/download.svg)](https://github.com/Yunxei/jingxia/releases/download/astravia-v1.3-beta/Astravia-1.3-Beta.zip) | globals |
 | [LayoutKeeper](#user-content-layoutkeeper) | 1.0 | 2026-10-13 | 界面布局保存与迁移 | [![DOWNLOAD](assets/download.svg)](https://github.com/Yunxei/jingxia/releases/download/layoutkeeper-v1.0/LayoutKeeper-1.0.zip) | globals |
+| [Moneta](#user-content-moneta) | 1.0 | 2026-10-17 | 自动记账与贷款追踪 | [![DOWNLOAD](assets/download.svg)](https://github.com/Yunxei/jingxia/releases/download/moneta-v1.0/Moneta-1.0.zip) | globals |
 <br>
 
 > 有BUG或者建议可以联系我，我会第二时间更新，因为第一时间我要农。
@@ -658,5 +659,48 @@ X 不是固定盘符，它代表你电脑上“文档”文件夹所在的盘。
 `1.0`
 
 当前正式发布版本。
+
+</details>
+
+<hr>
+
+<details>
+<summary>Moneta 1.0 ｜ 贸易小账本</summary>
+
+<a id="moneta"></a>
+
+<picture><img src="https://raw.githubusercontent.com/Yunxei/jingxia/main/assets/detail-info.svg" width="18" height="18" alt="" /></picture> **插件说明**
+
+用于记录每日交货、追踪待收货款的贸易小账本。
+
+<picture><img src="https://raw.githubusercontent.com/Yunxei/jingxia/main/assets/detail-features.svg" width="18" height="18" alt="" /></picture> **主要功能**
+
+- 逐笔交货记录与每日货物数量统计。
+- 待收金币、物品奖励和到账倒计时。
+- 交货耗劳与每日劳动力增减统计。
+
+<p>
+  <a href="https://raw.githubusercontent.com/Yunxei/jingxia/main/assets/screenshots/Moneta/preview-01.png"><img width="31%" alt="今日交货与到账倒计时" src="assets/screenshots/Moneta/preview-01.png" /></a>
+  <a href="https://raw.githubusercontent.com/Yunxei/jingxia/main/assets/screenshots/Moneta/preview-02.png"><img width="31%" alt="历史交货与到账状态" src="assets/screenshots/Moneta/preview-02.png" /></a>
+  <a href="https://raw.githubusercontent.com/Yunxei/jingxia/main/assets/screenshots/Moneta/preview-03.png"><img width="31%" alt="每日货物数量统计" src="assets/screenshots/Moneta/preview-03.png" /></a>
+</p>
+
+<picture><img src="https://raw.githubusercontent.com/Yunxei/jingxia/main/assets/detail-download.svg" width="18" height="18" alt="" /></picture> **下载**
+
+**Moneta 1.0**
+
+[![DOWNLOAD](assets/download.svg)](https://github.com/Yunxei/jingxia/releases/download/moneta-v1.0/Moneta-1.0.zip)
+
+<picture><img src="https://raw.githubusercontent.com/Yunxei/jingxia/main/assets/detail-dependency.svg" width="18" height="18" alt="" /></picture> **前置插件**
+
+[![DOWNLOAD](assets/download.svg)](https://github.com/Yunxei/jingxia/releases/download/globals/globals.zip)
+
+第一次安装需要同时安装 globals；已经安装过则无需重复安装。
+
+<picture><img src="https://raw.githubusercontent.com/Yunxei/jingxia/main/assets/detail-history.svg" width="18" height="18" alt="" /></picture> **更新记录**
+
+`1.0`
+
+首次发布。
 
 </details>
