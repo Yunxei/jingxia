@@ -14,6 +14,7 @@
 | [Astravia](#user-content-astravia) | 1.3 Beta | 2026-10-11 | 地图、资源与点位导航 | [![DOWNLOAD](assets/download.svg)](https://github.com/Yunxei/jingxia/releases/download/astravia-v1.3-beta/Astravia-1.3-Beta.zip) | globals |
 | [LayoutKeeper](#user-content-layoutkeeper) | 1.0 | 2026-10-13 | 界面布局保存与迁移 | [![DOWNLOAD](assets/download.svg)](https://github.com/Yunxei/jingxia/releases/download/layoutkeeper-v1.0/LayoutKeeper-1.0.zip) | globals |
 | [Moneta](#user-content-moneta) | 1.2 | 2026-10-18 | 自动记账与贷款追踪 | [![DOWNLOAD](assets/download.svg)](https://github.com/Yunxei/jingxia/releases/download/moneta-v1.2/Moneta-1.2.zip) | globals |
+| [DenyList](#user-content-denylist) | 1.0 | 2026-10-18 | 团队黑名单 | [![DOWNLOAD](assets/download.svg)](https://github.com/Yunxei/jingxia/releases/download/denylist-v1.0/DenyList-1.0.zip) | — |
 <br>
 
 > 有BUG或者建议可以联系我，我会第二时间更新，因为第一时间我要农。
@@ -721,5 +722,42 @@ X 不是固定盘符，它代表你电脑上“文档”文件夹所在的盘。
 首次发布。
 
 </details>
+
+</details>
+
+<hr>
+
+<details>
+<summary>DenyList 1.0 ｜ 团队黑名单</summary>
+
+<a id="denylist"></a>
+
+<picture><img src="https://raw.githubusercontent.com/Yunxei/jingxia/main/assets/detail-info.svg" width="18" height="18" alt="" /></picture> **插件说明**
+
+检查团队中的黑名单成员，提供提醒和自动踢出功能，自动踢出需要团队管理权限。
+
+<picture><img src="https://raw.githubusercontent.com/Yunxei/jingxia/main/assets/detail-features.svg" width="18" height="18" alt="" /></picture> **主要功能**
+
+- 公会、个人黑名单管理
+- 团队黑名单浮窗与系统提示
+- 自动踢出黑名单成员
+
+<p>
+  <a href="https://raw.githubusercontent.com/Yunxei/jingxia/main/assets/screenshots/DenyList/preview-01.png"><img width="31%" alt="团队黑名单管理" src="assets/screenshots/DenyList/preview-01.png" /></a>
+  <a href="https://raw.githubusercontent.com/Yunxei/jingxia/main/assets/screenshots/DenyList/preview-02.png"><img width="31%" alt="公会名单管理" src="assets/screenshots/DenyList/preview-02.png" /></a>
+  <a href="https://raw.githubusercontent.com/Yunxei/jingxia/main/assets/screenshots/DenyList/preview-03.png"><img width="31%" alt="个人名单管理" src="assets/screenshots/DenyList/preview-03.png" /></a>
+</p>
+
+<picture><img src="https://raw.githubusercontent.com/Yunxei/jingxia/main/assets/detail-download.svg" width="18" height="18" alt="" /></picture> **下载**
+
+**DenyList 1.0**
+
+[![DOWNLOAD](assets/download.svg)](https://github.com/Yunxei/jingxia/releases/download/denylist-v1.0/DenyList-1.0.zip)
+
+<picture><img src="https://raw.githubusercontent.com/Yunxei/jingxia/main/assets/detail-history.svg" width="18" height="18" alt="" /></picture> **更新记录**
+
+`1.0`
+
+首次发布。
 
 </details>
