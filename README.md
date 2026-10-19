@@ -13,7 +13,7 @@
 | [Angler](#user-content-angler) | 1.0 | 2026-10-06 | 钓鱼辅助 | [![DOWNLOAD](assets/download.svg)](https://github.com/Yunxei/jingxia/releases/download/angler-v1.0/Angler-1.0.zip) | globals |
 | [Astravia](#user-content-astravia) | 1.3 Beta | 2026-10-11 | 地图、资源与点位导航 | [![DOWNLOAD](assets/download.svg)](https://github.com/Yunxei/jingxia/releases/download/astravia-v1.3-beta/Astravia-1.3-Beta.zip) | globals |
 | [LayoutKeeper](#user-content-layoutkeeper) | 1.0 | 2026-10-13 | 界面布局保存与迁移 | [![DOWNLOAD](assets/download.svg)](https://github.com/Yunxei/jingxia/releases/download/layoutkeeper-v1.0/LayoutKeeper-1.0.zip) | globals |
-| [Moneta](#user-content-moneta) | 1.2 | 2026-10-18 | 自动记账与贷款追踪 | [![DOWNLOAD](assets/download.svg)](https://github.com/Yunxei/jingxia/releases/download/moneta-v1.2/Moneta-1.2.zip) | globals |
+| [Moneta](#user-content-moneta) | 1.3 | 2026-10-19 | 自动记账与贷款追踪 | [![DOWNLOAD](assets/download.svg)](https://github.com/Yunxei/jingxia/releases/download/moneta-v1.3/Moneta-1.3.zip) | globals |
 | [DenyList](#user-content-denylist) | 1.1 | 2026-10-19 | 团队黑名单 | [![DOWNLOAD](assets/download.svg)](https://github.com/Yunxei/jingxia/releases/download/denylist-v1.1/DenyList-1.1.zip) | — |
 <br>
 
@@ -666,7 +666,7 @@ X 不是固定盘符，它代表你电脑上“文档”文件夹所在的盘。
 <hr>
 
 <details>
-<summary>Moneta 1.2 ｜ 贸易小账本</summary>
+<summary>Moneta 1.3 ｜ 贸易小账本</summary>
 
 <a id="moneta"></a>
 
@@ -689,9 +689,9 @@ X 不是固定盘符，它代表你电脑上“文档”文件夹所在的盘。
 
 <picture><img src="https://raw.githubusercontent.com/Yunxei/jingxia/main/assets/detail-download.svg" width="18" height="18" alt="" /></picture> **下载**
 
-**Moneta 1.2**
+**Moneta 1.3**
 
-[![DOWNLOAD](assets/download.svg)](https://github.com/Yunxei/jingxia/releases/download/moneta-v1.2/Moneta-1.2.zip)
+[![DOWNLOAD](assets/download.svg)](https://github.com/Yunxei/jingxia/releases/download/moneta-v1.3/Moneta-1.3.zip)
 
 <picture><img src="https://raw.githubusercontent.com/Yunxei/jingxia/main/assets/detail-dependency.svg" width="18" height="18" alt="" /></picture> **前置插件**
 
@@ -701,13 +701,17 @@ X 不是固定盘符，它代表你电脑上“文档”文件夹所在的盘。
 
 <picture><img src="https://raw.githubusercontent.com/Yunxei/jingxia/main/assets/detail-history.svg" width="18" height="18" alt="" /></picture> **更新记录**
 
+`1.3`
+
+- 修复屏幕收益在重新登录或文字长度变化后左右偏移的问题。
+
+<details>
+<summary>历史版本</summary>
+
 `1.2`
 
 - 修复他人制作金币货物的出售分成计算。
 - 已保存制作人与分成信息的记录自动重新计算货款。
-
-<details>
-<summary>历史版本</summary>
 
 `1.1`
 
