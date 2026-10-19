@@ -14,7 +14,7 @@
 | [Astravia](#user-content-astravia) | 1.3 Beta | 2026-10-11 | 地图、资源与点位导航 | [![DOWNLOAD](assets/download.svg)](https://github.com/Yunxei/jingxia/releases/download/astravia-v1.3-beta/Astravia-1.3-Beta.zip) | globals |
 | [LayoutKeeper](#user-content-layoutkeeper) | 1.0 | 2026-10-13 | 界面布局保存与迁移 | [![DOWNLOAD](assets/download.svg)](https://github.com/Yunxei/jingxia/releases/download/layoutkeeper-v1.0/LayoutKeeper-1.0.zip) | globals |
 | [Moneta](#user-content-moneta) | 1.2 | 2026-10-18 | 自动记账与贷款追踪 | [![DOWNLOAD](assets/download.svg)](https://github.com/Yunxei/jingxia/releases/download/moneta-v1.2/Moneta-1.2.zip) | globals |
-| [DenyList](#user-content-denylist) | 1.0 | 2026-10-18 | 团队黑名单 | [![DOWNLOAD](assets/download.svg)](https://github.com/Yunxei/jingxia/releases/download/denylist-v1.0/DenyList-1.0.zip) | — |
+| [DenyList](#user-content-denylist) | 1.1 | 2026-10-19 | 团队黑名单 | [![DOWNLOAD](assets/download.svg)](https://github.com/Yunxei/jingxia/releases/download/denylist-v1.1/DenyList-1.1.zip) | — |
 <br>
 
 > 有BUG或者建议可以联系我，我会第二时间更新，因为第一时间我要农。
@@ -728,7 +728,7 @@ X 不是固定盘符，它代表你电脑上“文档”文件夹所在的盘。
 <hr>
 
 <details>
-<summary>DenyList 1.0 ｜ 团队黑名单</summary>
+<summary>DenyList 1.1 ｜ 团队黑名单</summary>
 
 <a id="denylist"></a>
 
@@ -750,14 +750,29 @@ X 不是固定盘符，它代表你电脑上“文档”文件夹所在的盘。
 
 <picture><img src="https://raw.githubusercontent.com/Yunxei/jingxia/main/assets/detail-download.svg" width="18" height="18" alt="" /></picture> **下载**
 
-**DenyList 1.0**
+**DenyList 1.1**
 
-[![DOWNLOAD](assets/download.svg)](https://github.com/Yunxei/jingxia/releases/download/denylist-v1.0/DenyList-1.0.zip)
+[![DOWNLOAD](assets/download.svg)](https://github.com/Yunxei/jingxia/releases/download/denylist-v1.1/DenyList-1.1.zip)
 
 <picture><img src="https://raw.githubusercontent.com/Yunxei/jingxia/main/assets/detail-history.svg" width="18" height="18" alt="" /></picture> **更新记录**
+
+`1.1`
+
+- 新增名单页面从当前目标添加。
+- 支持按住加减及翻页按钮连续操作。
+- 修复名单文字显示、悬停与点击复制问题。
+- 修复浮窗字号、描边及背景尺寸适配。
+- 完善自动踢人队列，新增暂停重试与权限恢复检测。
+- 完善配置保存恢复、窗口位置及界面提示。
+- 补充公会与个人名单的识别距离说明。
+
+<details>
+<summary>历史版本</summary>
 
 `1.0`
 
 首次发布。
+
+</details>
 
 </details>
