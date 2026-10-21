@@ -556,13 +556,21 @@ X 不是固定盘符，它代表你电脑上“文档”文件夹所在的盘。
 - 仙境各类活动宝箱以及探险点位
 
 <p>
-  <a href="https://raw.githubusercontent.com/Yunxei/jingxia/main/assets/screenshots/Astravia/preview-01.png"><img width="31%" alt="Astravia 预览 1" src="assets/screenshots/Astravia/preview-01.png" /></a>
-  <a href="https://raw.githubusercontent.com/Yunxei/jingxia/main/assets/screenshots/Astravia/preview-02.png"><img width="31%" alt="Astravia 预览 2" src="assets/screenshots/Astravia/preview-02.png" /></a>
-  <a href="https://raw.githubusercontent.com/Yunxei/jingxia/main/assets/screenshots/Astravia/preview-03.png"><img width="31%" alt="Astravia 预览 3" src="assets/screenshots/Astravia/preview-03.png" /></a>
+  <a href="https://raw.githubusercontent.com/Yunxei/jingxia/main/assets/screenshots/Astravia/preview-01.png"><img width="31%" align="top" alt="世界地图沉船总览" src="assets/screenshots/Astravia/preview-01.png" /></a>
+  <a href="https://raw.githubusercontent.com/Yunxei/jingxia/main/assets/screenshots/Astravia/preview-02.png"><img width="31%" align="top" alt="黄金之海沉船点位" src="assets/screenshots/Astravia/preview-02.png" /></a>
+  <a href="https://raw.githubusercontent.com/Yunxei/jingxia/main/assets/screenshots/Astravia/preview-03.png"><img width="31%" align="top" alt="船之墓沉船点位" src="assets/screenshots/Astravia/preview-03.png" /></a>
 </p>
 
 <p>
-  <a href="https://raw.githubusercontent.com/Yunxei/jingxia/main/assets/screenshots/Astravia/preview-04.png"><img width="31%" alt="Astravia 预览 4" src="assets/screenshots/Astravia/preview-04.png" /></a>
+  <a href="https://raw.githubusercontent.com/Yunxei/jingxia/main/assets/screenshots/Astravia/preview-04.png"><img width="31%" align="top" alt="探索点与首领分类" src="assets/screenshots/Astravia/preview-04.png" /></a>
+  <a href="https://raw.githubusercontent.com/Yunxei/jingxia/main/assets/screenshots/Astravia/preview-05.png"><img width="31%" align="top" alt="黄金平原地区详图" src="assets/screenshots/Astravia/preview-05.png" /></a>
+  <a href="https://raw.githubusercontent.com/Yunxei/jingxia/main/assets/screenshots/Astravia/preview-06.png"><img width="31%" align="top" alt="仙境宝藏点位" src="assets/screenshots/Astravia/preview-06.png" /></a>
+</p>
+
+<p>
+  <a href="https://raw.githubusercontent.com/Yunxei/jingxia/main/assets/screenshots/Astravia/preview-07.png"><img width="31%" align="top" alt="仙境探险路线" src="assets/screenshots/Astravia/preview-07.png" /></a>
+  <a href="https://raw.githubusercontent.com/Yunxei/jingxia/main/assets/screenshots/Astravia/preview-08.png"><img width="31%" align="top" alt="自定义点位管理" src="assets/screenshots/Astravia/preview-08.png" /></a>
+  <a href="https://raw.githubusercontent.com/Yunxei/jingxia/main/assets/screenshots/Astravia/preview-09.png"><img width="31%" align="top" alt="罗盘导航窗口" src="assets/screenshots/Astravia/preview-09.png" /></a>
 </p>
 
 <picture><img src="https://raw.githubusercontent.com/Yunxei/jingxia/main/assets/detail-download.svg" width="18" height="18" alt="" /></picture> **下载**
