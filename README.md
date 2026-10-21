@@ -15,6 +15,7 @@
 | [LayoutKeeper](#user-content-layoutkeeper) | 1.0 | 2026-10-13 | 界面布局保存与迁移 | [![DOWNLOAD](assets/download.svg)](https://github.com/Yunxei/jingxia/releases/download/layoutkeeper-v1.0/LayoutKeeper-1.0.zip) | globals |
 | [Moneta](#user-content-moneta) | 1.3 | 2026-10-19 | 自动记账与贷款追踪 | [![DOWNLOAD](assets/download.svg)](https://github.com/Yunxei/jingxia/releases/download/moneta-v1.3/Moneta-1.3.zip) | globals |
 | [DenyList](#user-content-denylist) | 1.1 | 2026-10-19 | 团队黑名单 | [![DOWNLOAD](assets/download.svg)](https://github.com/Yunxei/jingxia/releases/download/denylist-v1.1/DenyList-1.1.zip) | — |
+| [Tabula](#user-content-tabula) | 1.0 | 2026-10-21 | 每日债券需求 | [![DOWNLOAD](assets/download.svg)](https://github.com/Yunxei/jingxia/releases/download/tabula-v1.0/Tabula-1.0.zip) | globals |
 <br>
 
 > 有BUG或者建议可以联系我，我会第二时间更新，因为第一时间我要农。
@@ -798,5 +799,45 @@ X 不是固定盘符，它代表你电脑上“文档”文件夹所在的盘。
 首次发布。
 
 </details>
+
+</details>
+
+<hr>
+
+<details>
+<summary>Tabula 1.0 ｜ 每日债券需求</summary>
+
+<a id="tabula"></a>
+
+<picture><img src="https://raw.githubusercontent.com/Yunxei/jingxia/main/assets/detail-info.svg" width="18" height="18" alt="" /></picture> **插件说明**
+
+汇总各大陆居民公告板的债券所需物资与钱袋需求。
+
+<picture><img src="https://raw.githubusercontent.com/Yunxei/jingxia/main/assets/detail-features.svg" width="18" height="18" alt="" /></picture> **主要功能**
+
+- 东大陆、西大陆、原大陆物资需求
+- 地区名称复制
+
+<p>
+  <a href="https://raw.githubusercontent.com/Yunxei/jingxia/main/assets/screenshots/Tabula/preview-01.png"><img width="31%" alt="Tabula 每日债券需求预览" src="assets/screenshots/Tabula/preview-01.png" /></a>
+</p>
+
+<picture><img src="https://raw.githubusercontent.com/Yunxei/jingxia/main/assets/detail-download.svg" width="18" height="18" alt="" /></picture> **下载**
+
+**Tabula 1.0**
+
+[![DOWNLOAD](assets/download.svg)](https://github.com/Yunxei/jingxia/releases/download/tabula-v1.0/Tabula-1.0.zip)
+
+<picture><img src="https://raw.githubusercontent.com/Yunxei/jingxia/main/assets/detail-dependency.svg" width="18" height="18" alt="" /></picture> **前置插件**
+
+[![DOWNLOAD](assets/download.svg)](https://github.com/Yunxei/jingxia/releases/download/globals/globals.zip)
+
+第一次安装需要同时安装 globals；已经安装过则无需重复安装。
+
+<picture><img src="https://raw.githubusercontent.com/Yunxei/jingxia/main/assets/detail-history.svg" width="18" height="18" alt="" /></picture> **更新记录**
+
+`1.0`
+
+首次发布。
 
 </details>
