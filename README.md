@@ -13,7 +13,7 @@
 | [Angler](#user-content-angler) | 1.0 | 2026-10-06 | 钓鱼辅助 | [![DOWNLOAD](assets/download.svg)](https://github.com/Yunxei/jingxia/releases/download/angler-v1.0/Angler-1.0.zip) | globals |
 | [Astravia](#user-content-astravia) | 1.3 | 2026-10-21 | 地图、资源与点位导航 | [![DOWNLOAD](assets/download.svg)](https://github.com/Yunxei/jingxia/releases/download/astravia-v1.3/Astravia-1.3.zip) | globals |
 | [LayoutKeeper](#user-content-layoutkeeper) | 1.0 | 2026-10-13 | 界面布局保存与迁移 | [![DOWNLOAD](assets/download.svg)](https://github.com/Yunxei/jingxia/releases/download/layoutkeeper-v1.0/LayoutKeeper-1.0.zip) | globals |
-| [Moneta](#user-content-moneta) | 1.3 | 2026-10-19 | 自动记账与贷款追踪 | [![DOWNLOAD](assets/download.svg)](https://github.com/Yunxei/jingxia/releases/download/moneta-v1.3/Moneta-1.3.zip) | globals |
+| [Moneta](#user-content-moneta) | 1.4 | 2026-10-22 | 自动记账与贷款追踪 | [![DOWNLOAD](assets/download.svg)](https://github.com/Yunxei/jingxia/releases/download/moneta-v1.4/Moneta-1.4.zip) | globals |
 | [DenyList](#user-content-denylist) | 1.1 | 2026-10-19 | 团队黑名单 | [![DOWNLOAD](assets/download.svg)](https://github.com/Yunxei/jingxia/releases/download/denylist-v1.1/DenyList-1.1.zip) | — |
 | [Tabula](#user-content-tabula) | 1.0 | 2026-10-21 | 每日债券需求 | [![DOWNLOAD](assets/download.svg)](https://github.com/Yunxei/jingxia/releases/download/tabula-v1.0/Tabula-1.0.zip) | globals |
 <br>
@@ -687,7 +687,7 @@ X 不是固定盘符，它代表你电脑上“文档”文件夹所在的盘。
 <hr>
 
 <details>
-<summary>Moneta 1.3 ｜ 贸易小账本</summary>
+<summary>Moneta 1.4 ｜ 贸易小账本</summary>
 
 <a id="moneta"></a>
 
@@ -710,9 +710,9 @@ X 不是固定盘符，它代表你电脑上“文档”文件夹所在的盘。
 
 <picture><img src="https://raw.githubusercontent.com/Yunxei/jingxia/main/assets/detail-download.svg" width="18" height="18" alt="" /></picture> **下载**
 
-**Moneta 1.3**
+**Moneta 1.4**
 
-[![DOWNLOAD](assets/download.svg)](https://github.com/Yunxei/jingxia/releases/download/moneta-v1.3/Moneta-1.3.zip)
+[![DOWNLOAD](assets/download.svg)](https://github.com/Yunxei/jingxia/releases/download/moneta-v1.4/Moneta-1.4.zip)
 
 <picture><img src="https://raw.githubusercontent.com/Yunxei/jingxia/main/assets/detail-dependency.svg" width="18" height="18" alt="" /></picture> **前置插件**
 
@@ -722,12 +722,19 @@ X 不是固定盘符，它代表你电脑上“文档”文件夹所在的盘。
 
 <picture><img src="https://raw.githubusercontent.com/Yunxei/jingxia/main/assets/detail-history.svg" width="18" height="18" alt="" /></picture> **更新记录**
 
-`1.3`
+`1.4`
 
-- 修复屏幕收益在重新登录或文字长度变化后左右偏移的问题。
+- 新增新鲜度列，显示交货时的新鲜度奖励加成。
+- 调整交货列表列宽与间距。
+- 主窗口每次进入游戏时居中，拖动位置仅在本次游戏期间保留。
+- 设置窗口默认按屏幕居中。
 
 <details>
 <summary>历史版本</summary>
+
+`1.3`
+
+- 修复屏幕收益在重新登录或文字长度变化后左右偏移的问题。
 
 `1.2`
 
