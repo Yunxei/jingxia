@@ -869,6 +869,12 @@ X 不是固定盘符，它代表你电脑上“文档”文件夹所在的盘。
 - 债券物资需求与副本信息
 - 屏幕收益提示
 
+<p>
+  <a href="https://raw.githubusercontent.com/Yunxei/jingxia/main/assets/screenshots/FieldNotes/preview-01.png"><img width="31%" alt="信息概况总览" src="assets/screenshots/FieldNotes/preview-01.png" /></a>
+  <a href="https://raw.githubusercontent.com/Yunxei/jingxia/main/assets/screenshots/FieldNotes/preview-02.png"><img width="31%" alt="债券物资需求" src="assets/screenshots/FieldNotes/preview-02.png" /></a>
+  <a href="https://raw.githubusercontent.com/Yunxei/jingxia/main/assets/screenshots/FieldNotes/preview-03.png"><img width="31%" alt="屏幕提示设置" src="assets/screenshots/FieldNotes/preview-03.png" /></a>
+</p>
+
 <picture><img src="https://raw.githubusercontent.com/Yunxei/jingxia/main/assets/detail-download.svg" width="18" height="18" alt="" /></picture> **下载**
 
 **FieldNotes 1.0**
