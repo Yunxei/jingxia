@@ -16,6 +16,7 @@
 | [Moneta](#user-content-moneta) | 1.4 | 2026-10-22 | 自动记账与贷款追踪 | [![DOWNLOAD](assets/download.svg)](https://github.com/Yunxei/jingxia/releases/download/moneta-v1.4/Moneta-1.4.zip) | globals |
 | [DenyList](#user-content-denylist) | 1.1 | 2026-10-19 | 团队黑名单 | [![DOWNLOAD](assets/download.svg)](https://github.com/Yunxei/jingxia/releases/download/denylist-v1.1/DenyList-1.1.zip) | — |
 | [Tabula](#user-content-tabula) | 1.0 | 2026-10-21 | 每日债券需求 | [![DOWNLOAD](assets/download.svg)](https://github.com/Yunxei/jingxia/releases/download/tabula-v1.0/Tabula-1.0.zip) | globals |
+| [FieldNotes](#user-content-fieldnotes) | 1.0 | 2026-10-23 | 信息概况 | [![DOWNLOAD](assets/download.svg)](https://github.com/Yunxei/jingxia/releases/download/fieldnotes-v1.0/FieldNotes-1.0.zip) | globals |
 <br>
 
 > 有BUG或者建议可以联系我，我会第二时间更新，因为第一时间我要农。
@@ -834,6 +835,45 @@ X 不是固定盘符，它代表你电脑上“文档”文件夹所在的盘。
 **Tabula 1.0**
 
 [![DOWNLOAD](assets/download.svg)](https://github.com/Yunxei/jingxia/releases/download/tabula-v1.0/Tabula-1.0.zip)
+
+<picture><img src="https://raw.githubusercontent.com/Yunxei/jingxia/main/assets/detail-dependency.svg" width="18" height="18" alt="" /></picture> **前置插件**
+
+[![DOWNLOAD](assets/download.svg)](https://github.com/Yunxei/jingxia/releases/download/globals/globals.zip)
+
+第一次安装需要同时安装 globals；已经安装过则无需重复安装。
+
+<picture><img src="https://raw.githubusercontent.com/Yunxei/jingxia/main/assets/detail-history.svg" width="18" height="18" alt="" /></picture> **更新记录**
+
+`1.0`
+
+首次发布。
+
+</details>
+
+<hr>
+
+<details>
+<summary>FieldNotes 1.0 ｜ 信息概况</summary>
+
+<a id="fieldnotes"></a>
+
+<picture><img src="https://raw.githubusercontent.com/Yunxei/jingxia/main/assets/detail-info.svg" width="18" height="18" alt="" /></picture> **插件说明**
+
+汇总每日收支、任务进度与活动信息。
+
+<picture><img src="https://raw.githubusercontent.com/Yunxei/jingxia/main/assets/detail-features.svg" width="18" height="18" alt="" /></picture> **主要功能**
+
+- 每日资源收支与昨日总览
+- 每日、周常任务进度与奖励
+- 特殊活动排期与明日预告
+- 债券物资需求与副本信息
+- 屏幕收益提示
+
+<picture><img src="https://raw.githubusercontent.com/Yunxei/jingxia/main/assets/detail-download.svg" width="18" height="18" alt="" /></picture> **下载**
+
+**FieldNotes 1.0**
+
+[![DOWNLOAD](assets/download.svg)](https://github.com/Yunxei/jingxia/releases/download/fieldnotes-v1.0/FieldNotes-1.0.zip)
 
 <picture><img src="https://raw.githubusercontent.com/Yunxei/jingxia/main/assets/detail-dependency.svg" width="18" height="18" alt="" /></picture> **前置插件**
 
