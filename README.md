@@ -11,7 +11,7 @@
 | [Nyxaria](#user-content-nyxaria) | 2.1 | 2026-10-07 | 背包整理 | [![DOWNLOAD](assets/download.svg)](https://github.com/Yunxei/jingxia/releases/download/nyxaria-v2.1/Nyxaria-2.1.zip) | — |
 | [combatcloset](#user-content-combatcloset) | 2.7 | 2026-10-14 | 装备与称号一键切换 | [![DOWNLOAD](assets/download.svg)](https://github.com/Yunxei/jingxia/releases/download/combatcloset-v2.7/combatcloset-2.7.zip) | — |
 | [Angler](#user-content-angler) | 1.0 | 2026-10-06 | 钓鱼辅助 | [![DOWNLOAD](assets/download.svg)](https://github.com/Yunxei/jingxia/releases/download/angler-v1.0/Angler-1.0.zip) | globals |
-| [Astravia](#user-content-astravia) | 1.3 | 2026-10-21 | 地图、资源与点位导航 | [![DOWNLOAD](assets/download.svg)](https://github.com/Yunxei/jingxia/releases/download/astravia-v1.3/Astravia-1.3.zip) | globals |
+| [Astravia](#user-content-astravia) | 1.4 | 2026-10-23 | 地图、资源与点位导航 | [![DOWNLOAD](assets/download.svg)](https://github.com/Yunxei/jingxia/releases/download/astravia-v1.4/Astravia-1.4.zip) | globals |
 | [LayoutKeeper](#user-content-layoutkeeper) | 1.0 | 2026-10-13 | 界面布局保存与迁移 | [![DOWNLOAD](assets/download.svg)](https://github.com/Yunxei/jingxia/releases/download/layoutkeeper-v1.0/LayoutKeeper-1.0.zip) | globals |
 | [Moneta](#user-content-moneta) | 1.4 | 2026-10-22 | 自动记账与贷款追踪 | [![DOWNLOAD](assets/download.svg)](https://github.com/Yunxei/jingxia/releases/download/moneta-v1.4/Moneta-1.4.zip) | globals |
 | [DenyList](#user-content-denylist) | 1.1 | 2026-10-19 | 团队黑名单 | [![DOWNLOAD](assets/download.svg)](https://github.com/Yunxei/jingxia/releases/download/denylist-v1.1/DenyList-1.1.zip) | — |
@@ -534,7 +534,7 @@ X 不是固定盘符，它代表你电脑上“文档”文件夹所在的盘。
 <hr>
 
 <details>
-<summary>Astravia 1.3 ｜ 地图与点位导航</summary>
+<summary>Astravia 1.4 ｜ 地图与点位导航</summary>
 
 <a id="astravia"></a>
 
@@ -551,7 +551,7 @@ X 不是固定盘符，它代表你电脑上“文档”文件夹所在的盘。
 <picture><img src="https://raw.githubusercontent.com/Yunxei/jingxia/main/assets/detail-features.svg" width="18" height="18" alt="" /></picture> **主要功能**
 
 - 沉船、藏宝图、探索点、海虫点及自定义点位导航
-- 种植、采集、伐木、采矿、领地资源点与首领分类筛选
+- 种植、采集、伐木、采矿、领地资源点、首领与保管箱成就分类筛选
 - 陈旧的坛子、遗物箱、探险家的背包及打捞、信物点位查询
 - 自定义点位导入、当前位置记录、名称与备注管理
 - 地图定位、最近传送点推荐及坐标、名称复制
@@ -577,9 +577,15 @@ X 不是固定盘符，它代表你电脑上“文档”文件夹所在的盘。
 
 <picture><img src="https://raw.githubusercontent.com/Yunxei/jingxia/main/assets/detail-download.svg" width="18" height="18" alt="" /></picture> **下载**
 
-**Astravia 1.3**
+**Astravia 1.4**
 
-[![DOWNLOAD](assets/download.svg)](https://github.com/Yunxei/jingxia/releases/download/astravia-v1.3/Astravia-1.3.zip)
+[![DOWNLOAD](assets/download.svg)](https://github.com/Yunxei/jingxia/releases/download/astravia-v1.4/Astravia-1.4.zip)
+
+**升级轻量包**
+
+[![DOWNLOAD](assets/download.svg)](https://github.com/Yunxei/jingxia/releases/download/astravia-v1.4/Astravia-1.4-Update.zip)
+
+仅供已安装 Astravia 1.3 完整版的用户覆盖升级；新装请下载完整版。
 
 <picture><img src="https://raw.githubusercontent.com/Yunxei/jingxia/main/assets/detail-dependency.svg" width="18" height="18" alt="" /></picture> **前置插件**
 
@@ -588,6 +594,15 @@ X 不是固定盘符，它代表你电脑上“文档”文件夹所在的盘。
 第一次安装需要同时安装 globals；已经安装过则无需重复安装。
 
 <picture><img src="https://raw.githubusercontent.com/Yunxei/jingxia/main/assets/detail-history.svg" width="18" height="18" alt="" /></picture> **更新记录**
+
+`1.4`
+
+- 新增保管箱成就分类，包含 8 个点位及坐骑保管箱、战宠保管箱筛选。
+- 优化探索点悬停名称的显示层级与刷新表现。
+- 新增重复点击当前点位取消导航并关闭窗口，保留完成进度。
+
+<details>
+<summary>历史版本</summary>
 
 `1.3`
 
@@ -598,9 +613,6 @@ X 不是固定盘符，它代表你电脑上“文档”文件夹所在的盘。
 - 修复自定义点位保存、翻页显示及地区归属问题。
 - 配置统一保存至插件目录，兼容旧数据并静默迁移。
 - 优化分类菜单、导航信息及说明窗口。
-
-<details>
-<summary>历史版本</summary>
 
 `1.3 Beta`
 
