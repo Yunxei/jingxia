@@ -16,7 +16,7 @@
 | [Moneta](#user-content-moneta) | 1.4 | 2026-10-22 | 自动记账与贷款追踪 | [![DOWNLOAD](assets/download.svg)](https://github.com/Yunxei/jingxia/releases/download/moneta-v1.4/Moneta-1.4.zip)<br>[![蓝奏云下载](assets/download-lanzou.svg)](https://wwaxb.lanzouc.com/iAVta4d3oxxg) | globals |
 | [DenyList](#user-content-denylist) | 1.1 | 2026-10-19 | 团队黑名单 | [![DOWNLOAD](assets/download.svg)](https://github.com/Yunxei/jingxia/releases/download/denylist-v1.1/DenyList-1.1.zip)<br>[![蓝奏云下载](assets/download-lanzou.svg)](https://wwaxb.lanzouc.com/i5N6d4d3oy6f) | — |
 | [Tabula](#user-content-tabula) | 1.0 | 2026-10-21 | 每日债券需求 | [![DOWNLOAD](assets/download.svg)](https://github.com/Yunxei/jingxia/releases/download/tabula-v1.0/Tabula-1.0.zip)<br>[![蓝奏云下载](assets/download-lanzou.svg)](https://wwaxb.lanzouc.com/ijMxk4d3oz5a) | globals |
-| [FieldNotes](#user-content-fieldnotes) | 1.0 | 2026-10-23 | 信息概况 | [![DOWNLOAD](assets/download.svg)](https://github.com/Yunxei/jingxia/releases/download/fieldnotes-v1.0/FieldNotes-1.0.zip)<br>[![蓝奏云下载](assets/download-lanzou.svg)](https://wwaxb.lanzouc.com/iYi2l4d3p0of) | globals |
+| [FieldNotes](#user-content-fieldnotes) | 1.1 | 2026-10-24 | 信息概况 | [![DOWNLOAD](assets/download.svg)](https://github.com/Yunxei/jingxia/releases/download/fieldnotes-v1.1/FieldNotes-1.1.zip)<br>[![蓝奏云下载](assets/download-lanzou.svg)](https://wwaxb.lanzouc.com/iM1lg4d5ozeb) | globals |
 <br>
 
 > 有BUG或者建议可以联系我，我会第二时间更新，因为第一时间我要农。
@@ -878,7 +878,7 @@ X 不是固定盘符，它代表你电脑上“文档”文件夹所在的盘。
 <hr>
 
 <details>
-<summary>FieldNotes 1.0 ｜ 信息概况</summary>
+<summary>FieldNotes 1.1 ｜ 信息概况</summary>
 
 <a id="fieldnotes"></a>
 
@@ -902,9 +902,9 @@ X 不是固定盘符，它代表你电脑上“文档”文件夹所在的盘。
 
 <picture><img src="https://raw.githubusercontent.com/Yunxei/jingxia/main/assets/detail-download.svg" width="18" height="18" alt="" /></picture> **下载**
 
-**FieldNotes 1.0**
+**FieldNotes 1.1**
 
-[![DOWNLOAD](assets/download.svg)](https://github.com/Yunxei/jingxia/releases/download/fieldnotes-v1.0/FieldNotes-1.0.zip)&nbsp;&nbsp;[![蓝奏云下载](assets/download-lanzou.svg)](https://wwaxb.lanzouc.com/iYi2l4d3p0of)（提取码：8888）
+[![DOWNLOAD](assets/download.svg)](https://github.com/Yunxei/jingxia/releases/download/fieldnotes-v1.1/FieldNotes-1.1.zip)&nbsp;&nbsp;[![蓝奏云下载](assets/download-lanzou.svg)](https://wwaxb.lanzouc.com/iM1lg4d5ozeb)（提取码：8888）
 
 <picture><img src="https://raw.githubusercontent.com/Yunxei/jingxia/main/assets/detail-dependency.svg" width="18" height="18" alt="" /></picture> **前置插件**
 
@@ -914,8 +914,18 @@ X 不是固定盘符，它代表你电脑上“文档”文件夹所在的盘。
 
 <picture><img src="https://raw.githubusercontent.com/Yunxei/jingxia/main/assets/detail-history.svg" width="18" height="18" alt="" /></picture> **更新记录**
 
+`1.1`
+
+- 修复屏幕提示文字连在一起的问题，调整提示间距。
+- 去掉鲸鱼Boss名称与倒计时之间的空格。
+
+<details>
+<summary>历史版本</summary>
+
 `1.0`
 
 首次发布。
+
+</details>
 
 </details>
