@@ -8,7 +8,7 @@
 | [packratio](#user-content-packratio) | 2.9 | 2026-10-13 | 多路线货率与贸易提醒 | [![DOWNLOAD](assets/download.svg)](https://github.com/Yunxei/jingxia/releases/download/packratio-v2.9/packratio-2.9.zip)<br>[![蓝奏云下载](assets/download-lanzou.svg)](https://wwaxb.lanzouc.com/iQs4U4d3otgf) | — |
 | [speedometer](#user-content-speedometer) | 2.2 | 2026-10-09 | 速度显示 | [![DOWNLOAD](assets/download.svg)](https://github.com/Yunxei/jingxia/releases/download/speedometer-v2.2/speedometer-2.2.zip)<br>[![蓝奏云下载](assets/download-lanzou.svg)](https://wwaxb.lanzouc.com/irmp74d3ou7c) | globals |
 | [ReloadButton](#user-content-reloadbutton) | 1.0 | 2026-10-04 | 快速重载插件 | [![DOWNLOAD](assets/download.svg)](https://github.com/Yunxei/jingxia/releases/download/reloadbutton-v1.0/ReloadButton-1.0.zip)<br>[![蓝奏云下载](assets/download-lanzou.svg)](https://wwaxb.lanzouc.com/i65YP4d3ourc) | — |
-| [Nyxaria](#user-content-nyxaria) | 2.1 | 2026-10-07 | 背包整理 | [![DOWNLOAD](assets/download.svg)](https://github.com/Yunxei/jingxia/releases/download/nyxaria-v2.1/Nyxaria-2.1.zip)<br>[![蓝奏云下载](assets/download-lanzou.svg)](https://wwaxb.lanzouc.com/i170C4d3ov1c) | — |
+| [Nyxaria](#user-content-nyxaria) | 2.2 | 2026-10-24 | 背包整理 | [![DOWNLOAD](assets/download.svg)](https://github.com/Yunxei/jingxia/releases/download/nyxaria-v2.2/Nyxaria-2.2.zip)<br>[![蓝奏云下载](assets/download-lanzou.svg)](https://wwaxb.lanzouc.com/iR6cB4d64baj) | — |
 | [combatcloset](#user-content-combatcloset) | 2.7 | 2026-10-14 | 装备与称号一键切换 | [![DOWNLOAD](assets/download.svg)](https://github.com/Yunxei/jingxia/releases/download/combatcloset-v2.7/combatcloset-2.7.zip)<br>[![蓝奏云下载](assets/download-lanzou.svg)](https://wwaxb.lanzouc.com/ibDB94d3ovbc) | — |
 | [Angler](#user-content-angler) | 1.1 | 2026-10-24 | 钓鱼辅助 | [![DOWNLOAD](assets/download.svg)](https://github.com/Yunxei/jingxia/releases/download/angler-v1.1/Angler-1.1.zip)<br>[![蓝奏云下载](assets/download-lanzou.svg)](https://wwaxb.lanzouc.com/iEXrp4d5o8kf) | globals |
 | [Astravia](#user-content-astravia) | 1.5 | 2026-10-24 | 地图、资源与点位导航 | [![DOWNLOAD](assets/download.svg)](https://github.com/Yunxei/jingxia/releases/download/astravia-v1.5/Astravia-1.5.zip)<br>[![蓝奏云下载](assets/download-lanzou.svg)](https://wwaxb.lanzouc.com/i7Qyg4d5p3qh) | globals |
@@ -382,7 +382,7 @@ X 不是固定盘符，它代表你电脑上“文档”文件夹所在的盘。
 <hr>
 
 <details>
-<summary>Nyxaria 2.1 ｜ 背包整理</summary>
+<summary>Nyxaria 2.2 ｜ 背包整理</summary>
 
 <a id="nyxaria"></a>
 
@@ -409,18 +409,24 @@ X 不是固定盘符，它代表你电脑上“文档”文件夹所在的盘。
 
 <picture><img src="https://raw.githubusercontent.com/Yunxei/jingxia/main/assets/detail-download.svg" width="18" height="18" alt="" /></picture> **下载**
 
-**Nyxaria 2.1**
+**Nyxaria 2.2**
 
-[![DOWNLOAD](assets/download.svg)](https://github.com/Yunxei/jingxia/releases/download/nyxaria-v2.1/Nyxaria-2.1.zip)&nbsp;&nbsp;[![蓝奏云下载](assets/download-lanzou.svg)](https://wwaxb.lanzouc.com/i170C4d3ov1c)（提取码：8888）
+[![DOWNLOAD](assets/download.svg)](https://github.com/Yunxei/jingxia/releases/download/nyxaria-v2.2/Nyxaria-2.2.zip)&nbsp;&nbsp;[![蓝奏云下载](assets/download-lanzou.svg)](https://wwaxb.lanzouc.com/iR6cB4d64baj)（提取码：8888）
 
 <picture><img src="https://raw.githubusercontent.com/Yunxei/jingxia/main/assets/detail-history.svg" width="18" height="18" alt="" /></picture> **更新记录**
+
+`2.2`
+
+- 支持 PocketSorter 旧配置静默迁移，保留已有 Nyxaria 配置。
+
+从旧版升级后，请在角色选择界面的插件列表中，同时勾选 Nyxaria 和 pocketsorter，进入角色后会自动迁移原有设置。
+
+<details>
+<summary>历史版本</summary>
 
 `2.1`
 
 修复保管箱关闭后透明窗口遮挡鼠标点击的问题。默认整理间隔调整为100ms，保留已有个人设置。
-
-<details>
-<summary>历史版本</summary>
 
 `2.0`
 
