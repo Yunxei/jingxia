@@ -11,7 +11,7 @@
 | [Nyxaria](#user-content-nyxaria) | 2.1 | 2026-10-07 | 背包整理 | [![DOWNLOAD](assets/download.svg)](https://github.com/Yunxei/jingxia/releases/download/nyxaria-v2.1/Nyxaria-2.1.zip)<br>[![蓝奏云下载](assets/download-lanzou.svg)](https://wwaxb.lanzouc.com/i170C4d3ov1c) | — |
 | [combatcloset](#user-content-combatcloset) | 2.7 | 2026-10-14 | 装备与称号一键切换 | [![DOWNLOAD](assets/download.svg)](https://github.com/Yunxei/jingxia/releases/download/combatcloset-v2.7/combatcloset-2.7.zip)<br>[![蓝奏云下载](assets/download-lanzou.svg)](https://wwaxb.lanzouc.com/ibDB94d3ovbc) | — |
 | [Angler](#user-content-angler) | 1.1 | 2026-10-24 | 钓鱼辅助 | [![DOWNLOAD](assets/download.svg)](https://github.com/Yunxei/jingxia/releases/download/angler-v1.1/Angler-1.1.zip)<br>[![蓝奏云下载](assets/download-lanzou.svg)](https://wwaxb.lanzouc.com/iEXrp4d5o8kf) | globals |
-| [Astravia](#user-content-astravia) | 1.4 | 2026-10-23 | 地图、资源与点位导航 | [![DOWNLOAD](assets/download.svg)](https://github.com/Yunxei/jingxia/releases/download/astravia-v1.4/Astravia-1.4.zip)<br>[![蓝奏云下载](assets/download-lanzou.svg)](https://wwaxb.lanzouc.com/ia28s4d3owcj) | globals |
+| [Astravia](#user-content-astravia) | 1.5 | 2026-10-24 | 地图、资源与点位导航 | [![DOWNLOAD](assets/download.svg)](https://github.com/Yunxei/jingxia/releases/download/astravia-v1.5/Astravia-1.5.zip)<br>[![蓝奏云下载](assets/download-lanzou.svg)](https://wwaxb.lanzouc.com/i7Qyg4d5p3qh) | globals |
 | [LayoutKeeper](#user-content-layoutkeeper) | 1.0 | 2026-10-13 | 界面布局保存与迁移 | [![DOWNLOAD](assets/download.svg)](https://github.com/Yunxei/jingxia/releases/download/layoutkeeper-v1.0/LayoutKeeper-1.0.zip)<br>[![蓝奏云下载](assets/download-lanzou.svg)](https://wwaxb.lanzouc.com/ip0ev4d3oxkd) | globals |
 | [Moneta](#user-content-moneta) | 1.4 | 2026-10-22 | 自动记账与贷款追踪 | [![DOWNLOAD](assets/download.svg)](https://github.com/Yunxei/jingxia/releases/download/moneta-v1.4/Moneta-1.4.zip)<br>[![蓝奏云下载](assets/download-lanzou.svg)](https://wwaxb.lanzouc.com/iAVta4d3oxxg) | globals |
 | [DenyList](#user-content-denylist) | 1.1 | 2026-10-19 | 团队黑名单 | [![DOWNLOAD](assets/download.svg)](https://github.com/Yunxei/jingxia/releases/download/denylist-v1.1/DenyList-1.1.zip)<br>[![蓝奏云下载](assets/download-lanzou.svg)](https://wwaxb.lanzouc.com/i5N6d4d3oy6f) | — |
@@ -547,7 +547,7 @@ X 不是固定盘符，它代表你电脑上“文档”文件夹所在的盘。
 <hr>
 
 <details>
-<summary>Astravia 1.4 ｜ 地图与点位导航</summary>
+<summary>Astravia 1.5 ｜ 地图与点位导航</summary>
 
 <a id="astravia"></a>
 
@@ -590,15 +590,15 @@ X 不是固定盘符，它代表你电脑上“文档”文件夹所在的盘。
 
 <picture><img src="https://raw.githubusercontent.com/Yunxei/jingxia/main/assets/detail-download.svg" width="18" height="18" alt="" /></picture> **下载**
 
-**Astravia 1.4**
+**Astravia 1.5**
 
-[![DOWNLOAD](assets/download.svg)](https://github.com/Yunxei/jingxia/releases/download/astravia-v1.4/Astravia-1.4.zip)&nbsp;&nbsp;[![蓝奏云下载](assets/download-lanzou.svg)](https://wwaxb.lanzouc.com/ia28s4d3owcj)（提取码：8888）
+[![DOWNLOAD](assets/download.svg)](https://github.com/Yunxei/jingxia/releases/download/astravia-v1.5/Astravia-1.5.zip)&nbsp;&nbsp;[![蓝奏云下载](assets/download-lanzou.svg)](https://wwaxb.lanzouc.com/i7Qyg4d5p3qh)（提取码：8888）
 
 **升级轻量包**
 
-[![DOWNLOAD](assets/download.svg)](https://github.com/Yunxei/jingxia/releases/download/astravia-v1.4/Astravia-1.4-Update.zip)&nbsp;&nbsp;[![蓝奏云下载](assets/download-lanzou.svg)](https://wwaxb.lanzouc.com/i2Tjt4d3qr2b)（提取码：8888）
+[![DOWNLOAD](assets/download.svg)](https://github.com/Yunxei/jingxia/releases/download/astravia-v1.5/Astravia-1.5-Update.zip)&nbsp;&nbsp;[![蓝奏云下载](assets/download-lanzou.svg)](https://wwaxb.lanzouc.com/iyQhU4d5p5ve)（提取码：8888）
 
-仅供已安装 Astravia 1.3 完整版的用户覆盖升级；新装请下载完整版。
+仅供已安装 Astravia 1.3 或 1.4 完整版的用户覆盖升级；新装请下载完整版。
 
 <picture><img src="https://raw.githubusercontent.com/Yunxei/jingxia/main/assets/detail-dependency.svg" width="18" height="18" alt="" /></picture> **前置插件**
 
@@ -608,14 +608,20 @@ X 不是固定盘符，它代表你电脑上“文档”文件夹所在的盘。
 
 <picture><img src="https://raw.githubusercontent.com/Yunxei/jingxia/main/assets/detail-history.svg" width="18" height="18" alt="" /></picture> **更新记录**
 
+`1.5`
+
+- 新增传送点“[副本]王宫下水道”。
+- 探索新增“西大角色传送点”筛选，收录全部大陆的 139 个据点，方便查漏补缺。
+- 补齐千年树精拉文、风之君主、迷途彷徨者遗漏的跨地区出生点。
+
+<details>
+<summary>历史版本</summary>
+
 `1.4`
 
 - 新增保管箱成就分类，包含 8 个点位及坐骑保管箱、战宠保管箱筛选。
 - 优化探索点悬停名称的显示层级与刷新表现。
 - 新增重复点击当前点位取消导航并关闭窗口，保留完成进度。
-
-<details>
-<summary>历史版本</summary>
 
 `1.3`
 
