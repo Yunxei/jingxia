@@ -5,7 +5,7 @@
 | [globals](#user-content-globals) | — | — | 前置插件 | [![DOWNLOAD](assets/download.svg)](https://github.com/Yunxei/jingxia/releases/download/globals/globals.zip)<br>[![蓝奏云下载](assets/download-lanzou.svg)](https://wwaxb.lanzouc.com/ijXkN4d3or7e) | — |
 | [TimeUntil](#user-content-timeuntil) | 5.0 | 2026-10-11 | 活动/地区时间 | [![DOWNLOAD](assets/download.svg)](https://github.com/Yunxei/jingxia/releases/download/timeuntil-v5.0/TimeUntil-5.0.zip)<br>[![蓝奏云下载](assets/download-lanzou.svg)](https://wwaxb.lanzouc.com/iRrVE4d3os0d) | globals |
 | [Panoptes](#user-content-panoptes) | 1.6 | 2026-10-16 | 玩家状态追踪 | [![DOWNLOAD](assets/download.svg)](https://github.com/Yunxei/jingxia/releases/download/panoptes-v1.6/Panoptes-1.6.zip)<br>[![蓝奏云下载](assets/download-lanzou.svg)](https://wwaxb.lanzouc.com/i1as44d3osqj) | globals |
-| [packratio](#user-content-packratio) | 2.9 | 2026-10-13 | 多路线货率与贸易提醒 | [![DOWNLOAD](assets/download.svg)](https://github.com/Yunxei/jingxia/releases/download/packratio-v2.9/packratio-2.9.zip)<br>[![蓝奏云下载](assets/download-lanzou.svg)](https://wwaxb.lanzouc.com/iQs4U4d3otgf) | — |
+| [packratio](#user-content-packratio) | 3.0 | 2026-10-26 | 多路线货率与贸易提醒 | [![DOWNLOAD](assets/download.svg)](https://github.com/Yunxei/jingxia/releases/download/packratio-v3.0/packratio-3.0.zip)<br>[![蓝奏云下载](assets/download-lanzou.svg)](https://wwaxb.lanzouc.com/iA7WP4dh3ogd) | — |
 | [speedometer](#user-content-speedometer) | 2.2 | 2026-10-09 | 速度显示 | [![DOWNLOAD](assets/download.svg)](https://github.com/Yunxei/jingxia/releases/download/speedometer-v2.2/speedometer-2.2.zip)<br>[![蓝奏云下载](assets/download-lanzou.svg)](https://wwaxb.lanzouc.com/irmp74d3ou7c) | globals |
 | [ReloadButton](#user-content-reloadbutton) | 1.0 | 2026-10-04 | 快速重载插件 | [![DOWNLOAD](assets/download.svg)](https://github.com/Yunxei/jingxia/releases/download/reloadbutton-v1.0/ReloadButton-1.0.zip)<br>[![蓝奏云下载](assets/download-lanzou.svg)](https://wwaxb.lanzouc.com/i65YP4d3ourc) | — |
 | [Nyxaria](#user-content-nyxaria) | 2.2 | 2026-10-24 | 背包整理 | [![DOWNLOAD](assets/download.svg)](https://github.com/Yunxei/jingxia/releases/download/nyxaria-v2.2/Nyxaria-2.2.zip)<br>[![蓝奏云下载](assets/download-lanzou.svg)](https://wwaxb.lanzouc.com/iR6cB4d64baj) | — |
@@ -216,7 +216,7 @@ X 不是固定盘符，它代表你电脑上“文档”文件夹所在的盘。
 <hr>
 
 <details>
-<summary>packratio 2.9 ｜ 多路线货率与贸易提醒</summary>
+<summary>packratio 3.0 ｜ 多路线货率与贸易提醒</summary>
 
 <a id="packratio"></a>
 
@@ -243,11 +243,22 @@ X 不是固定盘符，它代表你电脑上“文档”文件夹所在的盘。
 
 <picture><img src="https://raw.githubusercontent.com/Yunxei/jingxia/main/assets/detail-download.svg" width="18" height="18" alt="" /></picture> **下载**
 
-**packratio 2.9**
+**packratio 3.0**
 
-[![DOWNLOAD](assets/download.svg)](https://github.com/Yunxei/jingxia/releases/download/packratio-v2.9/packratio-2.9.zip)&nbsp;&nbsp;[![蓝奏云下载](assets/download-lanzou.svg)](https://wwaxb.lanzouc.com/iQs4U4d3otgf)（提取码：8888）
+[![DOWNLOAD](assets/download.svg)](https://github.com/Yunxei/jingxia/releases/download/packratio-v3.0/packratio-3.0.zip)&nbsp;&nbsp;[![蓝奏云下载](assets/download-lanzou.svg)](https://wwaxb.lanzouc.com/iA7WP4dh3ogd)（提取码：8888）
 
 <picture><img src="https://raw.githubusercontent.com/Yunxei/jingxia/main/assets/detail-history.svg" width="18" height="18" alt="" /></picture> **更新记录**
+
+`3.0`
+
+- 新增货率详情，支持调整经商熟练度并实时估价。
+- 新增各交易所分类库存记录、交货需求计算和农神宝典。
+- 重新设计更多设置界面。
+- 配置统一保存至 `config.txt`，兼容旧版自动迁移。
+- 修复翡翠谷部分估价、库存过期及位置保存问题，稳定提醒检查频率。
+
+<details>
+<summary>历史版本</summary>
 
 `2.9`
 
@@ -259,9 +270,6 @@ X 不是固定盘符，它代表你电脑上“文档”文件夹所在的盘。
 - 恢复进入游戏时预查询顶部路线，改善首次显示速度。
 - 修正刷新顺序，优化排间距及状态按钮对齐。
 - 移除聊天查询指令。
-
-<details>
-<summary>历史版本</summary>
 
 `2.8` · 2026-10-05
 
