@@ -9,7 +9,7 @@
 | [speedometer](#user-content-speedometer) | 2.2 | 2026-10-09 | 速度显示 | [![DOWNLOAD](assets/download.svg)](https://github.com/Yunxei/jingxia/releases/download/speedometer-v2.2/speedometer-2.2.zip)<br>[![蓝奏云下载](assets/download-lanzou.svg)](https://wwaxb.lanzouc.com/irmp74d3ou7c) | globals |
 | [ReloadButton](#user-content-reloadbutton) | 1.0 | 2026-10-04 | 快速重载插件 | [![DOWNLOAD](assets/download.svg)](https://github.com/Yunxei/jingxia/releases/download/reloadbutton-v1.0/ReloadButton-1.0.zip)<br>[![蓝奏云下载](assets/download-lanzou.svg)](https://wwaxb.lanzouc.com/i65YP4d3ourc) | — |
 | [Nyxaria](#user-content-nyxaria) | 2.2 | 2026-10-24 | 背包整理 | [![DOWNLOAD](assets/download.svg)](https://github.com/Yunxei/jingxia/releases/download/nyxaria-v2.2/Nyxaria-2.2.zip)<br>[![蓝奏云下载](assets/download-lanzou.svg)](https://wwaxb.lanzouc.com/iR6cB4d64baj) | — |
-| [combatcloset](#user-content-combatcloset) | 2.7 | 2026-10-14 | 装备与称号一键切换 | [![DOWNLOAD](assets/download.svg)](https://github.com/Yunxei/jingxia/releases/download/combatcloset-v2.7/combatcloset-2.7.zip)<br>[![蓝奏云下载](assets/download-lanzou.svg)](https://wwaxb.lanzouc.com/ibDB94d3ovbc) | — |
+| [combatcloset](#user-content-combatcloset) | 2.8 | 2026-10-28 | 装备与称号一键切换 | [![DOWNLOAD](assets/download.svg)](https://github.com/Yunxei/jingxia/releases/download/combatcloset-v2.8/combatcloset-2.8.zip)<br>[![蓝奏云下载](assets/download-lanzou.svg)](https://wwaxb.lanzouc.com/iYIbD4dpw2qd) | — |
 | [Angler](#user-content-angler) | 1.1 | 2026-10-24 | 钓鱼辅助 | [![DOWNLOAD](assets/download.svg)](https://github.com/Yunxei/jingxia/releases/download/angler-v1.1/Angler-1.1.zip)<br>[![蓝奏云下载](assets/download-lanzou.svg)](https://wwaxb.lanzouc.com/iEXrp4d5o8kf) | globals |
 | [Astravia](#user-content-astravia) | 1.5 | 2026-10-24 | 地图、资源与点位导航 | [![DOWNLOAD](assets/download.svg)](https://github.com/Yunxei/jingxia/releases/download/astravia-v1.5/Astravia-1.5.zip)<br>[![蓝奏云下载](assets/download-lanzou.svg)](https://wwaxb.lanzouc.com/i7Qyg4d5p3qh) | globals |
 | [LayoutKeeper](#user-content-layoutkeeper) | 1.0 | 2026-10-13 | 界面布局保存与迁移 | [![DOWNLOAD](assets/download.svg)](https://github.com/Yunxei/jingxia/releases/download/layoutkeeper-v1.0/LayoutKeeper-1.0.zip)<br>[![蓝奏云下载](assets/download-lanzou.svg)](https://wwaxb.lanzouc.com/ip0ev4d3oxkd) | globals |
@@ -461,7 +461,7 @@ X 不是固定盘符，它代表你电脑上“文档”文件夹所在的盘。
 <hr>
 
 <details>
-<summary>combatcloset 2.7 ｜ 装备与称号一键切换</summary>
+<summary>combatcloset 2.8 ｜ 装备与称号一键切换</summary>
 
 <a id="combatcloset"></a>
 
@@ -484,18 +484,25 @@ X 不是固定盘符，它代表你电脑上“文档”文件夹所在的盘。
 
 <picture><img src="https://raw.githubusercontent.com/Yunxei/jingxia/main/assets/detail-download.svg" width="18" height="18" alt="" /></picture> **下载**
 
-**combatcloset 2.7**
+**combatcloset 2.8**
 
-[![DOWNLOAD](assets/download.svg)](https://github.com/Yunxei/jingxia/releases/download/combatcloset-v2.7/combatcloset-2.7.zip)&nbsp;&nbsp;[![蓝奏云下载](assets/download-lanzou.svg)](https://wwaxb.lanzouc.com/ibDB94d3ovbc)（提取码：8888）
+[![DOWNLOAD](assets/download.svg)](https://github.com/Yunxei/jingxia/releases/download/combatcloset-v2.8/combatcloset-2.8.zip)&nbsp;&nbsp;[![蓝奏云下载](assets/download-lanzou.svg)](https://wwaxb.lanzouc.com/iYIbD4dpw2qd)（提取码：8888）
 
 <picture><img src="https://raw.githubusercontent.com/Yunxei/jingxia/main/assets/detail-history.svg" width="18" height="18" alt="" /></picture> **更新记录**
+
+`2.8`
+
+- 针对官方于 2026.10.28 调整装备名称进行兼容更新。
+- 换装时自动更新旧套装记录，减少以后装备改名造成的缺失问题。
+- 修复快捷键冲突、同名方案冲突及部分装备状态判断问题。
+- 加强配置保存保护，优化换装重试、界面交互与提醒性能。
+
+<details>
+<summary>历史版本</summary>
 
 `2.7`
 
 - 修复保存方案后设置列表未立即更新的问题。
-
-<details>
-<summary>历史版本</summary>
 
 `2.6`
 
