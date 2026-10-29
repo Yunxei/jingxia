@@ -4,7 +4,7 @@
 | --- | --- | --- | --- | --- | --- |
 | [globals](#user-content-globals) | — | — | 前置插件 | [![DOWNLOAD](assets/download.svg)](https://github.com/Yunxei/jingxia/releases/download/globals/globals.zip)<br>[![蓝奏云下载](assets/download-lanzou.svg)](https://wwaxb.lanzouc.com/ijXkN4d3or7e) | — |
 | [TimeUntil](#user-content-timeuntil) | 5.0 | 2026-10-11 | 活动/地区时间 | [![DOWNLOAD](assets/download.svg)](https://github.com/Yunxei/jingxia/releases/download/timeuntil-v5.0/TimeUntil-5.0.zip)<br>[![蓝奏云下载](assets/download-lanzou.svg)](https://wwaxb.lanzouc.com/iRrVE4d3os0d) | globals |
-| [Panoptes](#user-content-panoptes) | 1.7 | 2026-10-27 | 玩家状态追踪 | [![DOWNLOAD](assets/download.svg)](https://github.com/Yunxei/jingxia/releases/download/panoptes-v1.7/Panoptes-1.7.zip)<br>[![蓝奏云下载](assets/download-lanzou.svg)](https://wwaxb.lanzouc.com/iGL2q4dl281a) | globals |
+| [Panoptes](#user-content-panoptes) | 1.8 | 2026-10-29 | 玩家状态追踪 | [![DOWNLOAD](assets/download.svg)](https://github.com/Yunxei/jingxia/releases/download/panoptes-v1.8/Panoptes-1.8.zip)<br>[![蓝奏云下载](assets/download-lanzou.svg)](https://wwaxb.lanzouc.com/ibmOJ4dx0ade) | globals |
 | [packratio](#user-content-packratio) | 3.2 | 2026-10-29 | 多路线货率与贸易提醒 | [![DOWNLOAD](assets/download.svg)](https://github.com/Yunxei/jingxia/releases/download/packratio-v3.2/packratio-3.2.zip)<br>[![蓝奏云下载](assets/download-lanzou.svg)](https://wwaxb.lanzouc.com/iXJeO4dti42b) | — |
 | [speedometer](#user-content-speedometer) | 2.2 | 2026-10-09 | 速度显示 | [![DOWNLOAD](assets/download.svg)](https://github.com/Yunxei/jingxia/releases/download/speedometer-v2.2/speedometer-2.2.zip)<br>[![蓝奏云下载](assets/download-lanzou.svg)](https://wwaxb.lanzouc.com/irmp74d3ou7c) | globals |
 | [ReloadButton](#user-content-reloadbutton) | 1.0 | 2026-10-04 | 快速重载插件 | [![DOWNLOAD](assets/download.svg)](https://github.com/Yunxei/jingxia/releases/download/reloadbutton-v1.0/ReloadButton-1.0.zip)<br>[![蓝奏云下载](assets/download-lanzou.svg)](https://wwaxb.lanzouc.com/i65YP4d3ourc) | — |
@@ -136,7 +136,7 @@ X 不是固定盘符，它代表你电脑上“文档”文件夹所在的盘。
 <hr>
 
 <details>
-<summary>Panoptes 1.7 ｜ 玩家状态追踪</summary>
+<summary>Panoptes 1.8 ｜ 玩家状态追踪</summary>
 
 <a id="panoptes"></a>
 
@@ -156,6 +156,7 @@ X 不是固定盘符，它代表你电脑上“文档”文件夹所在的盘。
 - 目标连线独立开关
 - 滑翔翼技能冷却与相关减益追踪
 - 死亡回顾
+- 自身物抗、法抗实时显示
 
 <p>
   <a href="https://raw.githubusercontent.com/Yunxei/jingxia/main/assets/screenshots/Panoptes/preview-01.png"><img width="31%" alt="Panoptes 预览 1" src="assets/screenshots/Panoptes/preview-01.png" /></a>
@@ -171,9 +172,9 @@ X 不是固定盘符，它代表你电脑上“文档”文件夹所在的盘。
 
 <picture><img src="https://raw.githubusercontent.com/Yunxei/jingxia/main/assets/detail-download.svg" width="18" height="18" alt="" /></picture> **下载**
 
-**Panoptes 1.7**
+**Panoptes 1.8**
 
-[![DOWNLOAD](assets/download.svg)](https://github.com/Yunxei/jingxia/releases/download/panoptes-v1.7/Panoptes-1.7.zip)&nbsp;&nbsp;[![蓝奏云下载](assets/download-lanzou.svg)](https://wwaxb.lanzouc.com/iGL2q4dl281a)（提取码：8888）
+[![DOWNLOAD](assets/download.svg)](https://github.com/Yunxei/jingxia/releases/download/panoptes-v1.8/Panoptes-1.8.zip)&nbsp;&nbsp;[![蓝奏云下载](assets/download-lanzou.svg)](https://wwaxb.lanzouc.com/ibmOJ4dx0ade)（提取码：8888）
 
 <picture><img src="https://raw.githubusercontent.com/Yunxei/jingxia/main/assets/detail-dependency.svg" width="18" height="18" alt="" /></picture> **前置插件**
 
@@ -183,6 +184,15 @@ X 不是固定盘符，它代表你电脑上“文档”文件夹所在的盘。
 
 <picture><img src="https://raw.githubusercontent.com/Yunxei/jingxia/main/assets/detail-history.svg" width="18" height="18" alt="" /></picture> **更新记录**
 
+`1.8`
+
+- 新增自身双抗显示，支持颜色、字号、位置调整及拖动预览。
+- 支持跟随人物或固定位置，加入平滑跟随。
+- 修复状态图标消失前短暂闪现绿／红底框的问题。
+
+<details>
+<summary>历史版本</summary>
+
 `1.7`
 
 - 新增死亡回顾，支持伤害记录、他人施加的减益及显示设置。
@@ -190,9 +200,6 @@ X 不是固定盘符，它代表你电脑上“文档”文件夹所在的盘。
 - 优化自身图标跟随，减少移动抖动。
 - 修复切换目标时短暂残留上一目标信息的问题。
 - 补充非全身套装的甲类型状态识别。
-
-<details>
-<summary>历史版本</summary>
 
 `1.6`
 
